@@ -29,7 +29,7 @@
 ## FUNDING
 ### grants + travel awards
 - [ÖFG "International Communication" program](https://www.oefg.at/funding/international-communication/)
-  - what is funded: research stays ≤ 3mo • conference attendance/presentation • organizing symposia in Austria • **not** schools or courses
+  - what is funded: research stays ≤ 3 mo • conference attendance/presentation • organizing symposia in Austria • **not** schools or courses
   - funding level: ?
   - application requirements: budget • cv • list of publications • letter of recommendation from senior/habilitated researcher • justification/purpose of research visit or conference abstract • acceptance by host institution or conference
   - deadline: approx. Jan, Mar, Jun, Sep, Oct
@@ -40,7 +40,12 @@
   - application requirements:
   - deadline:
   - themes:
-- []()  
+- [ÖAW Max Kade Foundation New York](https://stipendien.oeaw.ac.at/stipendien/max-kade)
+  - what is funded: research stays in the USA ≤ 12 mo for Austrian citizens or people who have spent 3 of past 10 years in Austria
+  - funding level: 56.500 USD
+  - application requirements: 
+  - deadline: 1 Sep
+  - themes: any research area  
 ### university sources
 --- 
 ## PROCESS
