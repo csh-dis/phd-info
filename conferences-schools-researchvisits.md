@@ -34,19 +34,16 @@
   - application requirements: budget • cv • list of publications • letter of recommendation from senior/habilitated researcher • justification/purpose of research visit or conference abstract • acceptance by host institution or conference
   - deadline: approx. Jan, Mar, Jun, Sep, Oct
   - themes: any research area
-- [Erasmus]()
-  - what is funded:
-  - funding level:
-  - application requirements:
-  - deadline:
-  - themes:
-- [ÖAW Max Kade Foundation New York](https://stipendien.oeaw.ac.at/stipendien/max-kade)
-  - what is funded: research stays in the USA ≤ 12 mo for Austrian citizens or people who have spent 3 of past 10 years in Austria
-  - funding level: 56.500 USD
-  - application requirements: 
-  - deadline: 1 Sep
-  - themes: any research area  
+- []()
+- []()
 ### university sources
+- [Erasmus]()
+  - who is funded: **
+  - what is funded: *2-12 months*
+  - funding level: *80% costs?*
+  - application requirements:
+  - deadline: *Feb*
+  - themes: *open*
 --- 
 ## PROCESS
 ### mentor approval
