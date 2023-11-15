@@ -1,3 +1,10 @@
+## COMMUNICATION OUTLETS
+- visualizations
+- opinion pieces
+- policy briefs
+- CSH blogs
+- training resources
+
 ## MENTORING
 - CSH internship program
   - description:
@@ -6,13 +13,7 @@
   - contact:
 - training resources
 
-## COMMUNICATION OUTLETS
-- visualizations
-- opinion pieces
-- policy briefs
-- CSH blogs
-- training resources
-  
+
 ## OUTREACH
 - general public
 - kinder
