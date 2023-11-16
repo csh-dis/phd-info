@@ -4,13 +4,12 @@
 
 ----
 ## CEU • network science
-**required courses indicated with \***
-### Core Courses
-- Fundamental of network science \*
-- Social networks \*
-- Data mining and big data analysis \*
-- Structure and dynamics of complex networks \*
-- Academic professionalization \*
+### Mandatory Courses
+- Fundamental of network science
+- Social networks
+- Data mining and big data analysis
+- Structure and dynamics of complex networks
+- Academic professionalization
 ### Mandatory-Elective Courses \[ \]
 - Statistical methods in network science and data management
 - Academic writing for network science PhD students
@@ -25,9 +24,21 @@
 ### Elective Courses \[ \]
 
 ---
-## Donau Uni Krems • 
-*more info coming soon*
-**required courses indicated with \***
+## Donau Uni Krems • technology, innovation & cohesive societies
+### Required Courses
+- science communication
+- research design and research literacy
+- systems theory and socio-technical change
+- socio-technical innovation for cohesive societies
+- computational social science
+- doctrinal legal research and case-based methods
+### Elective Courses
+- research methods (mixed methods)
+- special topics in policy-making
+- scientific career building
+- advanced quantitative research methods
+- advanced qualitative research methods
+- technology, transnational movements and the nation state
 
 ---
 ## MedUniWien • medical informatics, biostatistics & complex systems
