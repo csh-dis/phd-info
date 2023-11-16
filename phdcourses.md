@@ -3,6 +3,28 @@
 **required courses indicated with \***
 
 ----
+## CEU • network science
+**required courses indicated with \***
+### Core Courses
+- Fundamental of network science \*
+- Social networks \*
+- Data mining and big data analysis \*
+- Structure and dynamics of complex networks \*
+- Academic professionalization \*
+### Mandatory-Elective Courses \[ \]
+- Statistical methods in network science and data management
+- Academic writing for network science PhD students
+- Introduction to computational social science
+- Data and netowrk visualization
+- Agent based models
+- Data science for the sustainable development goals
+- Diving in the Digital Public Space: From individual (behavioral) digital traces to collective social and political dynamics
+- Machine learning for natural language processing
+- Network inference and reconstruction
+- Scientific Python
+### Elective Courses \[ \]
+
+---
 ## Donau Uni Krems • 
 *more info coming soon*
 **required courses indicated with \***
