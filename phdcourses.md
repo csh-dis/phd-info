@@ -1,16 +1,34 @@
-## BOKU • transitions to sustainability
-*more info coming soon*
-**required courses indicated with \***
+----
+### BOKU • transitions to sustainability
+REQUIRED COURSEWORK ECTS : **30**
+#### Mandatory Courses \[ 18 ECTS \]
+- Principles & challenges of research in socio-economics, natural resources & life sciences
+- Doctoral Seminar I-IV
+- Journal Club I-II
+- Theory & principles of inter- & transdisciplinary research
+- Methods of knowledge integration in inter- & transdisciplinary research
+#### Elective Courses : Transferable Skills \[ req 6 ECTS @ x each\]
+- ?
+#### Elective Courses : Scientific Courses \[ req 6 ECTS from BOKU or other university \]
+- Biodiversity crisis \- climate crisis
+- Computer simulation in energy & resource economics
+- Current selected fields of social ecology
+- Introduction to statistical learning with R
+- Advanced natural resource economics
+- Banking & credit systems
+- Agricultural law
+- \...and more\...
 
 ----
-## CEU • network science
-### Mandatory Courses
+### CEU • network science
+REQUIRED COURSEWORK ECTS : ___
+#### Mandatory Courses
 - Fundamental of network science
 - Social networks
 - Data mining and big data analysis
 - Structure and dynamics of complex networks
 - Academic professionalization
-### Mandatory-Elective Courses \[ \]
+#### Mandatory-Elective Courses \[ \]
 - Statistical methods in network science and data management
 - Academic writing for network science PhD students
 - Introduction to computational social science
@@ -21,18 +39,19 @@
 - Machine learning for natural language processing
 - Network inference and reconstruction
 - Scientific Python
-### Elective Courses \[ \]
+#### Elective Courses \[ \]
 
 ---
-## Donau Uni Krems • technology, innovation & cohesive societies
-### Required Courses
+### Donau Uni Krems • technology, innovation & cohesive societies
+REQUIRED COURSEWORK ECTS : **30**
+#### Required Courses
 - science communication
 - research design and research literacy
 - systems theory and socio-technical change
 - socio-technical innovation for cohesive societies
 - computational social science
 - doctrinal legal research and case-based methods
-### Elective Courses
+#### Elective Courses \[ \]
 - research methods (mixed methods)
 - special topics in policy-making
 - scientific career building
@@ -41,12 +60,14 @@
 - technology, transnational movements and the nation state
 
 ---
-## MedUniWien • medical informatics, biostatistics & complex systems
-*uses semester weeks (SWS) where 1 SWS ~ 1-1.5 ECTS*
+### MedUniWien • medical informatics, biostatistics & complex systems
+REQUIRED COURSEWORK SWS : **25**
+
+*uses semester weeks (SWS) where 1 SWS ~ 1.5 ECTS*
 
 **required courses indicated with \***
 
-### Propedeutics \[6 @ 1 SWS each\]
+#### Propedeutics \[6 @ 1 SWS each\]
 - ethics in medicine & good scientific practice \*
 - intellectual property rights & project management \*
 - molecular biology & biochemistry
@@ -54,9 +75,11 @@
 - guide to scientific writing
 - data literacy for aspiring life scientists
 - scientific software & databases
+
 possibly:
-- 
-### Basic Courses \[ \]
+- (others)
+
+#### Basic Courses \[ \]
 - mathematical basics & key algorithms
 - advanced statisticsal procedures and theoretical concepts
 - statistical methods in medical research
@@ -64,20 +87,21 @@ possibly:
 - information systems, eHealth and decision support
 - image and singal analysis, modeling, simulation and bioinformatics
 - complex systems and artificial intelligence
-### Thesis Seminars \[4 @ 2 SWS each\]
+#### Thesis Seminars \[4 @ 2 SWS each\]
 - bioinformatics, biosimulation and complex systems
 - medical informaiton management and decision support in clinical settings
 - computer vision
 - prognosis research
 - statistical issues in platform trials
 - artificial intelligence
-### Journal Club \[6 @ 1 SWS each\]
+#### Journal Club \[6 @ 1 SWS each\]
 
 ---
-## TU Wien • informatics
+### TU Wien • informatics
+REQUIRED COURSEWORK ECTS : **18**
 
 **required courses indicated with \***
-### Fundamental Courses \[req 6 ECTS points\]
+#### Fundamental Courses \[req 6 ECTS points\]
 - philosophy of science
 - innovation
 - research methods in computer science
@@ -85,7 +109,7 @@ possibly:
 - research and career planning for doctoral students
 - being a researcher
 - from surviving to thriving: crafting your good professional life
-### Area Courses \[req 12 ECTS points\]
+#### Area Courses \[req 12 ECTS points\]
 - PhD primary area computer engineering intro
 - foundations of data and knowledge systems
 - introduction to media informatics and visual computing
@@ -120,32 +144,36 @@ possibly:
 - data warehousing and business intelligence
 - \...and more\...
 ---
-## TU Wien • physics
+### TU Wien • physics
+REQUIRED COURSEWORK ECTS : ___
+
 *more info coming soon*
 
+---
+### TU Graz • computer science
+REQUIRED COURSEWORK ECTS : **15**
+
 **required courses indicated with \***
 
 ---
-## TU Graz • computer science ->  
-
-**required courses indicated with \***
-
----
-## vetmed
+### vetmed
+REQUIRED COURSEWORK ECTS : **15**
 
 **no required courses**
+#### \[ ECTS points from a university \]
 
 ---
-## Wirtschafts Uni • finance
+### Wirtschafts Uni • finance 
+REQUIRED COURSEWORK ECTS : ___
 
 **required courses indicated with \***
-### Core Courses
+#### Core Courses
 - quantitative methods
 - financial econometrics
 - corporate finance
 - asset pricing
 - continuous time finance
-### Elective Courses
+#### Elective Courses
 - advanced time series and financial econometrics
 - advanced asset pricing
 - advanced corporate finance
@@ -160,7 +188,9 @@ possibly:
 - market microstructure
 
 ---
-## Uni Wien • physics
+### Uni Wien • physics
+REQUIRED COURSEWORK ECTS : ___
+
 *more info coming soon*
 
 ---
