@@ -6,8 +6,9 @@
 ---
 ## CONFERENCES + SCHOOLS ✏️
 ### general conferences
-- [APS](https://march.aps.org/) • 2024: 3 - 8 Mar in Minneapolis USA
-- [NetSci](https://netsci2024.com/en) • 2024: 16 - 21 Jun in Quebec CAN
+- [NetSciX](https://netscix2024.netscisociety.org/) • 22-25 Jan in Venice IT
+- [APS](https://march.aps.org/) • 2024: 3 - 8 Mar in Minneapolis US
+- [NetSci](https://netsci2024.com/en) • 2024: 16 - 21 Jun in Quebec CA
 - [CCS](https://cssociety.org/events) • 2024: ?
 - [IC2S2](https://iscss.org/ic2s2/conference/) • 2024: ?
 ### workshops
