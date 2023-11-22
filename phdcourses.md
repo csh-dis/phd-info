@@ -7,7 +7,7 @@ REQUIRED COURSEWORK ECTS : **30**
 - Journal Club I-II
 - Theory & principles of inter- & transdisciplinary research
 - Methods of knowledge integration in inter- & transdisciplinary research
-#### Elective Courses : Transferable Skills \[ req 6 ECTS @ x each\]
+#### Elective Courses : Transferable Skills \[ req 6 ECTS \]
 - ?
 #### Elective Courses : Scientific Courses \[ req 6 ECTS from BOKU or other university \]
 - Biodiversity crisis \- climate crisis
@@ -44,7 +44,7 @@ REQUIRED COURSEWORK ECTS : ___
 ---
 ### Donau Uni Krems • technology, innovation & cohesive societies
 REQUIRED COURSEWORK ECTS : **30**
-#### Required Courses
+#### Required Courses \[ \]
 - science communication
 - research design and research literacy
 - systems theory and socio-technical change
@@ -61,7 +61,7 @@ REQUIRED COURSEWORK ECTS : **30**
 
 ---
 ### MedUniWien • medical informatics, biostatistics & complex systems
-REQUIRED COURSEWORK SWS : **25**
+REQUIRED COURSEWORK SWS : **24**
 
 *uses semester weeks (SWS) where 1 SWS ~ 1.5 ECTS*
 
@@ -79,7 +79,7 @@ REQUIRED COURSEWORK SWS : **25**
 possibly:
 - (others)
 
-#### Basic Courses \[ \]
+#### Basic Courses \[4 @ 1 SWS each\]
 - mathematical basics & key algorithms
 - advanced statisticsal procedures and theoretical concepts
 - statistical methods in medical research
