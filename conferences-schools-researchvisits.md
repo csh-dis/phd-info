@@ -1,7 +1,20 @@
 ## RESEARCH VISITS 
 ### collaborations
-
+- DE+GE [Joint Rustaveli-DAAD-fellowship programme](daad.de/go/en/stipa57379863)
+- 
 ### visiting researcher programs
+**paid programs**
+– DE [Helmholtz Information & Data Science Academy](https://euraxess.ec.europa.eu/worldwide/lac/visiting-researcher-grant-phd-students-and-postdocs-germany-helmholtz-information-0)
+- US [Fulbright Foreign Student Program](https://foreign.fulbrightonline.org/host-institutions/foreign-student-program/visiting-student-researchers)
+**academic stays**
+- CA [Perimeter Institute Visiting Scientists](https://perimeterinstitute.ca/visiting-students)
+- UK [Oxford International Visiting Researchers](https://www.ox.ac.uk/research/engage-with-us/international-visiting-researchers)
+- [LSE Visiting Research Student in Social Policy](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2024/VRS-Social-Policy)
+- UK [UCL Science & Technology Studies visiting doctoral student program](https://www.ucl.ac.uk/sts/study-here/phd-programme/visiting-doctoral-student-programme)
+- US [Princeton Visiting Student Research Collaborators](https://gradschool.princeton.edu/admission-onboarding/nondegree-programs/research-collaborators/visiting-student-research)
+- US [UCLA Visiting Graduate Researchers](https://grad.ucla.edu/academics/research/visiting-graduate-researchers/)
+- US [Harvard Visiting Students Program](https://gsas.harvard.edu/apply/visiting-students-program)
+- \...and many more
 
 ---
 ## CONFERENCES + SCHOOLS ✏️
@@ -28,15 +41,36 @@
 - []()
 ---
 ## FUNDING
+*see also **RESEARCH VISITS** above*
 ### grants + travel awards
 - [ÖFG "International Communication" program](https://www.oefg.at/funding/international-communication/)
   - what is funded: research stays ≤ 3 mo • conference attendance/presentation • organizing symposia in Austria • **not** schools or courses
+  - who is funded: 
   - funding level: ?
   - application requirements: budget • cv • list of publications • letter of recommendation from senior/habilitated researcher • justification/purpose of research visit or conference abstract • acceptance by host institution or conference
   - deadline: approx. Jan, Mar, Jun, Sep, Oct
   - themes: any research area
-- []()
-- []()
+- [Marrietta Blau Grant](https://oead.at/en/outgoing/higher-education/scholarships-for-studying-abroad/marietta-blau-grant/)
+  - what is funded: 6-12 mo research stays outside of AT
+  - who is funded: PhD students studying at an AT uni
+  - funding level: ≤ EUR 1660 per month; no travel costs allowed
+  - application requirements: 
+  - deadline: Feb 1, Sep 1
+  - themes: any research area
+- [Central European Exchange Programme for University Studies](https://www.ceepus.info/content/apply)
+  - what is funded:
+  - who is funed:
+  - funding level:
+  - applicatin requirements:
+  - deadline:
+  - themes:
+- [MEXT](https://www.at.emb-japan.go.jp/itpr_de/71_kenkyu.html)
+  - what is funded: research stay in JP
+  - who is funded: Austrian citizens • PhD students who have studied outside of JP
+  - funding level:
+  - application requirements:
+  - deadline:
+  - themes: any research area (sciences)
 ### university sources
 - [Erasmus]()
   - who is funded: **
