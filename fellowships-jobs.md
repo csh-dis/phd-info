@@ -1,7 +1,7 @@
 ### doctoral fellowships
 - [ÖAW DOC]()
   - who is funded: **
-  - what is funded: *24-30-36 mo*
+  - what is funded: *24-30-36 mo doctoral research*
   - funding level: *46.759 EUR*
   - application requirements: **
   - deadline: *5 Oct*
@@ -18,8 +18,20 @@
   - application requirements: **
   - deadline: **
   - themes: *social science +*
-- FFG industry-proximal dissertation
-- l'oreal austria
+- [FFG industry-proximal dissertation]()
+  - who is funded: **
+  - what is funded: **
+  - funding level: **
+  - application requirements: **
+  - deadline: **
+  - themes: **
+- [l'oreal austria]()
+  - who is funded: **
+  - what is funded: **
+  - funding level: **
+  - application requirements: **
+  - deadline: **
+  - themes: **
 ---
 ### doctoral->postdoc transition fellowships
 - [ÖAW POST-DOCTRACK](https://stipendien.oeaw.ac.at/stipendien/post-doctrack)
@@ -31,6 +43,13 @@
   - themes: *humanities, culture, social science*
 ---
 ### postdoc fellowships
+- [Humboldt Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship)
+  - who is funded: *published early-career researchers; ≤4 years postdoc; !DE*
+  - what is funded: *research stays in DE 6-24 mo*
+  - funding level: *2670 EUR per month + travel, etc*
+  - application requirements: cv • publications • commitment from DE host institution • two recommendation letters*
+  - deadline: *rolling application; decisions made Mar+Jul+Nov*
+  - themes: *open* 
 - [ÖAW APART-GSK](https://stipendien.oeaw.ac.at/en/fellowships/apart-gsk/apart-gsk-application)
   - who is funded: *scholars who recieved their doctoral degree ≤ 3 years ago*
   - what is funded: *postdoctoral research at an AT univeristy (some time can be spent outside of AT)*
@@ -45,6 +64,14 @@
   - application requirements: *online application form • cv • publication list • letter of motivation • commitment from AT employer/uni • invitation from US host institute • necessary research approvals (e.g. human subjects) • three recommendation letters • research project abstract • research project proposal*
   - deadline: *1 Sep*
   - themes: *open*
+- [The Royal Society Career Development Fellowship](https://royalsociety.org/grants-schemes-awards/grants/career-development-fellowship/)
+  - who is funded: *researchers from Black or Mixed Black African, Black Caribbean or other Black heritage backgrounds; less than 24 months of postdoctoral training when starting the program*
+  - what is funded: *postdoctoral research in the UK*
+  - funding level: *£690,000 over four years*
+  - application requirements: *personal details • career summary • research proposal • financial details • necessary research approvals • two letters of recommendation (incl. head of dept)*
+  - deadline: *24 Jan 2024*
+  - themes: *natural sciences / STEM*
+
 ---
 ### postdoc->faculty transition fellowships
 - EU Horizon MSCA Postdoc
@@ -60,10 +87,12 @@
   - deadline:
   - themes:
 ---
+<!--
 ### postdoc jobs
 
 ---
 ### faculty jobs
 ---
 --
-tech jobs
+### tech jobs
+--!>
