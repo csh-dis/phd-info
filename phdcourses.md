@@ -226,16 +226,27 @@ REQUIRED COURSEWORK ECTS : **15**   \[~ 5 courses\]
 
 ---
 ### Wirtschafts Uni • economic & social sciences 
-REQUIRED COURSEWORK ECTS : **72** of which 42 must be taken at WU   \[~ 13 courses\]
-#### Required Courses \[≥18 ECTS @ 6 each\]
-- Academic writing
-- Research methods
-- Methodology & theory
-#### Required Seminars
-- Interdisciplinary research seminar \[≥6 ECTS @ 6 each\]
-- Research seminar: participating in scientific discourse \[≥12 ECTS @ 6 each\]
-#### Electives \[6 ECTS @ 3 each\]
-- *must be university courses outside of WU*
+REQUIRED COURSEWORK ECTS : **72**   \[~ 13 courses\]
+#### Compulsory Modules \[36 ECTS @ 6 each\]
+- Mathematics
+- Statistics
+- Topics in econometrics
+- Research seminar microeconomics
+- Research seminar macroeconomics
+- Internal/external research seminar
+#### WU Electives \[30 ECTS @ 6 each\]
+- Topics in game theory
+- Topics in microeconometrics
+- Topics in macroeconometrics
+- Topics in industrial organization
+- Topics in labor economics
+- Topics in trade
+- Topics in international macroeconomics
+- Topics in public economics
+- Topics in inequality
+- Topics in behavioral economics
+#### External Electives \[6 ECTS @ 3 each\]
+*must be related to the dissertation topic; from any university*
 
 ---
 ### Uni Wien • mathematics
