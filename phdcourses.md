@@ -117,7 +117,7 @@ REQUIRED COURSEWORK SWS : **24**   \[~ 14 courses\]
 #### Journal Club \[6 @ 1 SWS each\]
 
 ---
-### TU Wien • informatics
+### TU Wien • computer science / informatics
 REQUIRED COURSEWORK ECTS : **18**   \[~ 6 courses\]
 
 **required courses indicated with \***
@@ -173,7 +173,7 @@ REQUIRED COURSEWORK ECTS : **18**
 *more info to come*
 
 ---
-### TU Graz • computer science
+### TU Graz • computer science / informatics
 REQUIRED COURSEWORK ECTS : **15**   \[~ 8 courses\]
 
 *uses semester hours (SSt) where 1 SSt ~ 1.5 ECTS*
