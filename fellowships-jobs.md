@@ -1,4 +1,6 @@
-
+<!--
+fellowship opportunities at different career stages
+-->
 ### doctoral fellowships
 - [ÖAW DOC](https://stipendien.oeaw.ac.at/stipendien/doc)
   - who is funded: *doctoral students at AT uni; masters ≤2 years prior*
