@@ -22,9 +22,9 @@
   - who is funded: ***for 2023***  *female doctoral students; ≤2 applications per organization*
   - what is funded: *max of 50% total costs for 24-36 mo; direct costs in support of student*
   - funding level: *≤110.000 EUR for the project*
-  - application requirements: *student + advisor cv + publications • project description • uni commitment • host organization financial docs*
-  - deadline: *rolling basis; extended to end Feb 2024*
-  - themes: *for 2023: energy transition, mobility transition or circular economy*
+  - application requirements: *student + advisor cvs + publications • project description • uni commitment • host organization financial docs*
+  - deadline: *rolling basis Feb-Nov; extended to Feb 2024*
+  - themes: ***for 2023:*** *energy transition, mobility transition or circular economy*
 - [L'OREAL austria - PhD](https://stipendien.oeaw.ac.at/en/fellowships/loreal-austria)
   - who is funded: *female doctoral students; AT citizens or in AT ≥3 years; ≤3 years of PhD*
   - what is funded: *8-12 mo research project in AT*
@@ -38,7 +38,7 @@
   - funding level: *1450 EUR per mo \(and more\)*
   - application requirements: ***in German***  *cv • uni justification • two recommendations • uni commitment • research abstract • research project exposé*
   - deadline: *15 Jan 2024 • 17 Jul 2024*
-  - themes: *potential & interest to convert research projects/products to market*
+  - themes: *interest to commercialize research projects/products; entreprenuership; start-ups*
 - [Ernst Mach Grants – ASEA-UNINET](https://asea-uninet.org/scholarships-grants/ernst-mach-grant-emg/)
   - who is funded: *doctoral students from ID, MY, TH, PH, VN; PhD in AT; < 35 years*
   - what is funded: *36 mo stipend + travel + housing allowance*
@@ -50,7 +50,7 @@
 ### doctoral » postdoc transition fellowships
 - [ÖAW POST-DOCTRACK](https://stipendien.oeaw.ac.at/stipendien/post-doctrack)
   - who is funded: *doctoral students; will recieve their doctoral degree from an AT university within the next 6 months*
-  - what is funded: *finishing publications from the PhD; postdoctoral research*
+  - what is funded: *finish publications from PhD; postdoctoral research*
   - funding level: *46.759 EUR*
   - application requirements: 
   - deadline: *15 May + 15 Nov*
@@ -58,11 +58,12 @@
 ---
 ### postdoc fellowships
 - [FWF ESPRIT](https://www.fwf.ac.at/foerdern/foerderportfolio/karrieren/esprit)
-  - who is funded:
-  - funding level:
-  - application requirements:
-  - deadline:
-  - themes:
+  - who is funded: *postdocs; female postdocs; ≤ 5 years since PhD*
+  - what is funded: *36 mo salary + research budget; research at AT institution*
+  - funding level: *salary: 84.430 EUR per year; project: 45.000-75.000 EUR*
+  - application requirements: *online form • cv • publication list • mentoring plan • research project proposal • collaboration agreements*
+  - deadline: *rolling deadline*
+  - themes: *open*
 - [Humboldt Research Fellowship](https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship)
   - who is funded: *published early-career researchers; ≤4 years postdoc; !DE*
   - what is funded: *6-24 mo research stays in DE*
@@ -71,30 +72,30 @@
   - deadline: *rolling application; decisions made Mar+Jul+Nov*
   - themes: *open* 
 - [L'OREAL austria - postdoc](https://stipendien.oeaw.ac.at/en/fellowships/loreal-austria)
-  - who is funded: *female postdocs; AT citizens or in AT ≥3 years; doctoral degree ≤4 years ago*
+  - who is funded: *female postdocs; AT citizens or in AT ≥3 years; ≤4 years since PhD*
   - what is funded: *6-8 mo research project in AT*
   - funding level: *25.000 EUR*
   - application requirements: *online form • cv • publications • commitment of host institution • research approvals • research abstract • research project exposé • recommendation from advisor*
   - deadline: *1 Feb 2024*
   - themes: *medicine, the natural sciences or mathematics*
 - [ÖAW APART-GSK](https://stipendien.oeaw.ac.at/en/fellowships/apart-gsk/apart-gsk-application)
-  - who is funded: *postdocs; doctoral degree ≤3 years ago*
+  - who is funded: *postdocs; ≤3 years since PhD*
   - what is funded: *research at AT univeristy (some time can be spent outside of AT)*
   - funding level: *82.390 EUR*
   - application requirements: *online form • cv • 5 most important publications • letter of motivation • commitment from AT employer/uni • invitation from host institute (if applicable) * research approvals • research project abstract • research project description*
   - deadline: *25 Mar 2024*
   - themes: *humanities, culture, social science*
 - [ÖAW Max Kade Foundation New York](https://stipendien.oeaw.ac.at/stipendien/max-kade)
-  - who is funded: *scholars who recieved their doctoral degree ≤ 10 years ago; AUT citizens or people who have spent 3 of past 10 years in AT*
+  - who is funded: *scholars; ≤10 years since PhD; AT citizens or 3 of past 10 years in AT*
   - what is funded: *research stays in the US ≤ 12 mo*
   - funding level: *56.500 USD*
   - application requirements: *online application form • cv • publication list • letter of motivation • commitment from AT employer/uni • invitation from US host institute • necessary research approvals (e.g. human subjects) • three recommendation letters • research project abstract • research project proposal*
   - deadline: *1 Sep*
   - themes: *open*
 - [The Royal Society Career Development Fellowship](https://royalsociety.org/grants-schemes-awards/grants/career-development-fellowship/)
-  - who is funded: *researchers from Black or Mixed Black African, Black Caribbean or other Black heritage backgrounds; less than 24 months of postdoctoral training when starting the program*
-  - what is funded: *postdoctoral research in the UK*
-  - funding level: *690.000 GBP over four years*
+  - who is funded: *researchers from Black or Mixed Black African, Black Caribbean or other Black heritage backgrounds; <24 mo postdoc at start of fellowship*
+  - what is funded: *research in the UK*
+  - funding level: *690.000 GBP over 4 years*
   - application requirements: *personal details • career summary • research proposal • financial details • necessary research approvals • two letters of recommendation (incl. head of dept)*
   - deadline: *24 Jan 2024*
   - themes: *natural sciences / STEM*
