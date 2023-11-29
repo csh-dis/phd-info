@@ -1,4 +1,5 @@
-<!-- contacts, requirements, enrollment instructions 
+<!-- 
+contacts, requirements, enrollment instructions 
 timeline
 enrollment requirement
 enrollment process
@@ -13,19 +14,19 @@ dissertation format
 curriculum
 -->
 #### definitions and translations
-**advisor / supervisor** : these terms may be used interchangeably to denote the faculty member who is directly guiding your thesis research and shares responsibility for your professional development as a researcher; at CSH the preferred word is **advisor**
-**mentor** : at CSH, this term is most often used to refer to your advisor; in other programs \(e.g. TU Graz\) the term denotes another person \(i.e. not your advisor\) whom you consult for professional development purposes or advice, esp. if your career interests lie outside of academia
-**Betreuer** : a habilitated faculty member at a university who can officially supervise a doctoral thesis
-**director of studies / Studienleiter** : relevant to this context, a faculty member at a university who can decide what counts toward degree requirements and approves that you have met the requirements for the degree
-**thesis proposal / Exposé** :
-**qualifying exam / thesis proposal defense** :
-**educational agreement** : 
-**thesis \(advisory\) committee** :
-**thesis / dissertation** : these words usually refer to the same thing, which is the written document that describes your  research and places this in the broader context of your field or discipline and makes clear what new knowledge your work has contributed as well as what future directions the inquiry might take; the dissertation should be an original work unless explicitly allowed otherwise  *\(NOTE: the **thesis** can be more precisely defined as the intellectual arguments rather than the document per se – but these meanings are generally referenced interchangeably.\)*
-**cummulative dissertation / Manteldissertation** : a dissertation that incorporates publications or manuscripts directly \(i.e. the dissertation is not "original" in the strictest sense\) but still provides an original introduction and conclusion that places the research in context and outlines its contributions and future directions
-**thesis / dissertation evaluation / review** : 
-**defense / Rigorosum** : a public presentation of the concluded thesis research and defense of the arguments therein to a committee of experts who will make a recommendation as to whether the doctoral degree should be conferred
-**Habilitation / modus xxx** :
+- **advisor / supervisor** : these terms may be used interchangeably to denote the faculty member who is directly guiding your thesis research and shares responsibility for your professional development as a researcher; at CSH the preferred word is **advisor**
+- **mentor** : at CSH, this term is most often used to refer to your advisor; in other programs \(e.g. TU Graz\) the term denotes another person \(i.e. not your advisor\) whom you consult for professional development purposes or advice, esp. if your career interests lie outside of academia
+- **Betreuer** : a habilitated faculty member at a university who can officially supervise a doctoral thesis
+- **director of studies / Studienleiter** : a faculty member at a university who can decide what counts toward degree requirements and approves that you have met the requirements for the degree
+- **thesis proposal / Exposé** :
+- **qualifying exam / thesis proposal defense** :
+- **educational agreement** : 
+- **thesis \(advisory\) committee** :
+- **thesis / dissertation** : these words usually refer to the same thing, which is the written document that describes your  research and places this in the broader context of your field or discipline and makes clear what new knowledge your work has contributed as well as what future directions the inquiry might take; the dissertation should be an original work unless explicitly allowed otherwise  *\(NOTE: the **thesis** can be more precisely defined as the intellectual arguments rather than the document per se – but these meanings are generally referenced interchangeably.\)*
+- **cummulative dissertation / Manteldissertation** : a dissertation that incorporates publications or manuscripts directly \(i.e. the dissertation is not "original" in the strictest sense\) but still provides an original introduction and conclusion that places the research in context and outlines its contributions and future directions
+- **thesis / dissertation evaluation / review** : 
+- **defense / Rigorosum** : a public presentation of the concluded thesis research and defense of the arguments therein to a committee of experts who will make a recommendation as to whether the doctoral degree should be conferred
+- **habilitated faculty / professor modus xxx** :
 
 ---
 
@@ -164,10 +165,8 @@ documents:
 *more info to come*
 
 ---
-
----
 ## Uni Wien • physics
 *more info to come*
 
 ---
-#### Please send corrections or requests to Carrie -or- make a pull request
+#### :bee: Please send corrections or requests to Carrie -or- :robot: make a pull request
