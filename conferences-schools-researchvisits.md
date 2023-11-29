@@ -134,4 +134,4 @@
 ### visas & residency requirements
 ### salary
 -->
-#### :bee: Please send corrections or requests to Carrie -or- :robot: make a pull request
+#### :bee: Please send corrections or requests to Carrie -or- :robot: create a pull request
