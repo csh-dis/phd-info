@@ -1,44 +1,43 @@
+##### 🚧  under construction  🚧
+---
 ## RESEARCH VISITS 
-### collaborations
-- DE+GE [Joint Rustaveli-DAAD-fellowship programme](daad.de/go/en/stipa57379863)
-  - who is funded:
-  - what is funded:
-  - funding level:
-  - application requirements:
-  - deadline:
-  - themes: 
+### visiting researcher programs
 - !AT [Marrietta Blau Grant](https://oead.at/en/outgoing/higher-education/scholarships-for-studying-abroad/marietta-blau-grant/)
   - who is funded: *doctoral students studying at an AT uni*
   - what is funded: *6-12 mo research stays outside of AT*
   - funding level: *≤1660 EUR per mo; no travel costs*
-  - application requirements: 
+  - application requirements: *online form • invitation/commitment letters • exposé • dissertation abstract • letter of recommendation from advisor • research approvals*
   - deadline: *Feb 1, Sep 1*
   - themes: *open*
-- JP [MEXT](https://www.at.emb-japan.go.jp/itpr_de/71_kenkyu.html)
-  - who is funded: *AT citizens • doctoral students who studied !JP*
-  - what is funded: *research stay in JP*
-  - funding level:
-  - application requirements:
-  - deadline:
+- JP [MEXT](https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html)
+  - who is funded: *doctoral students who have not studied in JP • interest in Japan + learning Japanese*
+  - what is funded: *research stay + grad coursework in JP*
+  - funding level: *145.000 JPY per mo + travel, etc*
+  - application requirements: ***apply through JP embassy** forms • research plan • transcripts • health certificate • recommendation letters • dissertation abstract*
+  - deadline: *~ Apr 2024*
   - themes: *open*
-- *see also **FUNDING** below*
-### visiting researcher programs
-**paid programs**
-
 - DE [Helmholtz Information & Data Science Academy](https://euraxess.ec.europa.eu/worldwide/lac/visiting-researcher-grant-phd-students-and-postdocs-germany-helmholtz-information-0)
-  - who is funded:
-  - what is funded:
-  - funding level:
-  - application requirements:
-  - deadline:
-  - themes:
-- US [Fulbright Foreign Student Program](https://foreign.fulbrightonline.org/host-institutions/foreign-student-program/visiting-student-researchers)
-  - who is funded:
-  - what is funded:
-  - funding level:
-  - application requirements:
-  - deadline:
-  - themes: 
+  - who is funded: *doctoral students*
+  - what is funded: *1-3 mo research stay at a Helmholtz center*
+  - funding level: *2860 EUR per mo + allowances*
+  - application requirements: *form • cv • research proposal • host supervisor*
+  - deadline: *October \(program not currently active\)*
+  - themes: *energy • earth & environment • health • aeronautics, space & transport • matter • information*
+- US [Fulbright Foreign Student Program](https://www.fulbrightschuman.eu/grants-eu-citizens/pre-doctoral-research/)
+  - who is funded: *doctoral students; EU citizens; exp in 2+ EU countries*
+  - what is funded: *4-9 mo research visit at US uni*
+  - funding level: *≤2000 EUR per mo + travel*
+  - application requirements: *cv • transcripts • personal statement • research objectives • writing sample • three recommendation letters • host institution acceptance*
+  - deadline: *1 Dec*
+  - themes: *open*
+- AL•BA•BG•CZ•HR•HU•MD•ME•MK•PL•RO•RS•SK•SI•XK [Central European Exchange Programme for University Studies\(CEEPUS\)](https://www.ceepus.info/content/apply)
+  - who is funded: *students enrolled in CEEPUS uni \(all usual CSH partners are members\)* 
+  - what is funed: *3-10 research stay at another CEEPUS uni*
+  - funding level: *country-dependent*
+  - applicatin requirements: *[online app](https://www.ceepus.info/signin)*
+  - deadline: *15 Jun, 31 Oct*
+  - themes: *[network](https://www.ceepus.info/content/find)-dependent*
+- *see also **FUNDING** below*
 
 **academic stays**
 - CA [Perimeter Institute Visiting Scientists](https://perimeterinstitute.ca/visiting-students)
@@ -88,13 +87,6 @@
   - application requirements: *budget • cv • list of publications • letter of recommendation from senior/habilitated researcher • justification/purpose of research visit or conference abstract • acceptance by host institution or conference*
   - deadline: *approx. Jan, Mar, Jun, Sep, Oct*
   - themes: *open*
-- [Central European Exchange Programme for University Studies](https://www.ceepus.info/content/apply)
-  - who is funded:
-  - what is funed:
-  - funding level:
-  - applicatin requirements:
-  - deadline:
-  - themes:
 ### university sources
 - [Erasmus]()
   - who is funded: **
