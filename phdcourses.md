@@ -1,4 +1,8 @@
-----
+##### 🚧  under construction  🚧
+---
+<!--
+about CSH partner universities and/or usual CSH student PhD programs
+-->
 ### BOKU • transitions to sustainability
 REQUIRED COURSEWORK ECTS : **30**   \[~ 9 courses\]
 #### Mandatory Courses \[18 ECTS\]
