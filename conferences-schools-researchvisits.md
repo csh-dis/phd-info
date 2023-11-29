@@ -118,4 +118,6 @@
 ## OTHER CONSIDERATIONS
 ### visas & residency requirements
 ### salary
---!>
+-->
+
+#### Please send corrections or requests to Carrie -or- make a pull request
