@@ -1,4 +1,3 @@
-##### :boom: *NOTE: this is an in-progress & non-comprehensive list • please check back or ask for more info*
 ---
 ### doctoral fellowships
 - [ÖAW DOC](https://stipendien.oeaw.ac.at/stipendien/doc)
@@ -141,4 +140,5 @@
   - application requirements:
   - deadline:
   - themes:
---!>
+-->
+#### :boom: Please send corrections or requests to Carrie -or- make a pull request
