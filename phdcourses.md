@@ -119,8 +119,6 @@ REQUIRED COURSEWORK SWS : **24**   \[~ 14 courses\]
 ---
 ### TU Wien • computer science / informatics
 REQUIRED COURSEWORK ECTS : **18**   \[~ 6 courses\]
-
-**required courses indicated with \***
 #### Fundamental Courses \[≥6 ECTS @ 3 each\]
 - Philosophy of science
 - Innovation
@@ -222,7 +220,7 @@ REQUIRED COURSEWORK ECTS : **15**   \[~ 8 courses\]
 REQUIRED COURSEWORK ECTS : **15**   \[~ 5 courses\]
 
 *no required courses*
-#### \[ ECTS from a university \]
+#### \[ ECTS from any university \]
 
 ---
 ### Wirtschafts Uni • economic & social sciences 
