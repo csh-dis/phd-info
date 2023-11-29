@@ -1,6 +1,7 @@
 <!--
 fellowship opportunities at different career stages
 -->
+## FELLOWSHIPS
 ### doctoral fellowships
 - [ÖAW DOC](https://stipendien.oeaw.ac.at/stipendien/doc)
   - who is funded: *doctoral students at AT uni; masters ≤2 years prior*
@@ -49,6 +50,9 @@ fellowship opportunities at different career stages
   - application requirements: **
   - deadline: *Mar*
   - themes: *open*
+
+*more to come\...*
+
 ---
 ### doctoral » postdoc transition fellowships
 - [ÖAW POST-DOCTRACK](https://stipendien.oeaw.ac.at/stipendien/post-doctrack)
@@ -102,24 +106,29 @@ fellowship opportunities at different career stages
   - application requirements: *personal details • career summary • research proposal • financial details • necessary research approvals • two letters of recommendation (incl. head of dept)*
   - deadline: *24 Jan 2024*
   - themes: *natural sciences / STEM*
----
 
+*more to come\...*
+
+---
 <!--
 ### postdoc » faculty transition fellowships
-- []EU Horizon MSCA Postdoc()
+- [EU Horizon Marie SCurie Action Postdoctoral Fellowship]()
   - who is funded:
+  - what is funded:
   - funding level:
   - application requirements:
   - deadline:
-  - themes:
+  - themes: *open*
 - []FWF elise richter()
   - who is funded:
+  - what is funded:
   - funding level:
   - application requirements:
   - deadline:
-  - themes:
-- []FWF START()
+  - themes: **
+- [FWF START]()
   - who is funded:
+  - what is funded:
   - funding level:
   - application requirements:
   - deadline:
@@ -127,20 +136,11 @@ fellowship opportunities at different career stages
 ---
 -->
 <!--
+## JOBS
 ### postdoc jobs
-
 ---
 ### faculty jobs
 ---
---
 ### tech jobs
-
-- []()
-  - who is funded:
-  - what is funded:
-  - funding level:
-  - application requirements:
-  - deadline:
-  - themes:
 -->
 #### :bee: Please send corrections or requests to Carrie -or- :robot: make a pull request
