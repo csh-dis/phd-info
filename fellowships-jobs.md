@@ -1,3 +1,5 @@
+##### *NOTE: this is an in-progress & non-comprehensive list • please check back or ask for more info*
+---
 ### doctoral fellowships
 - [ÖAW DOC](https://stipendien.oeaw.ac.at/stipendien/doc)
   - who is funded: *doctoral students at AT uni; masters ≤2 years prior*
