@@ -259,3 +259,4 @@ REQUIRED COURSEWORK ECTS : ___
 *more info to come*
 
 ---
+#### :bee: Please send corrections or requests to Carrie -or- :robot: make a pull request
