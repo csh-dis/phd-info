@@ -1,6 +1,7 @@
-## RESEARCH VISITS
+## RESEARCH VISITS • CONFERENCES+SCHOOLS • INTERNSHIPS
+### RESEARCH VISITS
 *see also **FUNDING** below*
-### visiting researcher programs
+#### visiting researcher programs
 - !AT [Marrietta Blau Grant](https://oead.at/en/outgoing/higher-education/scholarships-for-studying-abroad/marietta-blau-grant/)
   - who is funded: *doctoral students studying at an AT uni*
   - what is funded: *6-12 mo research stays outside of AT*
@@ -56,25 +57,25 @@
 - \...and many more
 
 ---
-## CONFERENCES + SCHOOLS
-### general conferences
+### CONFERENCES + SCHOOLS
+#### general conferences
 - [NetSciX](https://netscix2024.netscisociety.org/) • 22-25 Jan in Venice IT
 - [APS](https://march.aps.org/) • 2024: 3 - 8 Mar in Minneapolis US
 - [NetSci](https://netsci2024.com/en) • 2024: 16 - 21 Jun in Quebec CA
 - [CCS](https://cssociety.org/events) • 2024: ?
 - [IC2S2](https://iscss.org/ic2s2/conference/) • 2024: ?
-### workshops
+#### workshops
 - [ICTP Workshop on Limits to Collective Agency](https://indico.ictp.it/event/10475) • 2024: 6 - 10 May in Trieste IT
 - [SFI Graduate Workshop in Computational Social Sciences](https://santafe.edu/gwcss) • 2024: 30 Jun - 12 Jul in Santa Fe US
 - [ICTP School & Workshop on Dynamical Systems](https://indico.ictp.it/event/10497) • 2024: 22 Jul - 09 Aug in Trieste IT
-### schools
+#### schools
 - [ICTP Spring College on the Physics of Complex Systems]() • 2025:  in Trieste IT
 - [CSH Winter School](https://www.csh.ac.at) • 2024:  in Obergurgl AT
 - [SFI Complex Systems Summer School](https://santafe.edu/csss) • 2024: 9 Jun - 5 Jul in Santa Fe US
 - [ICTP Hands-On Research in Complex Systems School](https://indico.ictp.it/event/10525) • 2024: 2 - 13 Dec in Trieste IT
 
 ---
-## INTERNSHIPS
+### INTERNSHIPS
 ##### 🚧  under construction  🚧
 <!--
 ### programs
@@ -82,11 +83,11 @@
 - []()
 ---
 -->
-## FUNDING
+### FUNDING
 
 *see also **RESEARCH VISITS** above*
 
-### grants + travel awards
+#### grants + travel awards
 - [ÖFG "International Communication" program](https://www.oefg.at/funding/international-communication/)
   - who is funded: *junior researchers at an AT uni or research institute; <40 years*
   - what is funded: *research stays ≤3 mo • conference attendance/presentation • organizing symposia in AT • **not** schools or courses*
@@ -94,7 +95,7 @@
   - application requirements: *budget • cv • list of publications • letter of recommendation from senior/habilitated researcher • justification/purpose of research visit or conference abstract • acceptance by host institution or conference*
   - deadline: *approx. Jan, Mar, Jun, Sep, Oct*
   - themes: *open*
-### university sources
+#### university sources
 - [TUWien conference grants](https://www.tuwien.at/studium/international/studieren-im-ausland/mobilitaetsprogramme/konferenzteilnahmen-von-dissertant-innen)
   - who is funded: *doctoral students enrolled at TUWien*
   - what is funded: *presentation at international scientific conference*
