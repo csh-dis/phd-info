@@ -1,4 +1,6 @@
-## PHD PROGRAMS
+---
+title: PHD PROGRAMS
+---
 
 ##### 🚧  under construction  🚧
 ---
