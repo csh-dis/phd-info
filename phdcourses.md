@@ -101,7 +101,7 @@ about CSH partner universities and/or usual CSH student PhD programs
 <h3> MedUniWien • medical informatics, biostatistics & complex systems</h3>
 <h4>REQUIRED COURSEWORK SWS : 24   [~ 14 courses]</h4>
 <p><i>uses semester weeks (SWS) where 1 SWS ~ 1.5 ECTS</i><br />
-<b>required courses indicated with *</b></p>
+required courses indicated with *</p>
 <details><summary><b>Propedeutics [6 @ 1 SWS each]</b></summary>
 <li>Ethics in medicine & good scientific practice *
 <li>Intellectual property rights & project management *
@@ -196,7 +196,7 @@ more info to come
 <h3> TU Graz • computer science / informatics </h3>
 <h4>REQUIRED COURSEWORK ECTS : 15 [~ 8 courses]</h4>
 <p><i>uses semester hours (SSt) where 1 SSt ~ 1.5 ECTS</i><br />
-<b>required courses indicated with *</b></p>
+required courses indicated with *</p>
 <details><summary><b>Subject-specific basic courses [6-8 SSt @ 1-4 each]</b></summary>
 <li>Enumerative combinatoric algorithms
 <li>Discrete stochastics and information theory
@@ -251,7 +251,7 @@ more info to come
 <li>Research seminar macroeconomics
 <li>Internal/external research seminar</li>
 </details>
-<details><summary># WU Electives \[30 ECTS @ 6 each\]
+<details><summary><b>WU Electives [30 ECTS @ 6 each]</b></summary>
 <li>Topics in game theory
 <li>Topics in microeconometrics
 <li>Topics in macroeconometrics
@@ -261,21 +261,18 @@ more info to come
 <li>Topics in international macroeconomics
 <li>Topics in public economics
 <li>Topics in inequality
-<li>Topics in behavioral economics
-<details><summary># External Electives \[6 ECTS @ 3 each\]
-*must be related to the dissertation topic; from any university*
-
----
-<details><summary> Uni Wien • mathematics
-REQUIRED COURSEWORK ECTS : ___
-
-*more info to come*
-
----
-<details><summary> Uni Wien • physics
-REQUIRED COURSEWORK ECTS : ___
-
-*more info to come*
-
----
-**:bee: Please send corrections or requests to Carrie -or<li>:robot: create a pull request**
+<li>Topics in behavioral economics</li>
+</details>
+<details><summary><b>External Electives [6 ECTS @ 3 each]</b></summary>
+<li><i>must be related to the dissertation topic; from any university</i></li>
+</details>
+<hr>
+<h3>Uni Wien • mathematics</h3>
+<h4>REQUIRED COURSEWORK ECTS : ___ </h4>
+<p>more info to come</p>
+<hr>
+<h3> Uni Wien • physics</h3>
+<h4>REQUIRED COURSEWORK ECTS : ___</h4>
+<p>more info to come</p>
+<hr>
+:bee: Please send corrections or requests to Carrie -or- :robot: create a pull request
