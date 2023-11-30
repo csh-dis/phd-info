@@ -123,6 +123,7 @@
   - application requirements: *online form • cv • project description • dissertation agreement • host institute confirmation • recommendation letter from UniWien advisor*
   - deadline: *15 Feb, 15 May, 15 Oct*
   - themes: *open*
+
 --- 
 <!-- 
 ## PROCESS
@@ -134,4 +135,4 @@
 ### visas & residency requirements
 ### salary
 -->
-#### :bee: Please send corrections or requests to Carrie -or- :robot: create a pull request
+#### &1F41D Please send corrections or requests to Carrie -or- &1F916 create a pull request
