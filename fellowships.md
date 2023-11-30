@@ -1,3 +1,4 @@
+## FELLOWSHIPS
 ##### 🚧  under construction  🚧
 ---
 <!--
@@ -137,10 +138,7 @@ fellowship opportunities at different career stages
   - themes:
 ---
 -->
-<!--
-## JOBS
-### postdoc jobs
----
+
 ### faculty jobs
 ---
 ### tech jobs
