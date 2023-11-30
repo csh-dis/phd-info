@@ -97,6 +97,7 @@ title: VISITS+CONFERENCES
   - application requirements: *budget • cv • list of publications • letter of recommendation from senior/habilitated researcher • justification/purpose of research visit or conference abstract • acceptance by host institution or conference*
   - deadline: *approx. Jan, Mar, Jun, Sep, Oct*
   - themes: *open*
+
 #### university sources
 - [TUWien conference grants](https://www.tuwien.at/studium/international/studieren-im-ausland/mobilitaetsprogramme/konferenzteilnahmen-von-dissertant-innen)
   - who is funded: *doctoral students enrolled at TUWien*
