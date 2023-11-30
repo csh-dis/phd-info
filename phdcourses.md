@@ -1,13 +1,9 @@
 ---
 title: PHD COURSES
 ---
-<!--
-about CSH partner universities and/or usual CSH student PhD programs
--->
 
 **🚧  under construction  🚧**
 <hr>
-
 <h3>BOKU • transitions to sustainability</h3>
 <h4>REQUIRED COURSEWORK ECTS : 30   [~ 9 courses]</h4>
 <details><summary><b>Mandatory Courses [18 ECTS]</b></summary>
