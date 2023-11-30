@@ -1,10 +1,7 @@
 ---
 title: FELLOWSHIPS
 ---
-<!--
-fellowship opportunities at different career stages
--->
-##### 🚧  under construction  🚧
+🚧  under construction  🚧
 <hr>
 <h3>doctoral fellowships</h3>
 <details><summary><h4><a href="https://stipendien.oeaw.ac.at/stipendien/doc">ÖAW DOC</a></h4></summary>
