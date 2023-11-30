@@ -19,7 +19,7 @@ title: FELLOWSHIPS
       <li>application requirements: the EU or ÖAW theme must be clearly stated in the project proposal
       <li>themes • EU Horizon: adaptation to climate change, cancer, healthy oceans, green/smart cities, soil health & food
       <li>themes • ÖAW priority areas: aging, climate change, energy systems, empires & world orders, AI</li>
-    </details>
+  </details>
 </details>
 <details>
   <summary><h4><a href="https://stipendien.oeaw.ac.at/stipendien/doc-team">ÖAW DOC-TEAM</a></h4></summary>
@@ -31,7 +31,7 @@ title: FELLOWSHIPS
   <li>themes: social sciences+ </li>
 </details>
 <details>
-  <summary><a href="https://www.ffg.at/en/ausschreibung/dissertantinnen2023">FFG industry-proximal dissertation</a></summary>
+  <summary><h4><a href="https://www.ffg.at/en/ausschreibung/dissertantinnen2023">FFG industry-proximal dissertation</a></h4></summary>
   <li>who is funded: <i>for 2023</i>  female doctoral students; ≤2 applications per organization
   <li>what is funded: max of 50% total costs for 24-36 mo; direct costs in support of student
   <li>funding level: ≤110.000 EUR for the project
