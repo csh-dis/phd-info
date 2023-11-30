@@ -8,14 +8,14 @@
 
 ### NAVIGATION
 
-#### [PhD Programs](phdprograms.md) 
+#### [PhD Programs](phdprograms.html) 
 - requirements of selected PhD/doctoral programs in Vienna and Graz
 
-#### [PhD Courses](phdcourses.md)
+#### [PhD Courses](phdcourses.html)
 - course listings for a selection of PhD/doctoral programs in Vienna and Graz
 
-#### [Conferences, Schools & Research Visits](conferences-schools-researchvisits.md)
+#### [Conferences, Schools & Research Visits](visits-conferences.html)
 - includes funded programs and funding opportunities for travel and short-term stays
 
-#### [Fellowships & Jobs](fellowships.md)
+#### [Fellowships & Jobs](fellowships.html)
 - includes long-term fellowship opportunities for PhD/doctoral students and postdoctoral fellows \[jobs to come\]
