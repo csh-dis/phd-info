@@ -9,10 +9,12 @@
 
 #### PhD Programs 
 - requirements of selected PhD/doctoral programs in Vienna and Graz
+
 #### PhD Courses
 - course listings for a selection of PhD/doctoral programs in Vienna and Graz
+
 #### Conferences, Schools & Research Visits
 - includes funded programs and funding opportunities for travel and short-term stays
+
 #### Fellowships & Jobs
 - includes long-term fellowship opportunities for PhD/doctoral students and postdoctoral fellows \[jobs to come\]
-
