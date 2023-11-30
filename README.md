@@ -1,20 +1,7 @@
 <!-- phd program info pages created 13112023 for complexity science hub • digital school of innovation • crc -->
-&nbsp;&nbsp;&nbsp;💊 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚖️  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦉  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏭  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐨  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚆  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌾  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐝  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏛️
-## INFORMATION FOR PHD / DOCTORAL STUDENTS
-### COMPLEXITY SCIENCE HUB • DIGITAL INNOVATION SCHOOL
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐖 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌴 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛰️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐞 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐫 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏗️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔫
+---
+These pages contain information about PhD/doctoral studies at the Complexity Science Hub (Vienna AUSTRIA) and the Graduate Program in Complexity Science within the CSH Digital Innovation School. They are intended for the use of students affiliated with CSH.
 
-#### Navigation
-*NOTE: all pages are currently under construction so if information is missing, please check back or contact Carrie*
-
-#### PhD Programs 
-- requirements of selected PhD/doctoral programs in Vienna and Graz
-#### PhD Courses
-- course listings for a selection of PhD/doctoral programs in Vienna and Graz
-#### Conferences, Schools & Research Visits
-- includes funded programs and funding opportunities for travel and short-term stays
-#### Fellowships & Jobs
-- includes long-term fellowship opportunities for PhD/doctoral students and postdoctoral fellows \[jobs to come\]
-
-
+---
+For questions about advanced education and training at the Complexity Science Hub, please [contact us](mailto:cowan@csh.ac.at).
 
