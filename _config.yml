@@ -19,7 +19,7 @@ header_pages:
   - phdprograms.md
   - phdcourses.md
   - conferences-schools-researchvisits.md
-  - fellowships-jobs.md
+  - fellowships.md
 
 
 # Set to `true` to show excerpts on the homepage.
