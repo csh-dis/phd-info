@@ -1,270 +1,284 @@
 ---
 title: PHD COURSES
 ---
-
-##### 🚧  under construction  🚧
----
 <!--
 about CSH partner universities and/or usual CSH student PhD programs
 -->
-#### BOKU • transitions to sustainability
-REQUIRED COURSEWORK ECTS : **30**   \[~ 9 courses\]
-##### Mandatory Courses \[18 ECTS\]
-- Principles & challenges of research in socio-economics, natural resources & life sciences
-- Doctoral Seminar I-IV
-- Journal Club I-II
-- Theory & principles of inter- & transdisciplinary research
-- Methods of knowledge integration in inter- & transdisciplinary research
-##### Elective Courses : Transferable Skills \[6 ECTS\]
-- ?
-##### Elective Courses : Scientific Courses \[6 ECTS from BOKU or other university\]
-- Biodiversity crisis \- climate crisis
-- Computer simulation in energy & resource economics
-- Current selected fields of social ecology
-- Introduction to statistical learning with R
-- Advanced natural resource economics
-- Banking & credit systems
-- Agricultural law
-- \...and more\...
 
-----
-#### CEU • network science
-REQUIRED COURSEWORK ECTS : **52**   \[~ 11 courses\]
-##### Mandatory Courses \[20 ECTS @ 4 each\]
-- Fundamental of network science
-- Social networks
-- Data mining and big data analysis
-- Structure and dynamics of complex networks
-- Academic professionalization
-##### Mandatory-Elective Courses \[8-12 ECTS @ 4 each\]
-- Statistical methods in network science and data management
-- Academic writing for network science PhD students
-- Introduction to computational social science
-- Data and netowrk visualization
-- Agent based models
-- Data science for the sustainable development goals
-- Diving in the Digital Public Space: From individual (behavioral) digital traces to collective social and political dynamics
-- Machine learning for natural language processing
-- Network inference and reconstruction
-- Scientific Python
-##### Elective Courses \[0-4 ECTS @ 4 each\]
-- ?
-##### Seminar \[12 ECTS @ 4 each\]
-##### Reading Group \[8 ECTS\]
+**🚧  under construction  🚧**
+<hr>
+
+<h3>BOKU • transitions to sustainability</h3>
+<h4>REQUIRED COURSEWORK ECTS : 30   [~ 9 courses]</h4>
+<details><summary><b>Mandatory Courses [18 ECTS]</b></summary>
+<li>Principles & challenges of research in socio-economics, natural resources & life sciences
+<li>Doctoral Seminar I-IV
+<li>Journal Club I-II
+<li>Theory & principles of inter<li>& transdisciplinary research
+<li>Methods of knowledge integration in inter<li>& transdisciplinary research
+</li></details>
+<details><summary><b> Elective Courses : Transferable Skills [6 ECTS]</b></summary>
+<li>?</li></details>
+<details><summary><b>Elective Courses : Scientific Courses [6 ECTS from BOKU or other university]</b></summary>
+<li>Biodiversity crisis - climate crisis
+<li>Computer simulation in energy & resource economics
+<li>Current selected fields of social ecology
+<li>Introduction to statistical learning with R
+<li>Advanced natural resource economics
+<li>Banking & credit systems
+<li>Agricultural law
+<li>...and more...</li>
+</details>
+<hr>
+<h3> CEU • network science</h3>
+<h4>REQUIRED COURSEWORK ECTS : 52 [~ 11 courses]</h4>
+<details><summary><b>Mandatory Courses [20 ECTS @ 4 each]</b></summary>
+<li>Fundamental of network science
+<li>Social networks
+<li>Data mining and big data analysis
+<li>Structure and dynamics of complex networks
+<li>Academic professionalization</li>
+</details>
+<details><summary><b>Mandatory-Elective Courses [8-12 ECTS @ 4 each]</b></summary>
+<li>Statistical methods in network science and data management
+<li>Academic writing for network science PhD students
+<li>Introduction to computational social science
+<li>Data and netowrk visualization
+<li>Agent based models
+<li>Data science for the sustainable development goals
+<li>Diving in the Digital Public Space: From individual (behavioral) digital traces to collective social and political dynamics
+<li>Machine learning for natural language processing
+<li>Network inference and reconstruction
+<li>Scientific Python</li>
+</details>
+<details><summary><b>Elective Courses \[0-4 ECTS @ 4 each\]</b></summary>
+<li>?</li>
+</details>
+<b>Seminar [12 ECTS @ 4 each]</b><br />
+<b>Reading Group [8 ECTS]</b>
+<hr>
+<h3>Donau Uni Krems • migration studies</h3>
+<h4>REQUIRED COURSEWORK ECTS : 30 [~ 7 courses]</h4>
+<details><summary><b> Required Courses [18 ECTS]</b></summary>
+<li>Interdisciplinary Research in Migration Studies
+<li>Advanced Quantitative Methods
+<li>Advanced Qualitative Methods
+<li>Migration Theories and Policies [6 ECTS]</li>
+</details>
+<details><summary><b>Research Fields Elective Courses [8 ECTS @ 4 each]</b></summary>
+<li>Law and migration
+<li>International management and organization theory
+<li>Globalization and Religion
+<li>Migration and communication
+<li>Migration and democracy</li>
+</details>
+<details><summary><b>Complementary Elective Courses [4 ECTS]</b></summary>
+<li>Scientific theory and ethics
+<li>Grant acquisition and project management
+<li>Inclusion and integration in digital network society
+<li>Scientific writing and dialectics</li>
+</details>
+<hr>
+<h3>Donau Uni Krems • technology, innovation & cohesive societies</h3>
+<h4>REQUIRED COURSEWORK ECTS : 30 [~ 9 courses]</h4>
+<details><summary><b>Required Courses [req 6]</b></summary>
+<li>Science communication
+<li>Research design and research literacy
+<li>Systems theory and socio-technical change
+<li>Socio-technical innovation for cohesive societies
+<li>Computational social science
+<li>Doctrinal legal research and case-based methods</li>
+</details>
+<details><summary><b>Elective Courses [req 3]</b></summary>
+<li>Research methods (mixed methods)
+<li>Special topics in policy-making
+<li>Scientific career building
+<li>Advanced quantitative research methods
+<li>Advanced qualitative research methods
+<li>Technology, transnational movements and the nation state</li>
+</details>
+<hr>
+<h3> MedUniWien • medical informatics, biostatistics & complex systems</h3>
+<h4>REQUIRED COURSEWORK SWS : 24   [~ 14 courses]</h4>
+<p><i>uses semester weeks (SWS) where 1 SWS ~ 1.5 ECTS</i><br />
+<b>required courses indicated with *</b></p>
+<details><summary><b>Propedeutics [6 @ 1 SWS each]</b></summary>
+<li>Ethics in medicine & good scientific practice *
+<li>Intellectual property rights & project management *
+<li>Molecular biology & biochemistry
+<li>Medical imaging & biomedical engineering
+<li>Guide to scientific writing
+<li>Data literacy for aspiring life scientists
+<li>Scientific software & databases
+<li>...possibly others...</li>
+</details>
+<details><summary><b>Basic Courses [4 @ 1 SWS each]</b></summary>
+<li>Mathematical basics & key algorithms
+<li>Advanced statisticsal procedures and theoretical concepts
+<li>Statistical methods in medical research
+<li>Computer science in clinical settings
+<li>Information systems, eHealth and decision support
+<li>Image and singal analysis, modeling, simulation and bioinformatics
+<li>Complex systems and artificial intelligence</li>
+</details>
+<details><summary><b>Thesis Seminars [4 @ 2 SWS each]</b></summary>
+<li>Bioinformatics, biosimulation and complex systems
+<li>Medical informaiton management and decision support in clinical settings
+<li>Computer vision
+<li>Prognosis research
+<li>Statistical issues in platform trials
+<li>Artificial intelligence</li>
+<b>Journal Club \[6 @ 1 SWS each\]</b>
+</details>
+<hr>
+<h3>TU Wien • computer science / informatics</h3>
+<h4>REQUIRED COURSEWORK ECTS : 18 [~ 6 courses]</h4>
+<details><summary><b>Fundamental Courses [≥6 ECTS @ 3 each]</b></summary>
+<li>Philosophy of science
+<li>Innovation
+<li>Research methods in computer science
+<li>Fundamental research methods for doctoral students
+<li>Research and career planning for doctoral students
+<li>Being a researcher
+<li>From surviving to thriving: crafting your good professional life</li>
+</details>
+<details><summary><b>Area Courses [≤12 ECTS @ 3 each]</b></summary>
+<li>PhD primary area computer engineering intro
+<li>Foundations of data and knowledge systems
+<li>Introduction to media informatics and visual computing
+<li>Foundations of business informatics
+<li>Advanced topics in service-oriented and cloud computing
+<li>Model checking
+<li>Discrete mathematics and probability
+<li>Formal methods
+<li>Linear algebra
+<li>Algorithms
+<li>Shape from function methods
+<li>Differential equations
+<li>Computational geometry and topology
+<li>Computational complexity
+<li>Essence of cloud computing
+<li>Hybrid systems
+<li>Media understanding
+<li>Advanced concepts in distributed systems research
+<li>Abstract interpretation: from theory to applications
+<li>Generative software development
+<li>Computational photography and computational imaging
+<li>Future trends in imaging
+<li>Machine learning
+<li>Recommender systems
+<li>Description logics, ontology-based data access and reasoning
+<li>Design and analysis of quasi-experiments for causal inference
+<li>Advanced topics in web of data
+<li>Model predictive control
+<li>Computational complexity
+<li>Geometry & topology
+<li>Automated scheduling and timetablihng
+<li>Data warehousing and business intelligence
+<li>...and more...</li>
+</details>
+<hr>
+
+<h3>TU Wien • physics</h3>
+<h4>REQUIRED COURSEWORK ECTS : 18</h4>
+<details><summary><b>Courses / Lectures [6-14 ECTS]</b></summary>
+more info to come
+</details>
+<details><summary><b>Seminars [2-4 ECTS]</b></summary>
+more info to come
+ </details> 
+<details><summary><b>Workshops [2-5 ECTS]</b></summary>
+more info to come
+</details>
+<details><summary><b>Laboratories [0-6 ECTS]</b></summary>
+more info to come
+</details>
+<hr>
+<h3> TU Graz • computer science / informatics </h3>
+<h4>REQUIRED COURSEWORK ECTS : 15 [~ 8 courses]</h4>
+<p><i>uses semester hours (SSt) where 1 SSt ~ 1.5 ECTS</i><br />
+<b>required courses indicated with *</b></p>
+<details><summary><b>Subject-specific basic courses [6-8 SSt @ 1-4 each]</b></summary>
+<li>Enumerative combinatoric algorithms
+<li>Discrete stochastics and information theory
+<li>Discrete and computational geometry
+<li>Combinatorial optimization
+<li>Knowledge discovery & data mining
+<li>Data integration and large-scale analysis
+<li>Architecture of machine learning systems
+<li>Data analysis and introduction to R
+<li>Intelligent systems
+<li>Natural language processing
+<li>Information search and retrieval
+<li>Deep learning
+<li>Reinforcement learning
+<li>Technical numerics
+<li>Applied statistics
+<li>Problem analysis and complexity theory
+<li>Probabilistic method in combinatorics and algorithmics
+<li>Advanced and algorithmic graph theory
+<li>Geometry for computer scientists
+<li>Numerical optimization
+<li>Logic and computability
+<li>Complexity theory
+<li>Logic-based knowledge representation
+<li>Network science
+<li>Computational modelling of social systems
+<li>Social media technologies
+<li>Recommender systems
+<li>Critical readings in data science
+<li>Topological data analysis
+<li>...and more...</li>
+</details>
+<details><summary><b>Scientific Methods and Communication [4-6 SSt]</b></summary>
+<li>Scientific methods and communication [2 SSt] *
+<li>Doctoral seminar [2 x 1 SSt] *
+<li>from course catalog [≤ 2 SSt] </li>
+</details>
+<b>Privatissimum / Seminar [2 SSt] * </b>
 
 ---
-#### Donau Uni Krems • migration studies
-REQUIRED COURSEWORK ECTS : **30**   \[~ 7 courses\]
-##### Required Courses \[ 18 ECTS \]
-- Interdisciplinary Research in Migration Studies
-- Advanced Quantitative Methods
-- Advanced Qualitative Methods
-- Migration Theories and Policies [6 ECTS]
-##### Research Fields Elective Courses \[ 8 ECTS @ 4 each\]
-- Law and migration
-- International management and organization theory
-- Globalization and Religion
-- Migration and communication
-- Migration and democracy
-##### Complementary Elective Courses \[4 ECTS\]
-- Scientific theory and dthics
-- Grant acquisition and project management
-- Inclusion and integration in digital network society
-- Scientific writing and dialectics
-
----
-#### Donau Uni Krems • technology, innovation & cohesive societies
-REQUIRED COURSEWORK ECTS : **30**   \[~ 9 courses\]
-##### Required Courses \[req 6\]
-- Science communication
-- Research design and research literacy
-- Systems theory and socio-technical change
-- Socio-technical innovation for cohesive societies
-- Computational social science
-- Doctrinal legal research and case-based methods
-##### Elective Courses \[req 3\]
-- Research methods (mixed methods)
-- Special topics in policy-making
-- Scientific career building
-- Advanced quantitative research methods
-- Advanced qualitative research methods
-- Technology, transnational movements and the nation state
-
----
-#### MedUniWien • medical informatics, biostatistics & complex systems
-REQUIRED COURSEWORK SWS : **24**   \[~ 14 courses\]
-
-*uses semester weeks (SWS) where 1 SWS ~ 1.5 ECTS*
-
-**required courses indicated with \***
-
-##### Propedeutics \[6 @ 1 SWS each\]
-- Ethics in medicine & good scientific practice \*
-- Intellectual property rights & project management \*
-- Molecular biology & biochemistry
-- Medical imaging & biomedical engineering
-- Guide to scientific writing
-- Data literacy for aspiring life scientists
-- Scientific software & databases
-- \...possibly others\...
-##### Basic Courses \[4 @ 1 SWS each\]
-- Mathematical basics & key algorithms
-- Advanced statisticsal procedures and theoretical concepts
-- Statistical methods in medical research
-- Computer science in clinical settings
-- Information systems, eHealth and decision support
-- Image and singal analysis, modeling, simulation and bioinformatics
-- Complex systems and artificial intelligence
-##### Thesis Seminars \[4 @ 2 SWS each\]
-- Bioinformatics, biosimulation and complex systems
-- Medical informaiton management and decision support in clinical settings
-- Computer vision
-- Prognosis research
-- Statistical issues in platform trials
-- Artificial intelligence
-##### Journal Club \[6 @ 1 SWS each\]
-
----
-#### TU Wien • computer science / informatics
-REQUIRED COURSEWORK ECTS : **18**   \[~ 6 courses\]
-##### Fundamental Courses \[≥6 ECTS @ 3 each\]
-- Philosophy of science
-- Innovation
-- Research methods in computer science
-- Fundamental research methods for doctoral students
-- Research and career planning for doctoral students
-- Being a researcher
-- From surviving to thriving: crafting your good professional life
-##### Area Courses \[≤12 ECTS @ 3 each\]
-- PhD primary area computer engineering intro
-- Foundations of data and knowledge systems
-- Introduction to media informatics and visual computing
-- Foundations of business informatics
-- Advanced topics in service-oriented and cloud computing
-- Model checking
-- Discrete mathematics and probability
-- Formal methods
-- Linear algebra
-- Algorithms
-- Shape from function methods
-- Differential equations
-- Computational geometry and topology
-- Computational complexity
-- Essence of cloud computing
-- Hybrid systems
-- Media understanding
-- Advanced concepts in distributed systems research
-- Abstract interpretation: from theory to applications
-- Generative software development
-- Computational photography and computational imaging
-- Future trends in imaging
-- Machine learning
-- Recommender systems
-- Description logics, ontology-based data access and reasoning
-- Design and analysis of quasi-experiments for causal inference
-- Advanced topics in web of data
-- Model predictive control
-- Computational complexity
-- Geometry & topology
-- Automated scheduling and timetablihng
-- Data warehousing and business intelligence
-- \...and more\...
----
-#### TU Wien • physics
-REQUIRED COURSEWORK ECTS : **18**
-##### Courses / Lectures \[6-14 ECTS\]
-##### Seminars \[2-4 ECTS\]
-##### Workshops \[2-5 ECTS\]
-##### Laboratories \[0-6 ECTS\]
-*more info to come*
-
----
-#### TU Graz • computer science / informatics
-REQUIRED COURSEWORK ECTS : **15**   \[~ 8 courses\]
-
-*uses semester hours (SSt) where 1 SSt ~ 1.5 ECTS*
-
-**required courses indicated with \***
-
-##### Subject-specific basic courses \[6-8 SSt @ 1-4 each\]
-- Enumerative combinatoric algorithms
-- Discrete stochastics and information theory
-- Discrete and computational geometry
-- Combinatorial optimization
-- Knowledge discovery & data mining
-- Data integration and large-scale analysis
-- Architecture of machine learning systems
-- Data analysis and introduction to R
-- Intelligent systems
-- Natural language processing
-- Information search and retrieval
-- Deep learning
-- Reinforcement learning
-- Technical numerics
-- Applied statistics
-- Problem analysis and complexity theory
-- Probabilistic method in combinatorics and algorithmics
-- Advanced and algorithmic graph theory
-- Geometry for computer scientists
-- Numerical optimization
-- Logic and computability
-- Complexity theory
-- Logic-based knowledge representation
-- Network science
-- Computational modelling of social systems
-- Social media technologies
-- Recommender systems
-- Critical readings in data science
-- Topological data analysis
-- \...and more\...
-##### Scientific Methods and Communication \[4-6 SSt\]
-- Scientific methods and communication \[2 SSt] \*
-- Doctoral seminar \[2 x 1 SSt\] \*
-- from course catalog \[≤ 2 SSt\]
-##### Privatissimum / Seminar \[2 SSt\] \*
-
----
-#### vetmed
+<details><summary> vetmed
 REQUIRED COURSEWORK ECTS : **15**   \[~ 5 courses\]
 
 *no required courses*
-##### \[ ECTS from any university \]
+<details><summary># \[ ECTS from any university \]
 
 ---
-#### Wirtschafts Uni • economic & social sciences 
+<details><summary> Wirtschafts Uni • economic & social sciences 
 REQUIRED COURSEWORK ECTS : **72**   \[~ 13 courses\]
-##### Compulsory Modules \[36 ECTS @ 6 each\]
-- Mathematics
-- Statistics
-- Topics in econometrics
-- Research seminar microeconomics
-- Research seminar macroeconomics
-- Internal/external research seminar
-##### WU Electives \[30 ECTS @ 6 each\]
-- Topics in game theory
-- Topics in microeconometrics
-- Topics in macroeconometrics
-- Topics in industrial organization
-- Topics in labor economics
-- Topics in trade
-- Topics in international macroeconomics
-- Topics in public economics
-- Topics in inequality
-- Topics in behavioral economics
-##### External Electives \[6 ECTS @ 3 each\]
+<details><summary># Compulsory Modules \[36 ECTS @ 6 each\]
+<li>Mathematics
+<li>Statistics
+<li>Topics in econometrics
+<li>Research seminar microeconomics
+<li>Research seminar macroeconomics
+<li>Internal/external research seminar
+<details><summary># WU Electives \[30 ECTS @ 6 each\]
+<li>Topics in game theory
+<li>Topics in microeconometrics
+<li>Topics in macroeconometrics
+<li>Topics in industrial organization
+<li>Topics in labor economics
+<li>Topics in trade
+<li>Topics in international macroeconomics
+<li>Topics in public economics
+<li>Topics in inequality
+<li>Topics in behavioral economics
+<details><summary># External Electives \[6 ECTS @ 3 each\]
 *must be related to the dissertation topic; from any university*
 
 ---
-#### Uni Wien • mathematics
+<details><summary> Uni Wien • mathematics
 REQUIRED COURSEWORK ECTS : ___
 
 *more info to come*
 
 ---
-#### Uni Wien • physics
+<details><summary> Uni Wien • physics
 REQUIRED COURSEWORK ECTS : ___
 
 *more info to come*
 
 ---
-**:bee: Please send corrections or requests to Carrie -or- :robot: create a pull request**
+**:bee: Please send corrections or requests to Carrie -or<li>:robot: create a pull request**
