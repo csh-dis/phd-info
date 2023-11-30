@@ -1,4 +1,4 @@
-## RESEARCH VISITS • CONFERENCES+SCHOOLS • INTERNSHIPS
+## VISITS+CONFERENCES
 ### RESEARCH VISITS
 *see also **FUNDING** below*
 #### visiting researcher programs
