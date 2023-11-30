@@ -1,6 +1,6 @@
 title: CSH DSI PhD INFORMATION
-author: Complexity Science Hub • Digital School of Innovation
-  name: crc
+author: crc
+  name: Complexity Science Hub • Digital School of Innovation
   email: cowan@csh.ac.at
 
 description: >
@@ -21,9 +21,10 @@ plugins:
 # in order as they should show up.
 header_pages:
   - README.md
+  - phdcourses.md
 
 # Set to `true` to show excerpts on the homepage.
-show_excerpts: false
+# show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -40,7 +41,7 @@ minima:
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  date_format: "%d-%b-%Y"
+#  date_format: "%d-%b-%Y"
 
   # Generate social links in footer.
   #social_links:
