@@ -1,9 +1,11 @@
 <!-- phd program info pages created 13112023 for complexity science hub • digital school of innovation • crc -->
 &nbsp;&nbsp;&nbsp;💊 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚖️  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦉  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏭  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐨  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚆  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌾  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐝  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏛️
-### NAVIGATION
+### INFORMATION FOR PHD/DOCTORAL STUDENTS
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐖 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌴 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛰️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐞 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐫 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏗️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔫
 
 *NOTE: all pages are currently under construction so if information is missing, please check back or contact Carrie*
+
+### NAVIGATION
 
 #### [PhD Programs](https://csh-dis.github.io/phd-info/phdprograms.html) 
 - requirements of selected PhD/doctoral programs in Vienna and Graz
