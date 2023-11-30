@@ -10,7 +10,7 @@ title: PHD COURSES
 <li>Principles & challenges of research in socio-economics, natural resources & life sciences
 <li>Doctoral Seminar I-IV
 <li>Journal Club I-II
-<li>Theory & principles of inter<li>& transdisciplinary research
+<li>Theory & principles of inter- & transdisciplinary research
 <li>Methods of knowledge integration in inter<li>& transdisciplinary research</li>
 </details>
 <details><summary><b> Elective Courses : Transferable Skills [6 ECTS]</b></summary>
