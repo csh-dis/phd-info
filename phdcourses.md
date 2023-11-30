@@ -11,7 +11,7 @@ title: PHD COURSES
 <li>Doctoral Seminar I-IV
 <li>Journal Club I-II
 <li>Theory & principles of inter- & transdisciplinary research
-<li>Methods of knowledge integration in inter<li>& transdisciplinary research</li>
+<li>Methods of knowledge integration in inter- & transdisciplinary research</li>
 </details>
 <details><summary><b> Elective Courses : Transferable Skills [6 ECTS]</b></summary>
 <li>?</li></details>
