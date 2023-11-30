@@ -135,4 +135,4 @@
 ### visas & residency requirements
 ### salary
 -->
-#### &1F41D Please send corrections or requests to Carrie -or- &1F916 create a pull request
+**🐝 Please send corrections or requests -or- 🤖 create a pull request**
