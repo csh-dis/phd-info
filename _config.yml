@@ -17,10 +17,10 @@ description: PhD/doctoral student info for all things CSH
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - phdprograms.md
-  - phdcourses.md
-  - visits-conferences.md
-  - fellowships.md
+  - phdprograms.html
+  - phdcourses.html
+  - visits-conferences.html
+  - fellowships.html
 
 
 # Set to `true` to show excerpts on the homepage.
