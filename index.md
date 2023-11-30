@@ -1,10 +1,8 @@
 <!-- phd program info pages created 13112023 for complexity science hub • digital school of innovation • crc -->
 &nbsp;&nbsp;&nbsp;💊 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚖️  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦉  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏭  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐨  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚆  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌾  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐝  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏛️
-## INFORMATION FOR PHD / DOCTORAL STUDENTS
-### COMPLEXITY SCIENCE HUB • DIGITAL INNOVATION SCHOOL
+### NAVIGATION
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐖 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌴 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛰️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐞 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐫 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏗️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔫
 
-#### Navigation
 *NOTE: all pages are currently under construction so if information is missing, please check back or contact Carrie*
 
 #### [PhD Programs](https://csh-dis.github.io/phd-info/phdprograms.html) 
