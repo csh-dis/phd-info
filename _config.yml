@@ -1,8 +1,8 @@
-title: CSH DIS INFORMATION FOR PHD STUDENTS
-author: crc
-name: Complexity Science Hub • Digital School of Innovation
+title: ## INFORMATION FOR COMPLEXITY SCIENCE HUB PHD / DOCTORAL STUDENTS
+author: Complexity Science Hub • Digital School of Innovation
+name: crc
 
-description: PhD/doctoral student info for all things CSH
+#description: PhD/doctoral student info for all things CSH
   
 theme: minima
 
@@ -15,7 +15,7 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - README.md
+#  - README.md
   - phdprograms.md
   - phdcourses.md
   - conferences-schools-researchvisits.md
