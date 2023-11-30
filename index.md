@@ -7,14 +7,14 @@
 #### Navigation
 *NOTE: all pages are currently under construction so if information is missing, please check back or contact Carrie*
 
-#### PhD Programs 
+#### [PhD Programs](https://csh-dis.github.com/phd-info/phdprograms.md) 
 - requirements of selected PhD/doctoral programs in Vienna and Graz
 
-#### PhD Courses
+#### [PhD Courses](https://csh-dis.github.com/phd-info/phdcourses.md)
 - course listings for a selection of PhD/doctoral programs in Vienna and Graz
 
-#### Conferences, Schools & Research Visits
+#### [Conferences, Schools & Research Visits](https://csh-dis.github.com/phd-info/conferences-schools-researchvisits.md)
 - includes funded programs and funding opportunities for travel and short-term stays
 
-#### Fellowships & Jobs
+#### [Fellowships & Jobs](https://csh-dis.github.com/phd-info/fellowships-jobs.md)
 - includes long-term fellowship opportunities for PhD/doctoral students and postdoctoral fellows \[jobs to come\]
