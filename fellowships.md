@@ -1,11 +1,11 @@
 ---
 title: FELLOWSHIPS
 ---
-##### 🚧  under construction  🚧
----
 <!--
 fellowship opportunities at different career stages
 -->
+##### 🚧  under construction  🚧
+---
 #### doctoral fellowships
 - [ÖAW DOC](https://stipendien.oeaw.ac.at/stipendien/doc)
   - who is funded: *doctoral students at AT uni; masters ≤2 years prior*
@@ -139,4 +139,4 @@ fellowship opportunities at different career stages
   - themes:
 ---
 -->
-#### :bee: Please send corrections or requests to Carrie -or- :robot: make a pull request
+**:bee: Please send corrections or requests to Carrie -or- :robot: make a pull request**
