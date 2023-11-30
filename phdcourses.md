@@ -1,4 +1,6 @@
-## PHD COURSES
+---
+title: PHD COURSES
+---
 
 ##### 🚧  under construction  🚧
 ---
