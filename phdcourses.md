@@ -178,7 +178,6 @@ about CSH partner universities and/or usual CSH student PhD programs
 <li>...and more...</li>
 </details>
 <hr>
-
 <h3>TU Wien • physics</h3>
 <h4>REQUIRED COURSEWORK ECTS : 18</h4>
 <details><summary><b>Courses / Lectures [6-14 ECTS]</b></summary>
@@ -236,24 +235,22 @@ more info to come
 <li>from course catalog [≤ 2 SSt] </li>
 </details>
 <b>Privatissimum / Seminar [2 SSt] * </b>
-
----
-<details><summary> vetmed
-REQUIRED COURSEWORK ECTS : **15**   \[~ 5 courses\]
-
-*no required courses*
-<details><summary># \[ ECTS from any university \]
-
----
-<details><summary> Wirtschafts Uni • economic & social sciences 
-REQUIRED COURSEWORK ECTS : **72**   \[~ 13 courses\]
-<details><summary># Compulsory Modules \[36 ECTS @ 6 each\]
+<hr>
+<h3>vetmed</h3>
+<h4>REQUIRED COURSEWORK ECTS : 15 [~ 5 courses]</h4>
+<p><i>no required courses</i>
+<b>[ ECTS from any university ]</b></p>
+<hr>
+<h3>Wirtschafts Uni • economic & social sciences</h3>
+<h4>REQUIRED COURSEWORK ECTS : 72 [~ 13 courses]</h4>
+<details><summary><b> Compulsory Modules [36 ECTS @ 6 each]</b></summary>
 <li>Mathematics
 <li>Statistics
 <li>Topics in econometrics
 <li>Research seminar microeconomics
 <li>Research seminar macroeconomics
-<li>Internal/external research seminar
+<li>Internal/external research seminar</li>
+</details>
 <details><summary># WU Electives \[30 ECTS @ 6 each\]
 <li>Topics in game theory
 <li>Topics in microeconometrics
