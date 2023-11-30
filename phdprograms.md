@@ -1,3 +1,5 @@
+## PHD PROGRAMS
+
 ##### 🚧  under construction  🚧
 ---
 <!-- 
@@ -33,7 +35,7 @@ curriculum
 </details>
 ---
 
-## BOKU • transitions to sustainability
+### BOKU • transitions to sustainability
 timeline
 enrollment process
 ECTS credits
@@ -47,7 +49,7 @@ dissertation format
 curriculum
 
 ----
-## CEU • network science
+### CEU • network science
 timeline: 
 enrollment process
 ECTS credits
@@ -61,7 +63,7 @@ dissertation format
 curriculum
 
 ---
-## Donau Uni Krems • migration studies
+### Donau Uni Krems • migration studies
 timeline
 enrollment process
 ECTS credits
@@ -75,7 +77,7 @@ dissertation format
 curriculum
 
 ---
-## Donau Uni Krems • technology, innovation & cohesive societies
+### Donau Uni Krems • technology, innovation & cohesive societies
 timeline
 enrollment process
 ECTS credits
@@ -89,7 +91,7 @@ dissertation format
 curriculum
 
 ---
-## MedUniWien • medical informatics, biostatistics & complex systems
+### MedUniWien • medical informatics, biostatistics & complex systems
 timeline
 enrollment process
 ECTS credits
@@ -103,7 +105,7 @@ dissertation format
 curriculum
 
 ---
-## TU Wien • informatics
+### TU Wien • informatics
 degree awarded:
 timeline:
 enrollment process:
@@ -120,11 +122,11 @@ defense committee:
 documents:
 
 ---
-## TU Wien • physics
+### TU Wien • physics
 *more info to come*
 
 ---
-## TU Graz • computer science
+### TU Graz • computer science
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **timeline:**
   - ≥3 months prior to end of Year 1: qualifying exam
@@ -156,15 +158,15 @@ documents:
 *\* 3 and 5 members are required if student has not met the publication requirement*
 
 ---
-## vetmed
+### vetmed
 *more info to come*
 
 ---
-## Wirtschafts Uni • economic & social sciences
+### Wirtschafts Uni • economic & social sciences
 *more info to come*
 
 ---
-## Uni Wien • mathematics
+### Uni Wien • mathematics
 *more info to come*
 
 ---
