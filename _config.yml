@@ -27,7 +27,7 @@ header_pages:
  # show_excerpts: false
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
-minima:
+#minima:
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
@@ -36,7 +36,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: solarized-light
+#  skin: solarized-light
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
