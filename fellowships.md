@@ -2,7 +2,8 @@
 title: FELLOWSHIPS
 ---
 🚧  under construction  🚧
-<hr>
+
+---
 <h3>doctoral fellowships</h3>
 <details>
   <summary><h4><a href="https://stipendien.oeaw.ac.at/stipendien/doc">ÖAW DOC</a></h4></summary>
@@ -30,8 +31,8 @@ title: FELLOWSHIPS
   <li>themes: social sciences+ </li>
 </details>
 <details>
-  <summary><h4><a href="https://www.ffg.at/en/ausschreibung/dissertantinnen2023">FFG industry-proximal dissertation</a></h4></summary>
-  <li>who is funded: for 2023  female doctoral students; ≤2 applications per organization
+  <summary><a href="https://www.ffg.at/en/ausschreibung/dissertantinnen2023">FFG industry-proximal dissertation</a></summary>
+  <li>who is funded: <i>for 2023</i>  female doctoral students; ≤2 applications per organization
   <li>what is funded: max of 50% total costs for 24-36 mo; direct costs in support of student
   <li>funding level: ≤110.000 EUR for the project
   <li>application requirements: student + advisor cvs + publications • project description • uni commitment • host organization financial docs
