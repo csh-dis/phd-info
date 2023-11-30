@@ -1,4 +1,4 @@
-title: CSH DSI PhD INFORMATION
+title: CSH DIS INFORMATION FOR PHD STUDENTS
 author: crc
 name: Complexity Science Hub • Digital School of Innovation
 
@@ -6,16 +6,16 @@ description: PhD/doctoral student info for all things CSH
   
 theme: minima
 
-#plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
-#header_pages:
-#  - README.md
+header_pages:
+  - README.md
 
 
 # Set to `true` to show excerpts on the homepage.
