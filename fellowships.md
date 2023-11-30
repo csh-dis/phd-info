@@ -4,8 +4,7 @@
 <!--
 fellowship opportunities at different career stages
 -->
-## FELLOWSHIPS
-### doctoral fellowships
+#### doctoral fellowships
 - [ÖAW DOC](https://stipendien.oeaw.ac.at/stipendien/doc)
   - who is funded: *doctoral students at AT uni; masters ≤2 years prior*
   - what is funded: *24-30-36 mo doctoral research*
@@ -57,7 +56,7 @@ fellowship opportunities at different career stages
 *more to come\...*
 
 ---
-### doctoral » postdoc transition fellowships
+#### doctoral » postdoc transition fellowships
 - [ÖAW POST-DOCTRACK](https://stipendien.oeaw.ac.at/stipendien/post-doctrack)
   - who is funded: *doctoral students; will recieve their doctoral degree from an AT university within the next 6 months*
   - what is funded: *finish publications from PhD; postdoctoral research*
@@ -66,7 +65,7 @@ fellowship opportunities at different career stages
   - deadline: *15 May + 15 Nov*
   - themes: *humanities, culture, social science*
 ---
-### postdoc fellowships
+#### postdoc fellowships
 - [FWF ESPRIT](https://www.fwf.ac.at/foerdern/foerderportfolio/karrieren/esprit)
   - who is funded: *postdocs; female postdocs; ≤ 5 years since PhD*
   - what is funded: *36 mo salary + research budget; research at AT institution*
@@ -114,7 +113,7 @@ fellowship opportunities at different career stages
 
 ---
 <!--
-### postdoc » faculty transition fellowships
+#### postdoc » faculty transition fellowships
 - [EU Horizon Marie SCurie Action Postdoctoral Fellowship]()
   - who is funded:
   - what is funded:
@@ -137,10 +136,5 @@ fellowship opportunities at different career stages
   - deadline:
   - themes:
 ---
--->
-
-### faculty jobs
----
-### tech jobs
 -->
 #### :bee: Please send corrections or requests to Carrie -or- :robot: make a pull request
