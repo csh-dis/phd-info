@@ -22,9 +22,7 @@ header_pages:
   - visits-conferences.md
   - fellowships.md
 
-markdown: kramdown
-kramdown:
-  parse_block_html: true
+# markdown: kramdown
 
 # Set to `true` to show excerpts on the homepage.
  # show_excerpts: false
@@ -39,7 +37,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: solarized-light
+  skin: classic
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 
