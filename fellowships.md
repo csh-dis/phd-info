@@ -17,7 +17,6 @@ title: FELLOWSHIPS
       <li>application requirements: the EU or ÖAW theme must be clearly stated in the project proposal
       <li>themes • EU Horizon: adaptation to climate change, cancer, healthy oceans, green/smart cities, soil health & food
       <li>themes • ÖAW priority areas: aging, climate change, energy systems, empires & world orders, AI</li>
-  </details>
 </details>
 <br/>
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/doc-team">ÖAW DOC-TEAM</a></b></summary>
