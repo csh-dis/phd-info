@@ -23,8 +23,7 @@ title: FELLOWSHIPS
     <li> themes • ÖAW priority areas: aging, climate change, energy systems, empires & world orders, AI
 
   </details>
-</details>
-
+</details>  
 
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/doc-team">ÖAW DOC-TEAM</a></b></summary>
 
@@ -35,8 +34,7 @@ title: FELLOWSHIPS
   * deadline: 31 Oct 2023
   * themes: social sciences +
 
-</details>
-
+</details>  
 
 <details><summary><b><a href="https://www.ffg.at/en/ausschreibung/dissertantinnen2023">FFG industry-proximal dissertation</a></b></summary>
   
@@ -47,9 +45,7 @@ title: FELLOWSHIPS
   - deadline: rolling basis Feb-Nov; extended to Feb 2024
   - themes: for 2023: energy transition, mobility transition or circular economy
 
-</details>
-
-
+</details>  
 
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/en/fellowships/loreal-austria">L'OREAL austria - PhD</a></b></summary>
   
@@ -60,9 +56,7 @@ title: FELLOWSHIPS
   - deadline: 1 Feb 2024
   - themes: medicine, the natural sciences or mathematics
 
-</details>
-
-
+</details>  
 
 <details><summary><b><a href="https://www.sdw.org/das-bieten-wir/fuer-studierende/studienfoerderwerk-klaus-murmann/ueberblick.html">Studienförderwerk Klaus Murmann</a></b></summary>
   
@@ -73,8 +67,7 @@ title: FELLOWSHIPS
   - deadline: 15 Jan 2024 • 17 Jul 2024
   - themes: interest to commercialize research projects/products; entreprenuership; start-ups
 
-</details>
-
+</details>  
 
 <details><summary><b><a href="https://asea-uninet.org/scholarships-grants/ernst-mach-grant-emg/">Ernst Mach Grants – ASEA-UNINET</a></b></summary>
   
@@ -85,8 +78,7 @@ title: FELLOWSHIPS
   - deadline: Mar
   - themes: open
     
-</details>
-
+</details>  
 
 more to come...
 
@@ -102,7 +94,7 @@ more to come...
   - deadline: 15 May + 15 Nov
   - themes: humanities, culture, social science
 
-</details>
+</details>  
 
 ---
 ### postdoc fellowships
@@ -116,8 +108,7 @@ more to come...
   - deadline: rolling deadline
   - themes: open
     
-</details>
-
+</details>  
 
 <details><summary><b><a href="https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/humboldt-research-fellowship">Humboldt Research Fellowship</a></b></summary>
 
@@ -128,9 +119,7 @@ more to come...
   - deadline: rolling application; decisions made Mar+Jul+Nov
   - themes: open
 
-</details>
-
-
+</details>  
 
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/en/fellowships/loreal-austria">L'OREAL austria - postdoc</a></b></summary>
 
@@ -141,9 +130,7 @@ more to come...
   - deadline: 1 Feb 2024
   - themes: medicine, the natural sciences or mathematics
 
-</details>
-
-
+</details>  
 
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/en/fellowships/apart-gsk/apart-gsk-application">ÖAW APART-GSK</a></b></summary>
   
@@ -154,9 +141,7 @@ more to come...
   - deadline: 25 Mar 2024
   - themes: humanities, culture, social science
 
-</details>
-
-
+</details>  
 
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/max-kade">ÖAW Max Kade Foundation New York</a></b></summary>
 
@@ -167,8 +152,7 @@ more to come...
   - deadline: 1 Sep
   - themes: open
 
-</details>
-
+</details>  
 
 <details><summary><b><a href="https://royalsociety.org/grants-schemes-awards/grants/career-development-fellowship/">The Royal Society Career Development Fellowship</a></b></summary>
 
@@ -179,10 +163,9 @@ more to come...
   - deadline: 24 Jan 2024
   - themes: natural sciences, STEM
 
-</details>
+</details>  
 
 more to come...
-
 
 ---
 :bee: Please send corrections or requests to Carrie -or- :robot: create a pull request
