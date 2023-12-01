@@ -27,7 +27,8 @@ title: PHD PROGRAMS
 
 ---
 ### BOKU • transitions to sustainability
-- **CSH faculty:** none • contact: [Christoph Winckler](https://boku.ac.at/personen/person/16073745BD38FB0B)
+- **CSH faculty:** none (but talk to Rafael)
+- **program contact:** [Christoph Winckler](https://boku.ac.at/personen/person/16073745BD38FB0B)
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
 - **ECTS credits:** coursework \[30\] + dissertation \[150\]
 - **time to degree:** 4 semesters to complete course requirements
@@ -86,6 +87,7 @@ title: PHD PROGRAMS
 ---
 ### MedUniWien • medical informatics, biostatistics & complex systems
 - **CSH faculty:** Stefan Thurner • Peter Klimek
+- **program director:** Peter Klimek • []()
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **SWS credits:** coursework \[ \] + dissertation \[ \]
 - **time to degree:** 4 semesters to complete course requirements
@@ -96,9 +98,11 @@ title: PHD PROGRAMS
 ---
 ### TU Wien • informatics
 - **CSH faculty:** Allan Hanbury • Bernhard Haslhofer
+- **program director:** [Andreas Steininger](https://informatics.tuwien.ac.at/people/andreas-steininger)
+- **dean of academic affairs:** [Hilda Tellioglu](https://informatics.tuwien.ac.at/people/hilda-tellioglu)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[18 ECTS\] + dissertation \[162 ECTS\]
-- **time to degree:** X semesters to complete course requirements
+- **time to degree:** 4 semesters to complete course requirements
 
 
 <br />
@@ -106,6 +110,8 @@ title: PHD PROGRAMS
 ---
 ### TU Wien • physics
 - **CSH faculty:** none
+- **program director:**
+- **dean of faculty of physics:** Joachim Burgdörfer
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[ \] + dissertation \[ \]
 
