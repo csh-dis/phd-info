@@ -22,7 +22,7 @@ header_pages:
   - visits-conferences.md
   - fellowships.md
 
-markdown: kramdown
+markdown: GFM
 
 # Set to `true` to show excerpts on the homepage.
  # show_excerpts: false
