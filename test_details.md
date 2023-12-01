@@ -11,8 +11,9 @@ title: test page
   <details><summary>a sub heading?</summary>
     - second level of text to open
     - with a bullet list
+  </details>
 </details>
-
+<br/>
 <p>this has two open details and one closing details</p>
 
 <details><summary>then a second text details box that should appear in main view</summary>
