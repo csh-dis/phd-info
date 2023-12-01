@@ -4,7 +4,7 @@ title: PHD PROGRAMS
 
 ##### 🚧  under construction  🚧
 
-<details><summary><h4>DEFINITIONS</h4></summary>
+<details><summary><b>DEFINITIONS</b></summary>
   
   - **advisor / supervisor** : these terms may be used interchangeably to denote the faculty member who is directly guiding your thesis research and shares responsibility for your professional development as a researcher; usually <b>advisor</b> is used at CSH
   - **mentor** : at CSH, this term is most often used to refer to your advisor; in other programs (e.g. TU Graz) the term denotes another person (i.e. not your advisor) whom you consult for professional development purposes or advice, for instance especially if your career interests lie outside of academia
