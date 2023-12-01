@@ -6,11 +6,11 @@ title: FELLOWSHIPS
 
 <h3>doctoral fellowships</h3>
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/doc">ÖAW DOC</a></b></summary>
-  <li>who is funded: doctoral students at AT uni; masters ≤2 years prior
-  <li>what is funded: 24-30-36 mo doctoral research
-  <li>funding level: 46.759 EUR
-  <li>application requirements: online form • cv • publications • advisor recommendation • commitment of host institution • research approvals • research abstract • research project exposé
-  <li>deadline: 5 Oct 2023
+  <li>who is funded: doctoral students at AT uni; masters ≤2 years prior</li>
+  <li>what is funded: 24-30-36 mo doctoral research</li>
+  <li>funding level: 46.759 EUR</li>
+  <li>application requirements: online form • cv • publications • advisor recommendation • commitment of host institution • research approvals • research abstract • research project exposé</li>
+  <li>deadline: 5 Oct 2023</li>
   <li>themes: open</li>
   <details><summary><b><a href="https://stipendien.oeaw.ac.at/fileadmin/subsites/stipendien/pdf/calls/DOC_EU-Missionen_online_englisch.pdf">FZÖ DOC</a></b></summary>
       <li>this is a funding mechanism within the ÖAW DOC program that targets research in particular research themes of EU Horizon interest and ÖAW priority
@@ -19,6 +19,7 @@ title: FELLOWSHIPS
       <li>themes • ÖAW priority areas: aging, climate change, energy systems, empires & world orders, AI</li>
   </details>
 </details>
+<br/>
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/doc-team">ÖAW DOC-TEAM</a></b></summary>
   <li>who is funded: teams of 3-4 doctoral students from the humanities/cultural studies/social sciences and natural sciences/medicine/technology; masters ≤4 years prior or ≤30 years old
   <li>what is funded: interdisciplinary project; 36 mo project support; 6 mo research stay abroad
