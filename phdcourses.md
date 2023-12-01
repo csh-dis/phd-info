@@ -1,7 +1,6 @@
 ---
 title: PHD COURSES
 ---
-
 **🚧  under construction  🚧**
 <hr>
 <h3>BOKU • transitions to sustainability</h3>
