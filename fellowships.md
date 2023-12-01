@@ -19,7 +19,15 @@ title: FELLOWSHIPS
       <li>themes • ÖAW priority areas: aging, climate change, energy systems, empires & world orders, AI</li>
   </details>
 </details>
-
+<details>
+  <summary><h4><a href="https://stipendien.oeaw.ac.at/stipendien/doc-team">ÖAW DOC-TEAM</a></h4></summary>
+  <li>who is funded: teams of 3-4 doctoral students from the humanities/cultural studies/social sciences and natural sciences/medicine/technology; masters ≤4 years prior or ≤30 years old
+  <li>what is funded: interdisciplinary project; 36 mo project support; 6 mo research stay abroad
+  <li>funding level: 46.759 EUR per person per year + travel, childcare, etc
+  <li>application requirements: online form • cvs • publications • supervision outline • commitment of host institution(s) • research abstract • research project proposal
+  <li>deadline: 31 Oct 2023
+  <li>themes: social sciences+ </li>
+</details>
 <details>
   <summary><h4><a href="https://www.ffg.at/en/ausschreibung/dissertantinnen2023">FFG industry-proximal dissertation</a></h4></summary>
   <li>who is funded: <i>for 2023</i>  female doctoral students; ≤2 applications per organization
@@ -47,8 +55,15 @@ title: FELLOWSHIPS
   <li>deadline: 15 Jan 2024 • 17 Jul 2024
   <li>themes: interest to commercialize research projects/products; entreprenuership; start-ups</li>
 </details>
-
-
+<details>
+  <summary><h4><a href="https://asea-uninet.org/scholarships-grants/ernst-mach-grant-emg/">Ernst Mach Grants – ASEA-UNINET</a></h4></summary>
+  <li>who is funded: doctoral students from ID, MY, TH, PH, VN; PhD in AT; ≤35 years
+  <li>what is funded: 36 mo stipend + travel + housing allowance
+  <li>funding level: 1250 EUR plus
+  <li>application requirements: 
+  <li>deadline: Mar
+  <li>themes: open</li>
+</details>
 <br />
 <p>more to come...<br />
 <hr>
@@ -105,7 +120,15 @@ title: FELLOWSHIPS
   <li>deadline: 1 Sep
   <li>themes: open</li>
 </details>
-
+<details>
+  <summary>[The Royal Society Career Development Fellowship](https://royalsociety.org/grants-schemes-awards/grants/career-development-fellowship/)</summary>
+  <li>who is funded: researchers from Black or Mixed Black African, Black Caribbean or other Black heritage backgrounds; ≤24 mo postdoc at start of fellowship
+  <li>what is funded: research in the UK
+  <li>funding level: 690.000 GBP over 4 years
+  <li>application requirements: personal details • career summary • research proposal • financial details • necessary research approvals • two letters of recommendation (incl. head of dept)
+  <li>deadline: 24 Jan 2024
+  <li>themes: natural sciences / STEM</li>
+</details>
 <br />
 <p>more to come...
 <br/>
