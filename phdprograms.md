@@ -16,9 +16,9 @@ title: PHD PROGRAMS
   - **thesis (advisory) committee** :
   - **thesis / dissertation / Doktorarbeit** : these words usually refer to the same thing, which is the written document that describes your  research and places this in the broader context of your field or discipline and makes clear what new knowledge your work has contributed as well as what future directions the inquiry might take; the dissertation should be an original work unless explicitly allowed otherwise  *(NOTE: the **thesis** and **Doktorarbeit** can be more precisely defined as the intellectual arguments rather than the document per se  – but these meanings are generally referenced interchangeably.)*
   - **cummulative dissertation / Manteldissertation** : a dissertation that incorporates publications or manuscripts directly (i.e. the dissertation is not "original" in the strictest sense) but still provides an original introduction and conclusion that places the research in context and outlines its contributions and future directions
-  - **thesis / dissertation evaluation / review** :
-  - **defense / defensio / Verteidigung / Rigorosum** : a public presentation of the concluded thesis research and defense of the arguments therein to a committee of experts \(**thesis defense committee**\) who will make a recommendation as to whether the doctoral degree should be conferred
-  - **thesis defense committee / defensio commission** :
+  - **dissertation evaluation / dissertation review** :
+  - **defense / defensio / Verteidigung / Rigorosum / viva voce** : a public presentation of the concluded thesis research and defense of the arguments therein to a committee of experts \(**thesis defense committee**\) who will make a recommendation as to whether the doctoral degree should be conferred
+  - **thesis defense committee / defensio commission / examination committee** : 
   - **habilitation / venia docendi** : an academic qualification process required of faculty in AT (and other European countries) leading to the title of *Dr. habil* or Privatdozent/in; approximately equivalent to tenure in the US, or a position of associate or full professor \(US\) or senior lecturer \(UK\)
     
 </details>
@@ -50,13 +50,13 @@ title: PHD PROGRAMS
   - courses: [see list](phdcourses.md#boku--transitions-to-sustainability)
   - publications: *nothing specified*
   - dissertation: original monograph *or* cummulative dissertation incl ≥2 first-author publications plus "framework paper"; require 2 hardcopies
-  - defense: public presenation and defense to defensio commission 
+  - defense: public presenation \(20-30 min\) and defense to examination committee
 
   </details>
 - **thesis advisory committee:** ≥3 members incl. advisor, 1 from BOKU Doctoral School, 1 external
 - **thesis committee meetings:** annual written report to committee; meeting of ≥2 members incl. minutes/report submitted to program
 - **dissertation evaluation:** 2 reviewers, at least one from outside BOKU; all must have expertise related to topic
-- **defense committee:** 
+- **defense committee:** 2 examiners plus chair
 
 - <details><summary><b>documents</b></summary>
   
