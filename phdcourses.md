@@ -40,7 +40,6 @@ title: PHD COURSES
 <br />
 
 ---
-
 ### CEU • network science
 #### REQUIRED COURSEWORK ECTS : 52 \[~ 11 courses\]
 
@@ -72,48 +71,46 @@ title: PHD COURSES
  - ?
 
 </details>
-
+<br />
 **Seminar \[12 ECTS @ 4 each\]**
-
+<br />
 **Reading Group \[8 ECTS\]**
 
 <br />
 
 ---
-
 ### Donau Uni Krems • migration studies
 #### REQUIRED COURSEWORK ECTS : 30 \[~ 7 courses\]
 
 <details><summary><b> Required Courses [18 ECTS]</b></summary>
 
- <li>Interdisciplinary Research in Migration Studies
-<li>Advanced Quantitative Methods
-<li>Advanced Qualitative Methods
-<li>Migration Theories and Policies [6 ECTS]</li>
+ - Interdisciplinary Research in Migration Studies
+ - Advanced Quantitative Methods
+ - Advanced Qualitative Methods
+ - Migration Theories and Policies [6 ECTS]</li>
 
 </details>
 <details><summary><b>Research Fields Elective Courses [8 ECTS @ 4 each]</b></summary>
-
- <li>Law and migration
-<li>International management and organization theory
-<li>Globalization and Religion
-<li>Migration and communication
-<li>Migration and democracy</li>
+ 
+ - Law and migration
+ - International management and organization theory
+ - Globalization and Religion
+ - Migration and communication
+ - Migration and democracy
 
 </details>
 <details><summary><b>Complementary Elective Courses [4 ECTS]</b></summary>
 
- <li>Scientific theory and ethics
-<li>Grant acquisition and project management
-<li>Inclusion and integration in digital network society
-<li>Scientific writing and dialectics</li>
+ - Scientific theory and ethics
+ - Grant acquisition and project management
+ - Inclusion and integration in digital network society
+ - Scientific writing and dialectics
 
 </details>
 
 <br />
 
 ---
-
 ### Donau Uni Krems • technology, innovation & cohesive societies
 #### REQUIRED COURSEWORK ECTS : 30 \[~ 9 courses\]
 
@@ -125,7 +122,7 @@ title: PHD COURSES
 - Socio-technical innovation for cohesive societies
 - Computational social science
 - Doctrinal legal research and case-based methods
-- 
+ 
 </details>
 <details><summary><b>Elective Courses [req 3]</b></summary>
 
@@ -141,7 +138,6 @@ title: PHD COURSES
 <br />
 
 ---
-
 ### MedUniWien • medical informatics, biostatistics & complex systems
 #### REQUIRED COURSEWORK SWS : 24   \[~ 14 courses\]
 
@@ -187,9 +183,8 @@ required courses indicated with \*
 <br />
 
 ---
-
 ### TU Wien • computer science / informatics
-#### REQUIRED COURSEWORK ECTS : 18 [~ 6 courses]
+#### REQUIRED COURSEWORK ECTS : 18 \[~ 6 courses\]
 
 <details><summary><b>Fundamental Courses [≥6 ECTS @ 3 each]</b></summary>
 
@@ -240,8 +235,8 @@ required courses indicated with \*
 </details>
 
 <br />
----
 
+---
 ### TU Wien • physics
 #### REQUIRED COURSEWORK ECTS : 18
 
@@ -267,10 +262,10 @@ required courses indicated with \*
 </details>
 
 <br />
----
 
-### TU Graz • computer science / informatics </h3>
-#### REQUIRED COURSEWORK ECTS : 15 [~ 8 courses]</h4>
+---
+### TU Graz • computer science / informatics
+#### REQUIRED COURSEWORK ECTS : 15 \[~ 8 courses\]
 
 *uses semester hours (SSt) where 1 SSt ~ 1.5 ECTS*
 
@@ -312,15 +307,18 @@ required courses indicated with \*
 </details>
 <details><summary><b>Scientific Methods and Communication [4-6 SSt]</b></summary>
 
- - Scientific methods and communication [2 SSt] *
- - Doctoral seminar [2 x 1 SSt] *
- - from course catalog [≤ 2 SSt] </li>
+ - Scientific methods and communication \[2 SSt\] \*
+ - Doctoral seminar \[2 x 1 SSt\] \*
+ - from course catalog \[≤ 2 SSt\]
 
 </details>
+
+<br />
 
 **Privatissimum / Seminar \[2 SSt\] \***
 
 <br />
+
 ---
 ### vetmed
 #### REQUIRED COURSEWORK ECTS : 15 \[~ 5 courses\]
@@ -330,8 +328,9 @@ required courses indicated with \*
 **\[ ECTS from any university \]**
 
 <br />
----
+<br />
 
+---
 ### Wirtschafts Uni • economic & social sciences
 #### REQUIRED COURSEWORK ECTS : 72 \[~ 13 courses\]
 
@@ -366,20 +365,23 @@ required courses indicated with \*
 </details>
 
 <br/ >
----
 
+---
 ### Uni Wien • mathematics
 #### REQUIRED COURSEWORK ECTS : ___
 
 more info to come
 
 <br />
----
+<br />
 
+---
 ### Uni Wien • physics
 #### REQUIRED COURSEWORK ECTS : ___
 
 more info to come
 
 <br />
+<br />
+
 ---
