@@ -171,8 +171,6 @@ more to come...
 
 ---
 
-:bee: Please send corrections or requests to Carrie -or- :robot: create a pull request
-
 
 <!--
 #### postdoc » faculty transition fellowships
