@@ -15,9 +15,14 @@ title: FELLOWSHIPS
   <details><summary><b><a href="https://stipendien.oeaw.ac.at/fileadmin/subsites/stipendien/pdf/calls/DOC_EU-Missionen_online_englisch.pdf">FZÖ DOC</a></b></summary>
       <li>this is a funding mechanism within the ÖAW DOC program that targets research in particular research themes of EU Horizon interest and ÖAW priority
       <li>application requirements: the EU or ÖAW theme must be clearly stated in the project proposal
-      <li>themes • EU Horizon: adaptation to climate change, cancer, healthy oceans, green/smart cities, soil health & food
-      <li>themes • ÖAW priority areas: aging, climate change, energy systems, empires & world orders, AI</li>
+      <li>themes • EU Horizon: adaptation to climate change, cancer, healthy oceans, green/smart cities, soil health \& food
+      <li>themes • ÖAW priority areas: aging, climate change, energy systems, empires \& world orders, AI</li>
 </details>
+<p>
+
+
+
+
 <br/>
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/doc-team">ÖAW DOC-TEAM</a></b></summary>
   <li>who is funded: teams of 3-4 doctoral students from the humanities/cultural studies/social sciences and natural sciences/medicine/technology; masters ≤4 years prior or ≤30 years old
