@@ -8,7 +8,7 @@ title: VISITS+CONFERENCES
 
 #### visiting researcher programs
 
-<details><summary><b>!AT [Marrietta Blau Grant](https://oead.at/en/outgoing/higher-education/scholarships-for-studying-abroad/marietta-blau-grant/)</b></summary>
+<details><summary><b>!AT <a href="https://oead.at/en/outgoing/higher-education/scholarships-for-studying-abroad/marietta-blau-grant/">Marrietta Blau Grant</a></b></summary>
   
   - who is funded: *doctoral students studying at an AT uni*
   - what is funded: *6-12 mo research stays outside of AT*
@@ -18,7 +18,7 @@ title: VISITS+CONFERENCES
   - themes: *open*
 </details>
 
-<details><summary><b>JP [MEXT](https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html)</b></summary>
+<details><summary><b>JP <a href="https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html">MEXT</a></b></summary>
   
   - who is funded: *doctoral students who have not studied in JP • interest in Japan + learning Japanese*
   - what is funded: *research stay + grad coursework in JP*
@@ -28,7 +28,7 @@ title: VISITS+CONFERENCES
   - themes: *open*
 
 </details>
-<details><summary><b>DE [Helmholtz Information & Data Science Academy](https://euraxess.ec.europa.eu/worldwide/lac/visiting-researcher-grant-phd-students-and-postdocs-germany-helmholtz-information-0)</b></summary>
+<details><summary><b>DE <a href="https://euraxess.ec.europa.eu/worldwide/lac/visiting-researcher-grant-phd-students-and-postdocs-germany-helmholtz-information-0">Helmholtz Information & Data Science Academy</a></b></summary>
 
   - who is funded: *doctoral students*
   - what is funded: *1-3 mo research stay at a Helmholtz center*
@@ -38,7 +38,7 @@ title: VISITS+CONFERENCES
   - themes: *energy • earth & environment • health • aeronautics, space & transport • matter • information*
 
 </details>
-<details><summary><b>US [Fulbright Foreign Student Program](https://www.fulbrightschuman.eu/grants-eu-citizens/pre-doctoral-research/)</b></summary>
+<details><summary><b>US <a href="https://www.fulbrightschuman.eu/grants-eu-citizens/pre-doctoral-research/">Fulbright Foreign Student Program</a></b></summary>
 
   - who is funded: *doctoral students; EU citizens; exp in 2+ EU countries*
   - what is funded: *4-9 mo research visit at US uni*
@@ -48,7 +48,7 @@ title: VISITS+CONFERENCES
   - themes: *open*
 
 </details>
-<details><summary><b>US [Austrian Marshall Plan Foundation Scholarships](https://www.marshallplan.at/scholarships-overview)</b></summary>
+<details><summary><b>US <a href="https://www.marshallplan.at/scholarships-overview">Austrian Marshall Plan Foundation Scholarships</a></b></summary>
 
   - who is funded: *doctoral students enrolled at TUWien*
   - what is funded: *≥3 mo research visit at US uni*
@@ -58,7 +58,7 @@ title: VISITS+CONFERENCES
   - themes: *technical or natural sciences* 
 
 </details>
-<details><summary><b>AL•BA•BG•CZ•HR•HU•MD•ME•MK•PL•RO•RS•SK•SI•XK [Central European Exchange Programme for University Studies\(CEEPUS\)](https://www.ceepus.info/content/apply)</b></summary>
+<details><summary><b>AL•BA•BG•CZ•HR•HU•MD•ME•MK•PL•RO•RS•SK•SI•XK <a href="https://www.ceepus.info/content/apply">Central European Exchange Programme for University Studies(CEEPUS)</a></b></summary>
 
   - who is funded: *students enrolled in CEEPUS uni \(all usual CSH partners are members\)* 
   - what is funed: *3-10 research stay at another CEEPUS uni*
@@ -68,6 +68,7 @@ title: VISITS+CONFERENCES
   - themes: *[network](https://www.ceepus.info/content/find)-dependent*
 
 </details>
+<br />
 
 #### academic stays
 
@@ -97,10 +98,11 @@ title: VISITS+CONFERENCES
 <br />
 
 #### schools
-- [ICTP Spring College on the Physics of Complex Systems]() • 2025:  in Trieste IT
+- ICTP Spring College on the Physics of Complex Systems • 2025:  in Trieste IT
 - [CSH Winter School](https://www.csh.ac.at) • 2024:  in Obergurgl AT
 - [SFI Complex Systems Summer School](https://santafe.edu/csss) • 2024: 9 Jun - 5 Jul in Santa Fe US
 - [ICTP Hands-On Research in Complex Systems School](https://indico.ictp.it/event/10525) • 2024: 2 - 13 Dec in Trieste IT
+
 <br />
 
 ---
@@ -113,7 +115,7 @@ title: VISITS+CONFERENCES
 *see also **RESEARCH VISITS** above*
 
 #### grants + travel awards
-<details><summary><b>[ÖFG "International Communication" program](https://www.oefg.at/funding/international-communication/)</b></summary>
+<details><summary><b><a href="https://www.oefg.at/funding/international-communication/">ÖFG International Communication program</a></b></summary>
 
   - who is funded: *junior researchers at an AT uni or research institute; <40 years*
   - what is funded: *research stays ≤3 mo • conference attendance/presentation • organizing symposia in AT • **not** schools or courses*
@@ -123,9 +125,10 @@ title: VISITS+CONFERENCES
   - themes: *open*
 
 </details>
+<br />
 
 #### university sources
-<details><summary><b>[TUWien conference grants](https://www.tuwien.at/studium/international/studieren-im-ausland/mobilitaetsprogramme/konferenzteilnahmen-von-dissertant-innen)</b></summary>
+<details><summary><b><a href="https://www.tuwien.at/studium/international/studieren-im-ausland/mobilitaetsprogramme/konferenzteilnahmen-von-dissertant-innen">TUWien conference grants</a></b></summary>
 
   - who is funded: *doctoral students enrolled at TUWien*
   - what is funded: *presentation at international scientific conference*
@@ -135,7 +138,7 @@ title: VISITS+CONFERENCES
   - themes: *open*
 
 </details>
-<details><summary><b>[TUWien short-term scientific work abroad](https://www.tuwien.at/studium/international/studieren-im-ausland/formulare-dokumente/wissenschaftliche-arbeiten-und-kurse)</b></summary>
+<details><summary><b><a href="https://www.tuwien.at/studium/international/studieren-im-ausland/formulare-dokumente/wissenschaftliche-arbeiten-und-kurse">TUWien short-term scientific work abroad</a></b></summary>
   
   - who is funded: *doctoral students enrolled at TUWien*
   - what is funded: *research stays; domain-specific coursework*
@@ -145,7 +148,7 @@ title: VISITS+CONFERENCES
   - themes: *open*
 
 </details>
-<details><summary><b>[UniWien Erasmus+ Traineeship](https://international.univie.ac.at/en/student-mobility/outgoing-students/erasmus-traineeships/)</b></summary>
+<details><summary><b><a href="https://international.univie.ac.at/en/student-mobility/outgoing-students/erasmus-traineeships/">UniWien Erasmus+ Traineeship</a></b></summary>
   
   - who is funded: *students enrolled at UniWien*
   - what is funded: *2-5 mo traineeship in EU member country; uni, company, NGO, association but **not** EU organizations or national partners; time abroad must be ≤12 mo*
@@ -155,7 +158,7 @@ title: VISITS+CONFERENCES
   - themes: *open*
 
 </details>
-<details><summary><b>[UniWien short-term grants abroad](https://international.univie.ac.at/en/student-mobility/outgoing-students/short-term-grants-abroad-kwa/requirements/)</b></summary>
+<details><summary><b><a href="https://international.univie.ac.at/en/student-mobility/outgoing-students/short-term-grants-abroad-kwa/requirements/">UniWien short-term grants abroad</a></b></summary>
   
   - who is funed: *graduate students enrolled at UniWien; <4 years PhD; accepted thesis proposal*
   - what is funded: *0.5-3 mo research visits; **not** conferences, schools, etc.; **not** internships that could be funded by Erasmus+*
