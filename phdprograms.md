@@ -6,20 +6,20 @@ title: PHD PROGRAMS
 
 <details><summary><b>DEFINITIONS</b></summary>
   
-  - **advisor / supervisor** : these terms may be used interchangeably to denote the faculty member who is directly guiding your thesis research and shares responsibility for your professional development as a researcher; usually <b>advisor</b> is used at CSH
+  - **advisor / supervisor** : these terms may be used interchangeably to denote the faculty member who is directly guiding your thesis research and shares responsibility for your professional development as a researcher; at CSH, usually <b>advisor</b> is used
   - **mentor** : at CSH, this term is most often used to refer to your advisor; in other programs (e.g. TU Graz) the term denotes another person (i.e. not your advisor) whom you consult for professional development purposes or advice, for instance especially if your career interests lie outside of academia
   - **Betreuer** : a habilitated faculty member at a university who can officially supervise a doctoral thesis
   - **director of studies / Studienleiter** : a faculty member at a university who can decide what counts toward degree requirements and approves that you have met the requirements for the degree
-  - **thesis proposal / exposé / Dissertationskonzept** :
-  - **qualifying exam / thesis proposal defense / proficiency evaluation** :
+  - **thesis proposal / exposé / Dissertationskonzept** : a written document that outlines the goals, background, methods and approaches, timeline and planning for the thesis research; the specific requirements, such as required sections and length, vary among programs
+  - **qualifying exam / thesis proposal defense / proficiency evaluation** : an oral examination in which the student's proposed thesis research as well as their knowledge of the field of study is interrogated by a committee of experts; this is not required by all programs and often follows submission of a **thesis proposal**
   - **educational agreement** :
   - **thesis (advisory) committee** :
   - **thesis / dissertation / Doktorarbeit** : these words usually refer to the same thing, which is the written document that describes your  research and places this in the broader context of your field or discipline and makes clear what new knowledge your work has contributed as well as what future directions the inquiry might take; the dissertation should be an original work unless explicitly allowed otherwise  *(NOTE: the **thesis** and **Doktorarbeit** can be more precisely defined as the intellectual arguments rather than the document per se  – but these meanings are generally referenced interchangeably.)*
   - **cummulative dissertation / Manteldissertation** : a dissertation that incorporates publications or manuscripts directly (i.e. the dissertation is not "original" in the strictest sense) but still provides an original introduction and conclusion that places the research in context and outlines its contributions and future directions
   - **dissertation evaluation / dissertation review** :
   - **defense / defensio / Verteidigung / Rigorosum / viva voce** : a public presentation of the concluded thesis research and defense of the arguments therein to a committee of experts \(**thesis defense committee**\) who will make a recommendation as to whether the doctoral degree should be conferred
-  - **thesis defense committee / defensio commission / examination committee** : 
-  - **habilitation / venia docendi** : an academic qualification process required of faculty in AT (and other European countries) leading to the title of *Dr. habil* or Privatdozent/in; approximately equivalent to tenure in the US, or a position of associate or full professor \(US\) or senior lecturer \(UK\)
+  - **thesis defense committee / defensio commission / examination committee** : a group of scholars with expertise in the area\(s\) most relevant to the thesis research and who will evaluate whether the candidate has met the requirements for the doctoral degree; members must usually have **habilitation** or an equivalent qualification and are often nominated by the student and their advisor
+  - **habilitation / venia docendi** : an academic qualification required of faculty in AT (and other European countries) leading to the title of *Dr. habil* or Privatdozent/in; approximately equivalent to tenure in the US, or a position of associate or full professor \(US\) or senior lecturer \(UK\)
     
 </details>
 
