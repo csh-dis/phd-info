@@ -308,7 +308,7 @@ required courses indicated with \*
 
 ---
 ### TU Graz • computer science / informatics
-#### REQUIRED COURSEWORK ECTS : 15 \[~ 8 courses\]
+#### REQUIRED COURSEWORK SSt : 14 \[~ 8 courses\]
 
 *uses semester hours (SSt) where 1 SSt ~ 1.5 ECTS*
 
