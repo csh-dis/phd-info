@@ -16,9 +16,9 @@ title: PHD PROGRAMS
   - **thesis (advisory) committee** :
   - **thesis / dissertation / Doktorarbeit** : these words usually refer to the same thing, which is the written document that describes your  research and places this in the broader context of your field or discipline and makes clear what new knowledge your work has contributed as well as what future directions the inquiry might take; the dissertation should be an original work unless explicitly allowed otherwise  *(NOTE: the **thesis** and **Doktorarbeit** can be more precisely defined as the intellectual arguments rather than the document per se  – but these meanings are generally referenced interchangeably.)*
   - **cummulative dissertation / Manteldissertation** : a dissertation that incorporates publications or manuscripts directly (i.e. the dissertation is not "original" in the strictest sense) but still provides an original introduction and conclusion that places the research in context and outlines its contributions and future directions
-  - **thesis / dissertation evaluation / review** :
-  - **defense / defensio / Verteidigung / Rigorosum** : a public presentation of the concluded thesis research and defense of the arguments therein to a committee of experts \(**thesis defense committee**\) who will make a recommendation as to whether the doctoral degree should be conferred
-  - **thesis defense committee / defensio commission** :
+  - **dissertation evaluation / dissertation review** :
+  - **defense / defensio / Verteidigung / Rigorosum / viva voce** : a public presentation of the concluded thesis research and defense of the arguments therein to a committee of experts \(**thesis defense committee**\) who will make a recommendation as to whether the doctoral degree should be conferred
+  - **thesis defense committee / defensio commission / examination committee** : 
   - **habilitation / venia docendi** : an academic qualification process required of faculty in AT (and other European countries) leading to the title of *Dr. habil* or Privatdozent/in; approximately equivalent to tenure in the US, or a position of associate or full professor \(US\) or senior lecturer \(UK\)
     
 </details>
@@ -34,7 +34,7 @@ title: PHD PROGRAMS
 - <details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
-  - YR1 • complete dissertation agreement with advisor
+  - YR1 • complete dissertation \(doctoral thesis\) agreement with advisor
   - YR2 • within 1 year of acceptance of dissertation agreement: enroll + submit exposé
   - YR2 • coursework + thesis research 
   - YR3 • coursework + thesis research
@@ -43,9 +43,24 @@ title: PHD PROGRAMS
   - END • ~2 weeks prior to completion: defense
 
   </details>
+
+- <details><summary><b>degree requirements</b></summary>
+  
+  - acceptance of dissertation agreement by program coordinator
+  - courses: [see list](phdcourses.md#boku--transitions-to-sustainability)
+  - publications: *nothing specified*
+  - dissertation: original monograph *or* cummulative dissertation incl ≥2 first-author publications plus "framework paper"; require 2 hardcopies
+  - defense: public presenation \(20-30 min\) and defense to examination committee
+
+  </details>
+- **thesis advisory committee:** ≥3 members incl. advisor, 1 from BOKU Doctoral School, 1 external
+- **thesis committee meetings:** annual written report to committee; meeting of ≥2 members incl. minutes/report submitted to program
+- **dissertation evaluation:** 2 reviewers, at least one from outside BOKU; all must have expertise related to topic
+- **defense committee:** 2 examiners plus chair
+
 - <details><summary><b>documents</b></summary>
   
-  -[registration of doctoral project](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796764_T2S_Anmeldung_Projekt_Doktorat_2020_EN.docx)
+  - [registration of doctoral project](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796764_T2S_Anmeldung_Projekt_Doktorat_2020_EN.docx)
   - [additional coursework](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796761-796769_Nachnominierung_2021_EN.docx)
   - [curriculum](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Curricula/796761-769_Curriculum_Doktorat_2021U_EN.pdf)
   - [guidelines](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Sonstiges/796761-769_Doktoratsrichtlinien_2021_EN.pdf)
@@ -75,14 +90,6 @@ title: PHD PROGRAMS
 - **SWS credits:** coursework \[ \] + dissertation \[ \]
 - **time to degree:** 4 semesters to complete course requirements
 
-degree requirements:
-  qualifying exam
-  courses
-  publications
-  dissertation
-  defense
-dissertation format
-curriculum
 
 <br />
 
@@ -138,10 +145,12 @@ curriculum
   - qualifying exam: before end YR1; public presentation and defense of the thesis proposal to a thesis advisory committee; should have a manuscript submitted and have presented at a seminar or conference
   - courses: [see list](phdcourses.md#tu-graz--computer-science--informatics)
   - publications: 3 first-author publications or conference proceedings; can be in any journal/discipline but with the goal top quartile (Q1) journals or high impact-factor journals; *exceptions are possible \- see \**
-  - dissertation: written thesis
+  - dissertation: cummulative dissertation is acceptable with permission of the advisor; in English; require 2 hardcopies
   - defense: public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
 
-- **dissertation format:** cummulative dissertation is acceptable with permission of the advisor; in English; require 2 hardcopies 
+  </details>
+- **thesis advisory committee:** 
+- **thesis committee meetings:**
 - **dissertation evaluation:** 2-3\* reviewers, at least one from outside TU Graz; all must have habilitation or equivalent
 - **defense committee:** 3-5\* members; dean of studies in computer science or their apointee serves as chair; at least one member from outside TU Graz; all must have habilitation of equivalent
 - <details><summary><b>documents</b></summary>
