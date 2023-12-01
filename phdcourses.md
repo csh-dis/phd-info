@@ -18,11 +18,15 @@ title: PHD COURSES
 
 </details>
 
+<br />
+
 <details><summary><b> Elective Courses : Transferable Skills [6 ECTS]</b></summary>
 
  - ?
  
 </details>
+
+<br />
 
 <details><summary><b>Elective Courses : Scientific Courses [6 ECTS from BOKU or other university]</b></summary>
 
@@ -52,6 +56,9 @@ title: PHD COURSES
  - Academic professionalization</li>
 
 </details>
+
+<br />
+
 <details><summary><b>Mandatory-Elective Courses [8-12 ECTS @ 4 each]</b></summary>
 
  - Statistical methods in network science and data management
@@ -66,11 +73,15 @@ title: PHD COURSES
  - Scientific Python</li>
 
 </details>
+
+<br />
+
 <details><summary><b>Elective Courses \[0-4 ECTS @ 4 each\]</b></summary>
  
  - ?
 
 </details>
+
 <br />
 
 **Seminar \[12 ECTS @ 4 each\]**
@@ -93,6 +104,9 @@ title: PHD COURSES
  - Migration Theories and Policies [6 ECTS]</li>
 
 </details>
+
+<br />
+
 <details><summary><b>Research Fields Elective Courses [8 ECTS @ 4 each]</b></summary>
  
  - Law and migration
@@ -102,6 +116,9 @@ title: PHD COURSES
  - Migration and democracy
 
 </details>
+
+<br />
+
 <details><summary><b>Complementary Elective Courses [4 ECTS]</b></summary>
 
  - Scientific theory and ethics
@@ -127,6 +144,9 @@ title: PHD COURSES
 - Doctrinal legal research and case-based methods
  
 </details>
+
+<br />
+
 <details><summary><b>Elective Courses [req 3]</b></summary>
 
  - Research methods (mixed methods)
@@ -160,6 +180,9 @@ required courses indicated with \*
  - \...possibly others\...
    
 </details>
+
+<br />
+
 <details><summary><b>Basic Courses [4 @ 1 SWS each]</b></summary>
  
  - Mathematical basics & key algorithms
@@ -171,6 +194,9 @@ required courses indicated with \*
  - Complex systems and artificial intelligence</li>
 
 </details>
+
+<br />
+
 <details><summary><b>Thesis Seminars [4 @ 2 SWS each]</b></summary>
  - Bioinformatics, biosimulation and complex systems
  - Medical informaiton management and decision support in clinical settings
@@ -202,6 +228,9 @@ required courses indicated with \*
  - From surviving to thriving: crafting your good professional life
 
 </details>
+
+<br />
+
 <details><summary><b>Area Courses [≤12 ECTS @ 3 each]</b></summary>
 
  - PhD primary area computer engineering intro
@@ -250,16 +279,25 @@ required courses indicated with \*
  more info to come
 
 </details>
+
+<br />
+
 <details><summary><b>Seminars [2-4 ECTS]</b></summary>
 
  more info to come
  
- </details> 
+</details> 
+
+<br />
+
 <details><summary><b>Workshops [2-5 ECTS]</b></summary>
 
  more info to come
 
 </details>
+
+<br />
+
 <details><summary><b>Laboratories [0-6 ECTS]</b></summary>
 
  more info to come
@@ -310,6 +348,9 @@ required courses indicated with \*
  - \...and more\...
 
 </details>
+
+<br />
+
 <details><summary><b>Scientific Methods and Communication [4-6 SSt]</b></summary>
 
  - Scientific methods and communication \[2 SSt\] \*
@@ -349,6 +390,9 @@ required courses indicated with \*
  - Internal/external research seminar</li>
 
 </details>
+
+<br />
+
 <details><summary><b>WU Electives [30 ECTS @ 6 each]</b></summary>
  
  - Topics in game theory
@@ -363,6 +407,9 @@ required courses indicated with \*
  - Topics in behavioral economics
    
 </details>
+
+<br />
+
 <details><summary><b>External Electives [6 ECTS @ 3 each]</b></summary>
  
  *must be related to the dissertation topic; from any university*
