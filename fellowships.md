@@ -2,8 +2,8 @@
 title: FELLOWSHIPS
 ---
 🚧  under construction  🚧
-
 ---
+
 <h3>doctoral fellowships</h3>
 <details><summary><h4><a href="https://stipendien.oeaw.ac.at/stipendien/doc">ÖAW DOC</a></h4></summary>
   <li>who is funded: doctoral students at AT uni; masters ≤2 years prior
@@ -19,8 +19,7 @@ title: FELLOWSHIPS
       <li>themes • ÖAW priority areas: aging, climate change, energy systems, empires & world orders, AI</li>
   </details>
 </details>
-<details>
-  <summary><h4><a href="https://stipendien.oeaw.ac.at/stipendien/doc-team">ÖAW DOC-TEAM</a></h4></summary>
+<details><summary><h4><a href="https://stipendien.oeaw.ac.at/stipendien/doc-team">ÖAW DOC-TEAM</a></h4></summary>
   <li>who is funded: teams of 3-4 doctoral students from the humanities/cultural studies/social sciences and natural sciences/medicine/technology; masters ≤4 years prior or ≤30 years old
   <li>what is funded: interdisciplinary project; 36 mo project support; 6 mo research stay abroad
   <li>funding level: 46.759 EUR per person per year + travel, childcare, etc
@@ -28,8 +27,7 @@ title: FELLOWSHIPS
   <li>deadline: 31 Oct 2023
   <li>themes: social sciences+ </li>
 </details>
-<details>
-  <summary><h4><a href="https://www.ffg.at/en/ausschreibung/dissertantinnen2023">FFG industry-proximal dissertation</a></h4></summary>
+<details><summary><h4><a href="https://www.ffg.at/en/ausschreibung/dissertantinnen2023">FFG industry-proximal dissertation</a></h4></summary>
   <li>who is funded: <i>for 2023</i>  female doctoral students; ≤2 applications per organization
   <li>what is funded: max of 50% total costs for 24-36 mo; direct costs in support of student
   <li>funding level: ≤110.000 EUR for the project
@@ -37,8 +35,7 @@ title: FELLOWSHIPS
   <li>deadline: rolling basis Feb-Nov; extended to Feb 2024
   <li>themes: for 2023: energy transition, mobility transition or circular economy
 </details>
-<details>
-  <summary><h4><a href="https://stipendien.oeaw.ac.at/en/fellowships/loreal-austria">L'OREAL austria - PhD</a></h4></summary>
+<details><summary><h4><a href="https://stipendien.oeaw.ac.at/en/fellowships/loreal-austria">L'OREAL austria - PhD</a></h4></summary>
   <li>who is funded: female doctoral students; AT citizens or in AT ≥3 years; ≤3 years of PhD
   <li>what is funded: 8-12 mo research project in AT
   <li>funding level: 25.000 EUR
@@ -46,8 +43,7 @@ title: FELLOWSHIPS
   <li>deadline: 1 Feb 2024
   <li>themes: medicine, the natural sciences or mathematics</li>
 </details>
-<details>
-  <summary><h4><a href="https://www.sdw.org/das-bieten-wir/fuer-studierende/studienfoerderwerk-klaus-murmann/ueberblick.html">Studienförderwerk Klaus Murmann</a></h4></summary>
+<details><summary><h4><a href="https://www.sdw.org/das-bieten-wir/fuer-studierende/studienfoerderwerk-klaus-murmann/ueberblick.html">Studienförderwerk Klaus Murmann</a></h4></summary>
   <li>who is funded: doctoral students at uni in AT, DE, FR, CH, UK; C1 german level; ≤5 years of PhD
   <li>what is funded: 18-42 mo stipend + social benefit + childcare
   <li>funding level: 1450 EUR per mo \(and more\)
@@ -55,8 +51,7 @@ title: FELLOWSHIPS
   <li>deadline: 15 Jan 2024 • 17 Jul 2024
   <li>themes: interest to commercialize research projects/products; entreprenuership; start-ups</li>
 </details>
-<details>
-  <summary><h4><a href="https://asea-uninet.org/scholarships-grants/ernst-mach-grant-emg/">Ernst Mach Grants – ASEA-UNINET</a></h4></summary>
+<details><summary><h4><a href="https://asea-uninet.org/scholarships-grants/ernst-mach-grant-emg/">Ernst Mach Grants – ASEA-UNINET</a></h4></summary>
   <li>who is funded: doctoral students from ID, MY, TH, PH, VN; PhD in AT; ≤35 years
   <li>what is funded: 36 mo stipend + travel + housing allowance
   <li>funding level: 1250 EUR plus
