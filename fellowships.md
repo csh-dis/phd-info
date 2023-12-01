@@ -8,19 +8,19 @@ title: FELLOWSHIPS
 
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/doc">ÖAW DOC</a></b></summary>
 
-  * who is funded: doctoral students at AT uni; masters ≤2 years prior
-  * what is funded: 24-30-36 mo doctoral research
-  * funding level: 46.759 EUR
-  * application requirements: online form • cv • publications • advisor recommendation • commitment of host institution • research approvals • research abstract • research project exposé
-  * deadline: 5 Oct 2023
-  * themes: open
+  <li> who is funded: doctoral students at AT uni; masters ≤2 years prior
+  <li> what is funded: 24-30-36 mo doctoral research
+  <li> funding level: 46.759 EUR
+  <li> application requirements: online form • cv • publications • advisor recommendation • commitment of host institution • research approvals • research abstract • research project exposé
+  <li> deadline: 5 Oct 2023
+  <li> themes: open
 
   <details><summary><b><a href="https://stipendien.oeaw.ac.at/fileadmin/subsites/stipendien/pdf/calls/DOC_EU-Missionen_online_englisch.pdf">FZÖ DOC</a></b></summary>
 
-    * this is a funding mechanism within the ÖAW DOC program that targets research in particular research themes of EU Horizon interest and ÖAW priority
-    * application requirements: the EU or ÖAW theme must be clearly stated in the project proposal
-    * themes • EU Horizon: adaptation to climate change, cancer, healthy oceans, green/smart cities, soil health \& food
-    * themes • ÖAW priority areas: aging, climate change, energy systems, empires & world orders, AI
+    <li> this is a funding mechanism within the ÖAW DOC program that targets research in particular research themes of EU Horizon interest and ÖAW priority
+    <li> application requirements: the EU or ÖAW theme must be clearly stated in the project proposal
+    <li> themes • EU Horizon: adaptation to climate change, cancer, healthy oceans, green/smart cities, soil health \& food
+    <li> themes • ÖAW priority areas: aging, climate change, energy systems, empires & world orders, AI
 
   </details>
 </details>
