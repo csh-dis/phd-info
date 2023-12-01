@@ -7,26 +7,31 @@ title: FELLOWSHIPS
 ### doctoral fellowships
 
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/doc">ÖAW DOC</a></b></summary>
-  
+
+
   - who is funded: doctoral students at AT uni; masters ≤2 years prior
   - what is funded: 24-30-36 mo doctoral research
   - funding level: 46.759 EUR
   - application requirements: online form • cv • publications • advisor recommendation • commitment of host institution • research approvals • research abstract • research project exposé
   - deadline: 5 Oct 2023
   - themes: open
-  
+
+
   <details><summary><b><a href="https://stipendien.oeaw.ac.at/fileadmin/subsites/stipendien/pdf/calls/DOC_EU-Missionen_online_englisch.pdf">FZÖ DOC</a></b></summary>
-    
+
+
       - this is a funding mechanism within the ÖAW DOC program that targets research in particular research themes of EU Horizon interest and ÖAW priority
       - application requirements: the EU or ÖAW theme must be clearly stated in the project proposal
       - themes • EU Horizon: adaptation to climate change, cancer, healthy oceans, green/smart cities, soil health \& food
       - themes • ÖAW priority areas: aging, climate change, energy systems, empires \& world orders, AI
-      
-  </details>
+
+
+    </details>
 </details>
 
 
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/doc-team">ÖAW DOC-TEAM</a></b></summary>
+
   
   - who is funded: teams of 3-4 doctoral students from the humanities/cultural studies/social sciences and natural sciences/medicine/technology; masters ≤4 years prior or ≤30 years old
   - what is funded: interdisciplinary project; 36 mo project support; 6 mo research stay abroad
@@ -34,7 +39,8 @@ title: FELLOWSHIPS
   - application requirements: online form • cvs • publications • supervision outline • commitment of host institution(s) • research abstract • research project proposal
   - deadline: 31 Oct 2023
   - themes: social sciences +
-    
+
+
 </details>
 
 
@@ -87,6 +93,7 @@ title: FELLOWSHIPS
     
 </details>
 
+
 more to come...
 
 ---
@@ -104,7 +111,7 @@ more to come...
 </details>
 
 ---
-###postdoc fellowships
+### postdoc fellowships
 
 <details><summary><b><a href="https://www.fwf.ac.at/foerdern/foerderportfolio/karrieren/esprit">FWF ESPRIT</a></b></summary>
 
@@ -184,7 +191,8 @@ more to come...
 
 
 ---
-  
+:bee: Please send corrections or requests to Carrie -or- :robot: create a pull request
+
 <!--
 #### postdoc » faculty transition fellowships
 - [EU Horizon Marie SCurie Action Postdoctoral Fellowship]()
@@ -208,6 +216,6 @@ more to come...
   - application requirements:
   - deadline:
   - themes:
----
+
 -->
-:bee: Please send corrections or requests to Carrie -or- :robot: create a pull request
+
