@@ -72,8 +72,11 @@ title: PHD COURSES
 
 </details>
 <br />
+
 **Seminar \[12 ECTS @ 4 each\]**
+
 <br />
+
 **Reading Group \[8 ECTS\]**
 
 <br />
@@ -177,7 +180,9 @@ required courses indicated with \*
  - Artificial intelligence</li>
 
 </details>
- 
+
+<br />
+
 **Journal Club \[6 @ 1 SWS each\]**
 
 <br />
@@ -364,7 +369,7 @@ required courses indicated with \*
  
 </details>
 
-<br/ >
+<br />
 
 ---
 ### Uni Wien • mathematics
