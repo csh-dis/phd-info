@@ -24,7 +24,7 @@ title: VISITS+CONFERENCES
   - what is funded: *research stay + grad coursework in JP*
   - funding level: *145.000 JPY per mo + travel, etc*
   - application requirements: ***apply through JP embassy** forms • research plan • transcripts • health certificate • recommendation letters • dissertation abstract*
-  - deadline: *~ Apr 2024*
+  - deadline: *Apr 2024*
   - themes: *open*
 
 </details>
@@ -61,9 +61,9 @@ title: VISITS+CONFERENCES
 <details><summary><b>AL•BA•BG•CZ•HR•HU•MD•ME•MK•PL•RO•RS•SK•SI•XK <a href="https://www.ceepus.info/content/apply">Central European Exchange Programme for University Studies(CEEPUS)</a></b></summary>
 
   - who is funded: *students enrolled in CEEPUS uni \(all usual CSH partners are members\)* 
-  - what is funed: *3-10 research stay at another CEEPUS uni*
+  - what is funed: *3-10 mo research stay at another CEEPUS uni*
   - funding level: *country-dependent*
-  - applicatin requirements: *[online app](https://www.ceepus.info/signin)*
+  - application requirements: *[online app](https://www.ceepus.info/signin)*
   - deadline: *15 Jun, 31 Oct*
   - themes: *[network](https://www.ceepus.info/content/find)-dependent*
 
