@@ -8,6 +8,16 @@ title: VISITS+CONFERENCES
 
 #### visiting researcher programs
 
+<details><summary><b>DE <a href="https://www.einsteinforum.de/about/fellowship/?lang=en">Einstein Fellowship</a></b></summary>
+
+  - who is funded: *< 35 years old, uni degree in humanities or social or natural sciences*
+  - what is funded: *5-6 mo research stay at Einstein's summerhouse in Caputh, Brandenburg*
+  - funding level: *10000 EUR stipend plus travel*
+  - application requirements: *cv • 2-page project proposal • two letters of recommendation*
+  - deadline: *mid-May*
+  - themes: *the project must be significantly different in content, and preferably field and form, from previous work; i.e. dissertation research is **not** funded*
+
+</details>
 <details><summary><b>!AT <a href="https://oead.at/en/outgoing/higher-education/scholarships-for-studying-abroad/marietta-blau-grant/">Marrietta Blau Grant</a></b></summary>
   
   - who is funded: *doctoral students studying at an AT uni*
@@ -16,15 +26,15 @@ title: VISITS+CONFERENCES
   - application requirements: *online form • invitation/commitment letters • exposé • dissertation abstract • letter of recommendation from advisor • research approvals*
   - deadline: *Feb 1, Sep 1*
   - themes: *open*
-</details>
 
+</details>
 <details><summary><b>JP <a href="https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html">MEXT</a></b></summary>
   
   - who is funded: *doctoral students who have not studied in JP • interest in Japan + learning Japanese*
   - what is funded: *research stay + grad coursework in JP*
   - funding level: *145.000 JPY per mo + travel, etc*
   - application requirements: ***apply through JP embassy** forms • research plan • transcripts • health certificate • recommendation letters • dissertation abstract*
-  - deadline: *~ Apr 2024*
+  - deadline: *Apr 2024*
   - themes: *open*
 
 </details>
@@ -61,9 +71,9 @@ title: VISITS+CONFERENCES
 <details><summary><b>AL•BA•BG•CZ•HR•HU•MD•ME•MK•PL•RO•RS•SK•SI•XK <a href="https://www.ceepus.info/content/apply">Central European Exchange Programme for University Studies(CEEPUS)</a></b></summary>
 
   - who is funded: *students enrolled in CEEPUS uni \(all usual CSH partners are members\)* 
-  - what is funed: *3-10 research stay at another CEEPUS uni*
+  - what is funed: *3-10 mo research stay at another CEEPUS uni*
   - funding level: *country-dependent*
-  - applicatin requirements: *[online app](https://www.ceepus.info/signin)*
+  - application requirements: *[online app](https://www.ceepus.info/signin)*
   - deadline: *15 Jun, 31 Oct*
   - themes: *[network](https://www.ceepus.info/content/find)-dependent*
 
@@ -167,6 +177,8 @@ title: VISITS+CONFERENCES
   - deadline: *15 Feb, 15 May, 15 Oct*
   - themes: *open*
 </details>
+
+*more to come*
 
 --- 
 

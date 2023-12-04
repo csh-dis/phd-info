@@ -168,7 +168,7 @@ title: PHD COURSES
 
 required courses indicated with \*
 
-<details><summary><b>Propedeutics [6 @ 1 SWS each]</b></summary>
+<details><summary><b>Propedeutics [6 SWS @ 1 each]</b></summary>
 
  - Ethics in medicine & good scientific practice *
  - Intellectual property rights & project management *
@@ -183,7 +183,7 @@ required courses indicated with \*
 
 <br />
 
-<details><summary><b>Basic Courses [4 @ 1 SWS each]</b></summary>
+<details><summary><b>Basic Courses [4 SWS @ 1 each]</b></summary>
  
  - Mathematical basics & key algorithms
  - Advanced statisticsal procedures and theoretical concepts
@@ -197,7 +197,7 @@ required courses indicated with \*
 
 <br />
 
-<details><summary><b>Thesis Seminars [4 @ 2 SWS each]</b></summary>
+<details><summary><b>Thesis Seminars [4 SWS @ 2 each]</b></summary>
  - Bioinformatics, biosimulation and complex systems
  - Medical informaiton management and decision support in clinical settings
  - Computer vision
@@ -420,7 +420,7 @@ required courses indicated with \*
 
 ---
 ### Uni Wien • mathematics
-#### REQUIRED COURSEWORK ECTS : ___
+#### REQUIRED COURSEWORK ECTS : \[~ x courses\]
 
 more info to come
 
@@ -429,7 +429,7 @@ more info to come
 
 ---
 ### Uni Wien • physics
-#### REQUIRED COURSEWORK ECTS : ___
+#### REQUIRED COURSEWORK ECTS : 24 \[~ x courses\]
 
 more info to come
 
