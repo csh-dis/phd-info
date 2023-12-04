@@ -4,7 +4,8 @@
 ### COMPLEXITY SCIENCE HUB • DIGITAL INNOVATION SCHOOL
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐖 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌴 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛰️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐞 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐫 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏗️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔫
 
-*NOTE: 🚧 all pages under construction 🚧
+**NOTE: 🚧 all pages under construction 🚧**
+
 *if information is missing, please check back or contact Carrie*
 
 ## NAVIGATION
@@ -24,4 +25,6 @@
 ---
 ## FEEDBACK
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeq1v3jM3YOckC8iO0bkMhhipOsmPiAG-dGdfGwbNFOr9v1OQ/viewform?embedded=true" width="640" height="494" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeq1v3jM3YOckC8iO0bkMhhipOsmPiAG-dGdfGwbNFOr9v1OQ/viewform?embedded=true" width="480" height="240" frameborder="0" marginheight="0" marginwidth="0">$nbsp</iframe>
+
