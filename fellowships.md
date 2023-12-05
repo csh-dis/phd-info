@@ -180,7 +180,6 @@ more to come...
 
 <details>
 <br />
-
 <details><summary><b><a href="https://www.fwf.ac.at/en/funding/portfolio/careers/elise-richter">FWF Elise Richter</a></b></summary>
 
   - *who is funded:* non-male senior postdocs, ≥2 years postdoc experience 
@@ -191,7 +190,7 @@ more to come...
   - *themes:* open
 
 </details>
-
+<br />
 <details><summary><b><a href="https://www.fwf.ac.at/en/funding/portfolio/careers/fwf-start-award">FWF START Award</a></b></summary>
 
   - *who is funded:* 2-8 years postdoc experience, international experience
@@ -201,6 +200,8 @@ more to come...
   - *deadline:* 20 Sep 2023
   - *themes:* open
   - *NOTE: application comes with commitment to submit an ERC Starting Grant at next possible deadline*
+
+</details>
 
 ---
 
