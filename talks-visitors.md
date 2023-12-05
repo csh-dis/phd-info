@@ -1,5 +1,5 @@
 ---
-title: Talks+Visitors
+title: TALKS+VISITORS
 ---
 
 ## [CURRENT SCHEDULE](https://www.csh.ac.at/calendar/category/event/)
