@@ -40,6 +40,12 @@ title: TALKS+VISITORS
 - It is strongly encouraged that all visitors to CSH give a talk about their research expertise.
 - A visitor talk needs the approval of the CSH President. Prepare the following information about the speaker and send to CSH Executive Affairs: **name, position, affiliation, link to homepage, talk title, brief abstract of the talk, brief speaker bio**  \[all in english\]. Once approved, the CSH Events Manager will work with you to schedule the talk.
 
+**Hosting a talk / introducing your visitor**
+*more info coming soon*
+
+**Creating an agenda for your visitor**
+*more info coming soon*
+
 ---
 ### Contacts:
 
