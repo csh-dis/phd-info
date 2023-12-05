@@ -165,6 +165,17 @@ more to come...
 
 </details>  
 <br />
+<details><summary><b><a href="https://www.fulbrightschuman.eu/grants-eu-citizens/post-doctoral-research/">Fulbright Visiting Scholar Program</a></b></summary>
+
+  - *who is funded:* postdocs with ≥3 mo experience in ≥2 EU countries; no prior US residence
+  - *what is funded:* 3-9 mo research stay in the US
+  - *funding level:* ≤3000 EUR per month + travel
+  - *application requirements:* cv • project statement • host acceptance • three letters of recommendation
+  - *deadline:* 1 Dec
+  - *themes:* open
+
+</details>  
+<br />
 more to come...
 
 ---
