@@ -241,7 +241,7 @@ title: PHD PROGRAMS
 - **program director:**
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[72\] + proposal \[6\] + defense \[6\]
-- **time to degree:** X semesters to complete course requirements
+- **time to degree:** __ semesters to complete course requirements
 - **thesis advisory committee:** 
 - **thesis committee meetings:**
 - **dissertation evaluation:**
@@ -277,8 +277,8 @@ title: PHD PROGRAMS
 
 ---
 ## Uni Wien • physics
-- **CSH faculty:** none • contact: [Christoph Dellago](https://comp-phys.univie.ac.at/dellago/)
-- **director of studies:** [Thomas Pichler](https://ufind.univie.ac.at/de/person.html?id=7297) 
+- **CSH faculty:** none
+- currently there is no supervisor available for CSH students: **please do not contact Prof Dellago about the possibility of supervision**
   
 *more info to come*
 
