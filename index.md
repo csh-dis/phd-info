@@ -21,10 +21,3 @@
 
 ### [FELLOWSHIPS & JOBS](fellowships.html)
 - includes long-term fellowship opportunities for PhD/doctoral students and postdoctoral fellows \[jobs to come\]
-
----
-## FEEDBACK
-
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeq1v3jM3YOckC8iO0bkMhhipOsmPiAG-dGdfGwbNFOr9v1OQ/viewform?embedded=true" width="480" height="240" frameborder="0" marginheight="0" marginwidth="0">$nbsp</iframe>
-
