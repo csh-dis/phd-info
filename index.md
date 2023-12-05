@@ -4,7 +4,6 @@
 ### COMPLEXITY SCIENCE HUB • DIGITAL INNOVATION SCHOOL
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐖 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌴 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛰️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐞 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐫 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏗️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔫
 
-### NOTE: 🚧 all pages are under construction - some more than others 🚧**
 
 ---
 
@@ -14,11 +13,11 @@
 - requirements of selected PhD/doctoral programs in Vienna and Graz
 -->
 
-### [PHD COURSES](phdcourses.html)
+### [PHD COURSES](phdcourses.html)  🚧  under construction  🚧
 - course listings for a selection of PhD/doctoral programs in Vienna and Graz
 
-### [CONFERENCES, SCHOOLS & RESEARCH VISITS](visits-conferences.html)
+### [CONFERENCES, SCHOOLS & RESEARCH VISITS](visits-conferences.html)  🚧  under construction  🚧
 - includes funded programs and funding opportunities for travel and short-term stays
 
-### [FELLOWSHIPS & JOBS](fellowships.html)
+### [FELLOWSHIPS & JOBS](fellowships.html)  🚧  under construction  🚧
 - includes long-term fellowship opportunities for PhD/doctoral students and postdoctoral fellows \[jobs to come\]
