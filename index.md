@@ -8,7 +8,9 @@
 
 ---
 
-### WHAT'S HERE
+### NAVIGATION
+
+<br />
 <!--
 ### [PHD PROGRAMS](phdprograms.html)  🚧  under construction  🚧
 - requirements of selected PhD/doctoral programs in Vienna and Graz
