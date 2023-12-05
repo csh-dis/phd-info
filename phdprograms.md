@@ -249,7 +249,7 @@ title: PHD PROGRAMS
 ---
 ### Wirtschafts Uni • [economic & social sciences](https://www.wu.ac.at/en/programs/doctoral-phd-programs/phd-program-in-economic-and-social-sciences/overview/)
 - **CSH faculty:** Axel Polleres • Mark Strembeck • Johannes Wachs
-- **program director:**
+- **program director:** [Rüdiger Frey](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[72\] + proposal \[6\] + defense \[6\]
 - **time to degree:** __ semesters to complete course requirements
@@ -260,15 +260,9 @@ title: PHD PROGRAMS
 - <details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
-  - YR1 • end of year \(or start YR2\): enroll
-  - YR2 • within 6 months of enrollment: qualifying exam
-  - YR2 • upon successful qualifying exam: educational agreement
   - YR2 • coursework + thesis research 
   - YR3 • coursework + thesis research
-  - END • ≥3 months prior to completion: dissertation reviewers proposed to doctoral school for approval; draft shared with approved reviewers \* must be ≥2 months prior to submission of final dissertation
-  - END • ≥2 months prior to completion: schedule tentative date for defense
-  - END • ≥1 months prior to completion: final dissertation submitted to TU Graz; final dissertation shared with reviewers 
-  - END • ~ 2 weeks prior to completion: defense
+  - END • defense
 
   </details>
 
@@ -289,7 +283,7 @@ title: PHD PROGRAMS
 ---
 ## Uni Wien • physics
 - **CSH faculty:** none
-- currently there is no supervisor available for CSH students: ***please* do not contact Prof Dellago about the possibility of supervision**
+- currently there is no supervisor available for CSH students: ***please* do not contact Prof. Dellago about the possibility of supervision**
   
 *more info to come*
 

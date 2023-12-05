@@ -200,6 +200,7 @@ required courses indicated with \*
 <br />
 
 <details><summary><b>Thesis Seminars [4 SWS @ 2 each]</b></summary>
+ 
  - Bioinformatics, biosimulation and complex systems
  - Medical informaiton management and decision support in clinical settings
  - Computer vision
