@@ -32,6 +32,10 @@ title: PHD PROGRAMS
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
 - **ECTS credits:** coursework \[30\] + dissertation \[150\]
 - **time to degree:** 4 semesters to complete course requirements
+- **thesis advisory committee:** ≥3 members incl. advisor, 1 from BOKU Doctoral School, 1 external
+- **thesis committee meetings:** annual written report to committee; meeting of ≥2 members incl. minutes/report submitted to program
+- **dissertation evaluation:** 2 reviewers, at least one from outside BOKU; all must have expertise related to topic
+- **defense committee:** 2 examiners plus chair
 - <details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
@@ -44,7 +48,7 @@ title: PHD PROGRAMS
   - END • ~2 weeks prior to completion: defense
 
   </details>
-
+<br />
 - <details><summary><b>degree requirements</b></summary>
   
   - acceptance of dissertation agreement by program coordinator
@@ -54,11 +58,7 @@ title: PHD PROGRAMS
   - defense: public presenation \(20-30 min\) and defense to examination committee
 
   </details>
-- **thesis advisory committee:** ≥3 members incl. advisor, 1 from BOKU Doctoral School, 1 external
-- **thesis committee meetings:** annual written report to committee; meeting of ≥2 members incl. minutes/report submitted to program
-- **dissertation evaluation:** 2 reviewers, at least one from outside BOKU; all must have expertise related to topic
-- **defense committee:** 2 examiners plus chair
-
+<br />
 - <details><summary><b>documents</b></summary>
   
   - [registration of doctoral project](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796764_T2S_Anmeldung_Projekt_Doktorat_2020_EN.docx)
@@ -67,9 +67,6 @@ title: PHD PROGRAMS
   - [guidelines](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Sonstiges/796761-769_Doktoratsrichtlinien_2021_EN.pdf)
  
   </details>
-  
-
-
 <br />
 
 ----
@@ -86,11 +83,15 @@ title: PHD PROGRAMS
 
 ---
 ### MedUniWien • medical informatics, biostatistics & complex systems
-- **CSH faculty:** Stefan Thurner • Peter Klimek
-- **program director:** Peter Klimek • []()
+- **CSH faculty:** Rudi Hanel • Peter Klimek • Stefan Thurner
+- **program director:** [Peter Klimek](https://www.complex-systems.meduniwien.ac.at/people/pklimek/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **SWS credits:** coursework \[ \] + dissertation \[ \]
 - **time to degree:** 4 semesters to complete course requirements
+- **thesis advisory committee:** 
+- **thesis committee meetings:** 
+- **dissertation evaluation:** 
+- **defense committee:** 
 
 
 <br />
@@ -103,8 +104,10 @@ title: PHD PROGRAMS
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[18 ECTS\] + dissertation \[162 ECTS\]
 - **time to degree:** 4 semesters to complete course requirements
-
-
+- **thesis advisory committee:** 
+- **thesis committee meetings:** 
+- **dissertation evaluation:** 
+- **defense committee:** 
 <br />
 
 ---
@@ -122,9 +125,14 @@ title: PHD PROGRAMS
 ---
 ### TU Graz • computer science
 - **CSH faculty** Fariba Karimi
+- **program director:** [Daniel Gruss](https://www.iaik.tugraz.at/person/daniel-gruss/)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **SSt credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
 - **time to degree:** 4 semesters to complete course requirements
+- **thesis advisory committee:** 
+- **thesis committee meetings:**
+- **dissertation evaluation:** 2-3\* reviewers, at least one from outside TU Graz; all must have habilitation or equivalent
+- **defense committee:** 3-5\* members; dean of studies in computer science or their apointee serves as chair; at least one member from outside TU Graz; all must have habilitation of equivalent
 - <details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
@@ -155,10 +163,6 @@ title: PHD PROGRAMS
   - defense: public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
 
   </details>
-- **thesis advisory committee:** 
-- **thesis committee meetings:**
-- **dissertation evaluation:** 2-3\* reviewers, at least one from outside TU Graz; all must have habilitation or equivalent
-- **defense committee:** 3-5\* members; dean of studies in computer science or their apointee serves as chair; at least one member from outside TU Graz; all must have habilitation of equivalent
 - <details><summary><b>documents</b></summary>
   
   - thesis proposal
@@ -175,6 +179,7 @@ title: PHD PROGRAMS
 ---
 ### vetmed
 - **CSH faculty:** Amélie Desvars-Larrive
+- **program director:**
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[15\] + dissertation \[115\] + defense \[50\]
 - **time to degree:** 3-4 semesters to complete course requirements
@@ -185,10 +190,15 @@ title: PHD PROGRAMS
 
 ---
 ### Wirtschafts Uni • economic & social sciences
-- **CSH faculty:** Axel Polleres • Johannes Wachs
+- **CSH faculty:** Axel Polleres • Mark Strembeck • Johannes Wachs
+- **program director:**
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[72\] + proposal \[6\] + defense \[6\]
 - **time to degree:** X semesters to complete course requirements
+- **thesis advisory committee:** 
+- **thesis committee meetings:**
+- **dissertation evaluation:**
+- **defense committee:** 
 - <details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
@@ -221,7 +231,8 @@ title: PHD PROGRAMS
 ---
 ## Uni Wien • physics
 - **CSH faculty:** none • contact: [Christoph Dellago](https://comp-phys.univie.ac.at/dellago/)
-- 
+- **director of studies:** [Thomas Pichler](https://ufind.univie.ac.at/de/person.html?id=7297) 
+  
 *more info to come*
 
 <br />
