@@ -9,9 +9,10 @@
 ---
 
 ## NAVIGATION
-
+<!--
 ### [PHD PROGRAMS](phdprograms.html)  🚧  under construction  🚧
 - requirements of selected PhD/doctoral programs in Vienna and Graz
+-->
 
 ### [PHD COURSES](phdcourses.html)
 - course listings for a selection of PhD/doctoral programs in Vienna and Graz
