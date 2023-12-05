@@ -2,6 +2,7 @@
 title: FELLOWSHIPS
 ---
 
+---
 ### doctoral fellowships
 
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/doc">ÖAW DOC</a></b></summary>
