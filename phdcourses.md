@@ -41,6 +41,7 @@ title: PHD COURSES
 </details>
 
 <br />
+<br />
 
 ---
 ### CEU • network science
@@ -128,6 +129,7 @@ title: PHD COURSES
 </details>
 
 <br />
+<br />
 
 ---
 ### Donau Uni Krems • technology, innovation & cohesive societies
@@ -157,6 +159,7 @@ title: PHD COURSES
 
 </details>
 
+<br />
 <br />
 
 ---
@@ -268,6 +271,7 @@ required courses indicated with \*
 </details>
 
 <br />
+<br />
 
 ---
 ### TU Wien • physics
@@ -303,6 +307,7 @@ required courses indicated with \*
 
 </details>
 
+<br />
 <br />
 
 ---
@@ -373,7 +378,6 @@ required courses indicated with \*
 **\[ ECTS from any university \]**
 
 <br />
-<br />
 
 ---
 ### Wirtschafts Uni • economic & social sciences
@@ -416,23 +420,24 @@ required courses indicated with \*
 </details>
 
 <br />
+<br />
 
 ---
 ### Uni Wien • mathematics
 #### REQUIRED COURSEWORK ECTS : \[~ x courses\]
 
-more info to come
+*more info to come*
 
 <br />
-<br />
+
 
 ---
 ### Uni Wien • physics
 #### REQUIRED COURSEWORK ECTS : 24 \[~ x courses\]
 
-more info to come
+*more info to come*
 
 <br />
-<br />
+
 
 ---
