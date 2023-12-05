@@ -169,7 +169,7 @@ more to come...
 
   - *who is funded:* postdocs with ≥3 mo experience in ≥2 EU countries; no prior US residence
   - *what is funded:* 3-9 mo research stay in the US
-  - *funding level:* ≤3000 EUR per month + travel
+  - *funding level:* ≤3000 EUR per mo + travel
   - *application requirements:* cv • project statement • host acceptance • three letters of recommendation
   - *deadline:* 1 Dec
   - *themes:* open
