@@ -48,7 +48,6 @@ title: PHD PROGRAMS
   - END • ~2 weeks prior to completion: defense
 
   </details>
-<br />
 - <details><summary><b>degree requirements</b></summary>
   
   - acceptance of dissertation agreement by program coordinator
@@ -58,7 +57,6 @@ title: PHD PROGRAMS
   - defense: public presenation \(20-30 min\) and defense to examination committee
 
   </details>
-<br />
 - <details><summary><b>documents</b></summary>
   
   - [registration of doctoral project](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796764_T2S_Anmeldung_Projekt_Doktorat_2020_EN.docx)
