@@ -2,7 +2,9 @@
 title: Talks+Visitors
 ---
 
-## SCHEDULE + FORMATS
+## [CURRENT SCHEDULE](https://www.csh.ac.at/calendar/category/event/)
+
+## GENERAL SCHEDULE + FORMATS
 ### Fridays, 15.00-16.00 Uhr in the Salon 
 - 45-min talk + 15-min discussion  or  two 20-min talks + 10-min discussions
 - generally\* given by
@@ -19,7 +21,7 @@ title: Talks+Visitors
 <sub><i>* These are not strict criteria but rather guidelines to help distinguish Fridays and Wednesdays</i></sub>
 
 ---
-#### Ideally there are no more than two talks (1-hour sessions) per week at CSH
+#### NOTE: Ideally there are no more than two talks (1-hour sessions) per week at CSH
 ---
 ## TALKS
 **If you want to give a talk at CSH:**
