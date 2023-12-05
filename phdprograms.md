@@ -4,6 +4,8 @@ title: PHD PROGRAMS
 
 ### 🚧  under construction  🚧
 
+---
+
 <details><summary><b>DEFINITIONS</b></summary>
   
   - **advisor / supervisor** : these terms may be used interchangeably to denote the faculty member who is directly guiding your thesis research and shares responsibility for your professional development as a researcher; at CSH, usually <b>advisor</b> is used
@@ -48,6 +50,7 @@ title: PHD PROGRAMS
   - END • ~2 weeks prior to completion: defense
 
   </details>
+  <br />
 - <details><summary><b>enrollment</b></summary>
 
   - contact:
@@ -56,6 +59,7 @@ title: PHD PROGRAMS
   - process:
 
   </details>
+  <br />
 - <details><summary><b>degree requirements</b></summary>
   
   - acceptance of dissertation agreement by program coordinator
@@ -65,6 +69,7 @@ title: PHD PROGRAMS
   - defense: public presenation \(20-30 min\) and defense to examination committee
 
   </details>
+  <br />
 - <details><summary><b>documents</b></summary>
   
   - [registration of doctoral project](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796764_T2S_Anmeldung_Projekt_Doktorat_2020_EN.docx)
@@ -132,6 +137,7 @@ title: PHD PROGRAMS
   - END • ~ 2 weeks prior to completion: defense
 
   </details>
+  <br />
 - <details><summary><b>enrollment process</b></summary>
   
   - contact:
@@ -140,6 +146,7 @@ title: PHD PROGRAMS
   - process:
 
   </details>
+  <br />
 - <details><summary><b>degree requirements</b></summary>
   
   - qualifying exam: before end YR1; public presentation and defense of the thesis proposal to a thesis advisory committee; should have a manuscript submitted and have presented at a seminar or conference
@@ -149,6 +156,7 @@ title: PHD PROGRAMS
   - defense: public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
 
   </details>
+  <br />
 - <details><summary><b>documents</b></summary>
   
   - thesis proposal
@@ -193,6 +201,7 @@ title: PHD PROGRAMS
   - END • ~ 2 weeks prior to completion: defense
 
   </details>
+  <br />
 - <details><summary><b>enrollment process</b></summary>
   
   - contact:
@@ -201,6 +210,7 @@ title: PHD PROGRAMS
   - process:
 
   </details>
+  <br />
 - <details><summary><b>degree requirements</b></summary>
   
   - qualifying exam: before end YR1; public presentation and defense of the thesis proposal to a thesis advisory committee; should have a manuscript submitted and have presented at a seminar or conference
@@ -210,6 +220,7 @@ title: PHD PROGRAMS
   - defense: public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
 
   </details>
+  <br />
 - <details><summary><b>documents</b></summary>
   
   - thesis proposal
@@ -278,7 +289,7 @@ title: PHD PROGRAMS
 ---
 ## Uni Wien • physics
 - **CSH faculty:** none
-- currently there is no supervisor available for CSH students: **please do not contact Prof Dellago about the possibility of supervision**
+- currently there is no supervisor available for CSH students: ***please* do not contact Prof Dellago about the possibility of supervision**
   
 *more info to come*
 
