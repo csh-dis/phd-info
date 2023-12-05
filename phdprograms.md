@@ -12,7 +12,7 @@ title: PHD PROGRAMS
   - **habilitation / venia docendi** : an academic qualification required of faculty in AT (and other European countries) leading to the title of *Dr. habil* or Privatdozent/in; approximately equivalent to tenure in the US, or a position of associate or full professor \(US\) or senior lecturer \(UK\)
   - **director of studies / Studienleiter** : a faculty member at a university who can decide what counts toward degree requirements and approves that students have met the requirements for the degree
   - **thesis proposal / exposé / Dissertationskonzept** : a written document that outlines the goals, background, methods and approaches, timeline and planning for the thesis research; the specifics, such as required sections and length, vary among programs
-  - **qualifying exam / thesis proposal defense / proficiency evaluation** : an oral examination in which the student's proposed thesis research as well as their knowledge of the field of study is interrogated by a committee of experts; this is not required by all programs and often follows submission of a **thesis proposal**
+  - **qualifying exam / proficiency evaluation / thesis proposal defense** : an oral examination in which the student's proposed thesis research as well as their knowledge of the field of study is interrogated by a committee of experts; this is not required by all programs and often follows submission of a **thesis proposal**
   - **educational agreement** : a binding agreement from the advisor committing to supervise the thesis research and dissertation until its completion; once signed, the student may choose to dissolve the agreement at any time, but the advisor may only petition to do so after a specified period (e.g. 5 years) if the thesis has not been completed
   - **thesis (advisory) committee** : a group of scholars with expertise in area\(s\) relevant to the thesis research and/or who may provide a broader perspective to help guide the dissertation
   - **thesis / dissertation / Doktorarbeit** : these words usually refer to the same thing, which is the written document that describes your  research and places this in the broader context of your field or discipline and makes clear what new knowledge your work has contributed as well as what future directions the inquiry might take; the dissertation should be an original work unless explicitly allowed otherwise  *(NOTE: the **thesis** and **Doktorarbeit** can be more precisely defined as the intellectual arguments rather than the document per se  – but these meanings are generally referenced interchangeably.)*
@@ -26,7 +26,7 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### BOKU • transitions to sustainability
+### BOKU • [transitions to sustainability]()
 - **CSH faculty:** none (but talk to Rafael)
 - **program contact:** [Christoph Winckler](https://boku.ac.at/personen/person/16073745BD38FB0B)
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
@@ -76,19 +76,19 @@ title: PHD PROGRAMS
 <br />
 
 ----
-### CEU • network science
+### CEU • [network science]()
 
 
 <br />
 
 ---
-### Donau Uni Krems • migration studies
+### Donau Uni Krems • [migration studies]()
 
 <br />
 
 
 ---
-### MedUniWien • medical informatics, biostatistics & complex systems
+### MedUniWien • [medical informatics, biostatistics & complex systems]()
 - **CSH faculty:** Rudi Hanel • Peter Klimek • Stefan Thurner
 - **program director:** [Peter Klimek](https://www.complex-systems.meduniwien.ac.at/people/pklimek/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
@@ -103,17 +103,57 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### TU Wien • informatics
-- **CSH faculty:** Allan Hanbury • Bernhard Haslhofer
+### TU Wien • [informatics](https://informatics.tuwien.ac.at/doctoral/)
+- **CSH faculty:** Allan Hanbury
 - **program director:** [Andreas Steininger](https://informatics.tuwien.ac.at/people/andreas-steininger)
 - **dean of academic affairs:** [Hilda Tellioglu](https://informatics.tuwien.ac.at/people/hilda-tellioglu)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
-- **ECTS credits:** coursework \[18 ECTS\] + dissertation \[162 ECTS\]
-- **time to degree:** 4 semesters to complete course requirements
-- **thesis advisory committee:** 
-- **thesis committee meetings:** 
+- **ECTS credits:** coursework \[18\] + dissertation \[162\]
+- **time to degree:** 4-6 semesters to complete course requirements
+- **research proposal:** ~10 pages with ≥10 references, include timeline
+- **proficiency evaluation committee:** advisor + national expert \(AT uni\) + chair \(TU Wien Informatics but different section\) 
+- **proficiency evaluation:** 6-18 months after enrollment
+- **thesis advisory committee:** same as proficiency evaluation committee
+- **thesis advisory meetings:** should occur annually
+- **progress reporting:** annual written reports to committee, 1-3 pages + publications
 - **dissertation evaluation:** 
-- **defense committee:** 
+- **defense committee:**
+- <details><summary><b>timeline</b></summary>
+  
+  - YR1 • develop thesis research proposal
+  - YR1 • end of year \(or start YR2\): enroll
+  - YR2 • coursework + thesis research
+  - YR2 • 6 - 18 months after enrollment: proficiency evaluation
+  - YR2 • upon successful proficiency evaluation: dissertation agreement
+  - YR3 • coursework + thesis research
+  - END • ≥3 months prior to completion: dissertation reviewers proposed to doctoral school for approval; draft shared with approved reviewers \* must be ≥2 months prior to submission of final dissertation
+  - END • ≥2 months prior to completion: schedule tentative date for defense
+  - END • ≥1 months prior to completion: final dissertation submitted to TU Graz; final dissertation shared with reviewers 
+  - END • ~ 2 weeks prior to completion: defense
+
+  </details>
+- <details><summary><b>enrollment process</b></summary>
+  
+  - contact:
+  - prerequisites:
+  - required documents:
+  - process:
+
+  </details>
+- <details><summary><b>degree requirements</b></summary>
+  
+  - qualifying exam: before end YR1; public presentation and defense of the thesis proposal to a thesis advisory committee; should have a manuscript submitted and have presented at a seminar or conference
+  - courses: [see list](phdcourses.md#tu-wien-informatics)
+  - publications: 3 first-author publications or conference proceedings; can be in any journal/discipline but with the goal top quartile (Q1) journals or high impact-factor journals; *exceptions are possible \- see \**
+  - dissertation: cummulative dissertation is acceptable with permission of the advisor; in English; require 2 hardcopies
+  - defense: public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
+
+  </details>
+- <details><summary><b>documents</b></summary>
+  
+  - thesis proposal
+
+  </details> 
 <br />
 
 ---
@@ -122,14 +162,14 @@ title: PHD PROGRAMS
 - **program director:**
 - **dean of faculty of physics:** Joachim Burgdörfer
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
-- **ECTS credits:** coursework \[ \] + dissertation \[ \]
+- **ECTS credits:** coursework \[?\] + dissertation \[?\]
 
 *more info to come*
 
 <br />
 
 ---
-### TU Graz • computer science
+### TU Graz • [computer science](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
 - **CSH faculty** Fariba Karimi
 - **program director:** [Daniel Gruss](https://www.iaik.tugraz.at/person/daniel-gruss/)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
@@ -155,9 +195,10 @@ title: PHD PROGRAMS
   </details>
 - <details><summary><b>enrollment process</b></summary>
   
-  - prerequisites:
-  - documents:
   - contact:
+  - prerequisites:
+  - required documents:
+  - process:
 
   </details>
 - <details><summary><b>degree requirements</b></summary>
@@ -195,7 +236,7 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### Wirtschafts Uni • economic & social sciences
+### Wirtschafts Uni • [economic & social sciences](https://www.wu.ac.at/en/programs/doctoral-phd-programs/phd-program-in-economic-and-social-sciences/overview/)
 - **CSH faculty:** Axel Polleres • Mark Strembeck • Johannes Wachs
 - **program director:**
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
