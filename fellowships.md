@@ -179,7 +179,7 @@ more to come...
   - *deadline:* 11 Sep 2024
   - *themes:* open
 
-<details>
+</details>
 <br />
 <details><summary><b><a href="https://www.fwf.ac.at/en/funding/portfolio/careers/elise-richter">FWF Elise Richter</a></b></summary>
 
