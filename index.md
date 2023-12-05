@@ -17,7 +17,10 @@
 - course listings for a selection of PhD/doctoral programs in Vienna and Graz
 
 ### [CONFERENCES, SCHOOLS & RESEARCH VISITS](visits-conferences.html)  🚧  under construction  🚧
-- includes funded programs and funding opportunities for travel and short-term stays
+-  paid programs and funding opportunities for travel and short-term stays
 
 ### [FELLOWSHIPS & JOBS](fellowships.html)  🚧  under construction  🚧
-- includes long-term fellowship opportunities for PhD/doctoral students and postdoctoral fellows \[jobs to come\]
+- long-term fellowship opportunities for PhD/doctoral students and postdoctoral fellows \[jobs to come\]
+
+### [TALKS + VISITORS](talks-visitors.html)  🚧  under construction  🚧
+- guidelines for giving a talk or hosting a talk
