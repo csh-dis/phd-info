@@ -4,13 +4,13 @@
 ### COMPLEXITY SCIENCE HUB • DIGITAL INNOVATION SCHOOL
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐖 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌴 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛰️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐞 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐫 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏗️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔫
 
-**NOTE: 🚧 all pages under construction 🚧**
+### NOTE: 🚧 all pages are under construction - some more than others 🚧**
 
-*if information is missing, please check back or contact Carrie*
+---
 
 ## NAVIGATION
 
-### [PHD PROGRAMS](phdprograms.html) 
+### [PHD PROGRAMS](phdprograms.html)  🚧  under construction  🚧
 - requirements of selected PhD/doctoral programs in Vienna and Graz
 
 ### [PHD COURSES](phdcourses.html)
