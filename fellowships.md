@@ -1,9 +1,6 @@
 ---
 title: FELLOWSHIPS
 ---
-🚧  under construction  🚧
-
----
 
 ### doctoral fellowships
 
@@ -170,31 +167,40 @@ more to come...
 more to come...
 
 ---
+### postdoc » faculty transition fellowships
 
+<details><summary><b><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">EU Horizon Marie Skłodowska-Curie Action Postdoctoral Fellowship</a></b></summary>
 
-<!--
-#### postdoc » faculty transition fellowships
-- [EU Horizon Marie SCurie Action Postdoctoral Fellowship]()
-  - *who is funded:*
-  - *what is funded:*
-  - *funding level:*
-  - *application requirements:*
-  - *deadline:*
+  - *who is funded:* !EU researchers coming to EU **or** EU researchers going !EU; <8 years research experience since doctorate
+  - *what is funded:* !EU 12-24 mo EU **or** EU 12-24 mo !EU + 12 mo EU return phase
+  - *funding level:* living allowance, mobility allowance, research etc budget
+  - *application requirements:* form • budget • institutional commitments • research permissions • project description • etc
+  - *deadline:* 11 Sep 2024
   - *themes:* open
-- []FWF elise richter()
-  - *who is funded:*
-  - *what is funded:*
-  - *funding level:*
-  - *application requirements:*
-  - *deadline:*
-  - *themes:* 
-- [FWF START]()
-  - *who is funded:*
-  - *what is funded:*
-  - *funding level:*
-  - *application requirements:*
-  - *deadline:*
-  - *themes:*
 
--->
+<details>
+<br />
+
+<details><summary><b><a href="https://www.fwf.ac.at/en/funding/portfolio/careers/elise-richter">FWF Elise Richter</a></b></summary>
+
+  - *who is funded:* non-male senior postdocs, ≥2 years postdoc experience 
+  - *what is funded:* 12-48 mo research + transition to faculty position
+  - *funding level:* salary, ≤30000 EUR research budget
+  - *application requirements:* abstract • project description • publications • forms
+  - *deadline:* rolling: decisions in Jun or Nov-Dec
+  - *themes:* open
+
+</details>
+
+<details><summary><b><a href="https://www.fwf.ac.at/en/funding/portfolio/careers/fwf-start-award">FWF START Award</a></b></summary>
+
+  - *who is funded:* 2-8 years postdoc experience, international experience
+  - *what is funded:* research at AT institution
+  - *funding level:* 800.000-1.200.000 EUR over 5 years
+  - *application requirements:*
+  - *deadline:* 20 Sep 2023
+  - *themes:* open
+  - *NOTE: application comes with commitment to submit an ERC Starting Grant at next possible deadline*
+
+---
 
