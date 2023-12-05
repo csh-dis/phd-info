@@ -3,7 +3,7 @@ title: FELLOWSHIPS
 ---
 
 ---
-### doctoral fellowships
+### DOCTORAL FELLOWSHIPS
 
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/doc">ÖAW DOC</a></b></summary>
 
@@ -82,7 +82,7 @@ title: FELLOWSHIPS
 more to come...
 
 ---
-### doctoral » postdoc transition fellowships
+### DOCTORAL » POSTDOC TRANSITION FELLOWSHIPS
 
 <details><summary><b><a href="https://stipendien.oeaw.ac.at/stipendien/post-doctrack">ÖAW POST-DOCTRACK</a></b></summary>
   
@@ -97,7 +97,7 @@ more to come...
 <br />
 
 ---
-### postdoc fellowships
+### POSTDOC FELLOWSHIPS
 
 <details><summary><b><a href="https://www.fwf.ac.at/foerdern/foerderportfolio/karrieren/esprit">FWF ESPRIT</a></b></summary>
 
@@ -168,14 +168,14 @@ more to come...
 more to come...
 
 ---
-### postdoc » faculty transition fellowships
+### POSTDOC » FACULTY TRANSITION FELLOWSHIPS
 
 <details><summary><b><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">EU Horizon Marie Skłodowska-Curie Action Postdoctoral Fellowship</a></b></summary>
 
   - *who is funded:* !EU researchers coming to EU **or** EU researchers going !EU; <8 years research experience since doctorate
   - *what is funded:* !EU 12-24 mo EU **or** EU 12-24 mo !EU + 12 mo EU return phase
   - *funding level:* living allowance, mobility allowance, research etc budget
-  - *application requirements:* form • budget • institutional commitments • research permissions • project description • etc
+  - *application requirements:* form • budget • institutional commitments • research permissions • project description • and more!
   - *deadline:* 11 Sep 2024
   - *themes:* open
 
@@ -187,7 +187,7 @@ more to come...
   - *what is funded:* 12-48 mo research + transition to faculty position
   - *funding level:* salary, ≤30000 EUR research budget
   - *application requirements:* abstract • project description • publications • forms
-  - *deadline:* rolling: decisions in Jun or Nov-Dec
+  - *deadline:* rolling application, decisions in Jun and Nov-Dec
   - *themes:* open
 
 </details>
