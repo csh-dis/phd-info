@@ -1,13 +1,14 @@
 <!-- phd program info pages created 13112023 for complexity science hub • digital school of innovation • crc -->
 &nbsp;&nbsp;&nbsp;💊 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚖️  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🦉  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏭  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐨  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚆  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌾  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐝  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏛️
-## INFORMATION FOR GRADUATE STUDENTS
-### COMPLEXITY SCIENCE HUB • DIGITAL INNOVATION SCHOOL
+# INFORMATION FOR GRADUATE STUDENTS
+
+## COMPLEXITY SCIENCE HUB • DIGITAL INNOVATION SCHOOL
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌏 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐖 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌴 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💰 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⛰️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐞 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏙️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🐫 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🏗️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔫
 
 
 ---
 
-## NAVIGATION
+### WHAT'S HERE
 <!--
 ### [PHD PROGRAMS](phdprograms.html)  🚧  under construction  🚧
 - requirements of selected PhD/doctoral programs in Vienna and Graz
