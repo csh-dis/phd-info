@@ -25,7 +25,6 @@ title: PHD PROGRAMS
     
 </details>
 
-<br />
 
 ---
 ### BOKU • [transitions to sustainability]()
