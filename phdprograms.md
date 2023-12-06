@@ -50,7 +50,6 @@ title: PHD PROGRAMS
   - END • ~2 weeks prior to completion: defense
 
   </details>
-  <br />
 - <details><summary><b>enrollment</b></summary>
 
   - contact:
@@ -59,7 +58,6 @@ title: PHD PROGRAMS
   - process:
 
   </details>
-  <br />
 - <details><summary><b>degree requirements</b></summary>
   
   - acceptance of dissertation agreement by program coordinator
@@ -69,8 +67,7 @@ title: PHD PROGRAMS
   - defense: public presenation \(20-30 min\) and defense to examination committee
 
   </details>
-  <br />
-- <details><summary><b>documents</b></summary>
+- <details><summary><b>documents + forms</b></summary>
   
   - [registration of doctoral project](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796764_T2S_Anmeldung_Projekt_Doktorat_2020_EN.docx)
   - [additional coursework](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796761-796769_Nachnominierung_2021_EN.docx)
@@ -115,26 +112,27 @@ title: PHD PROGRAMS
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[18\] + dissertation \[162\]
 - **time to degree:** 4-6 semesters to complete course requirements
-- **research proposal:** ~10 pages with ≥10 references, include timeline
+- **research proposal:** ~10 pages with ≥10 references, includes timeline and workplan
 - **proficiency evaluation committee:** advisor + national expert \(AT uni\) + chair \(TU Wien Informatics but different section\) 
-- **proficiency evaluation:** 6-18 months after enrollment
+- **proficiency evaluation:** 6-18 mo after enrollment
 - **thesis advisory committee:** same as proficiency evaluation committee
 - **thesis advisory meetings:** should occur annually
-- **progress reporting:** annual written reports to committee, 1-3 pages + publications
+- **progress reporting:** annual written reports to committee, 1-3 pages plus any publications
 - **dissertation evaluation:** 
 - **defense committee:**
 - <details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
-  - YR1 • end of year \(or start YR2\): enroll
+  - YR1 • *\(end of YR1 or start YR2\)* enroll
   - YR2 • coursework + thesis research
-  - YR2 • 6 - 18 months after enrollment: proficiency evaluation
+  - YR2 • *\(6-18 mo after enrollment\)* proficiency evaluation
   - YR2 • upon successful proficiency evaluation: dissertation agreement
   - YR3 • coursework + thesis research
-  - END • ≥3 months prior to completion: dissertation reviewers proposed to doctoral school for approval; draft shared with approved reviewers \* must be ≥2 months prior to submission of final dissertation
-  - END • ≥2 months prior to completion: schedule tentative date for defense
-  - END • ≥1 months prior to completion: final dissertation submitted to TU Graz; final dissertation shared with reviewers 
-  - END • ~ 2 weeks prior to completion: defense
+  - END • *\(≥3 months before completion\)* dissertation reviewers proposed to doctoral school for approval; draft shared with approved reviewers \* must be ≥2 months prior to submission of final dissertation
+  - END • *\(≥2 months before completion\)* schedule tentative date for defense
+  - END • *\(≥1 months before completion\)* final dissertation submitted to TU Graz; final dissertation shared with reviewers 
+  - END • *\(~2 weeks before completion\)* defense
+  - END • degree complete
 
   </details>
   <br />
@@ -190,18 +188,18 @@ title: PHD PROGRAMS
 - <details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
-  - YR1 • end of year \(or start YR2\): enroll
-  - YR2 • within 6 months of enrollment: qualifying exam
+  - YR1/YR2 • *\(end of YR1 or start YR2\)* enroll
+  - YR2 • *\(6-9 months after enrollment\)* qualifying exam
   - YR2 • upon successful qualifying exam: educational agreement
   - YR2 • coursework + thesis research 
   - YR3 • coursework + thesis research
-  - END • ≥3 months prior to completion: dissertation reviewers proposed to doctoral school for approval; draft shared with approved reviewers \* must be ≥2 months prior to submission of final dissertation
-  - END • ≥2 months prior to completion: schedule tentative date for defense
-  - END • ≥1 months prior to completion: final dissertation submitted to TU Graz; final dissertation shared with reviewers 
-  - END • ~ 2 weeks prior to completion: defense
+  - END • *\(≥3 months prior to completion\)* dissertation reviewers proposed to doctoral school for approval; draft shared with approved reviewers \* must be ≥2 months prior to submission of final dissertation
+  - END • *\(≥2 months prior to completion\)* schedule tentative date for defense
+  - END • *\(≥1 months prior to completion\)* final dissertation submitted to TU Graz; final dissertation shared with reviewers 
+  - END • *\(~2 weeks prior to completion\)* defense
+  - END • degree complete
 
   </details>
-  <br />
 - <details><summary><b>enrollment process</b></summary>
   
   - contact:
@@ -210,7 +208,6 @@ title: PHD PROGRAMS
   - process:
 
   </details>
-  <br />
 - <details><summary><b>degree requirements</b></summary>
   
   - qualifying exam: before end YR1; public presentation and defense of the thesis proposal to a thesis advisory committee; should have a manuscript submitted and have presented at a seminar or conference
@@ -220,8 +217,7 @@ title: PHD PROGRAMS
   - defense: public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
 
   </details>
-  <br />
-- <details><summary><b>documents</b></summary>
+- <details><summary><b>documents + forms</b></summary>
   
   - thesis proposal
   - annual report
@@ -253,19 +249,55 @@ title: PHD PROGRAMS
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[72\] + proposal \[6\] + defense \[6\]
 - **time to degree:** __ semesters to complete course requirements
-- **thesis advisory committee:** 
-- **thesis committee meetings:**
-- **dissertation evaluation:**
-- **defense committee:** 
+- **thesis advisory committee:** ≥3 professors with habilitation or equivalent; nominated by advisor and approved by program director
+- **research proposal:** written only? pages? evaluated by **thesis advisory committee** as "mit/ohne Erfolg"
+- **thesis committee meetings:** not required
+- **progress reports:** not required
+- **dissertation evaluation:** by **doctoral committee**; can occur before or after defense
+- **doctoral committee:** evaluates both dissertation and defense; 3 professors, ≥1 external to WU; nominated by department chair and approved by program director
+
 - <details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
+  - YR1 • \(see below\) enroll
+  - YR1 • establish thesis advisory committee
+  - YR1/YR2 • \(if winter enrollment before Oct 1 | if summer enrollment before Mar 1\) submit research proposal to thesis advisory committee
   - YR2 • coursework + thesis research 
   - YR3 • coursework + thesis research
-  - END • defense
+  - END • \(≥5 weeks before completion\) establish doctoral committee
+  - END • \(≥4 weeks before completion\) submit dissertation to ____?
+  - END • \(~1 week before completion\) defense + evaluation of dissertation
+  - END • degree complete
 
   </details>
 
+- <details><summary><b>enrollment process</b></summary>
+  
+  - contact:
+  - prerequisites:
+  - required documents: cv + exposé (1-2 pg extended abstract)
+  - process:
+
+  </details>
+- <details><summary><b>degree requirements</b></summary>
+
+  - things here
+  - here
+  - here
+
+  </details>
+- <details><summary><b>documents + forms</b></summary>
+   
+  - [curriculum](https://www.wu.ac.at/fileadmin/wu/d/i/statmath/Dateien/phd_en_curr_wiso_26.06.2019.pdf)
+  - [Dissertationsvereinbarung](https://www.wu.ac.at/fileadmin/wu/h/programs/phd/Dissertationsvereinbarung.pdf)
+  - [Freigabe des Research Proposal](https://www.wu.ac.at/fileadmin/wu/h/programs/phd/wiso/Freigabe_RP_SoWi_2018.doc)
+  - [Vorläufige Betreuungszusage ](https://www.wu.ac.at/fileadmin/wu/h/programs/phd/wiso/Vorl_Betreuungszusage_SoWi_2018.doc)
+  - [Annerkennung von Konferenzen](https://www.wu.ac.at/fileadmin/wu/h/programs/phd/Info-Blatt_Anerkennung.pdf)
+  - [Personalerhebungsbogen](https://www.wu.ac.at/mitarbeitende/infos-fuer-lehrende/payment/#c11308) for external examiners
+  - [Anmeldung zur Defensio Dissertationis](https://www.wu.ac.at/fileadmin/wu/h/programs/phd/wiso/Anmeldung_Defensio_SoWi_2018.doc)
+
+  </details>
+  
 *more info to come*
 
 *coursework takes place in **German***
