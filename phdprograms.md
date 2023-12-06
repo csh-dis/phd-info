@@ -5,6 +5,9 @@ title: PHD PROGRAMS
 ### 🚧  under construction  🚧
 
 ---
+[BOKUsustainability](phdprograms.md#boku--transitions-to-sustainability) | [CEUnetworks]() | [DonauUniMigration]() | [MedUniComplexSystems]() | [TUGrazInformatics]() | [TUWienInformatics]() | [TUWienPhysics]() | [vetmeduni]() | [WUeconomics]() | [UniWienMaths]() | [UniWienPhysics]()
+
+---
 
 <details><summary><b>DEFINITIONS</b></summary>
   
