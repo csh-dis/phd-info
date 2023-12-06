@@ -62,7 +62,7 @@ title: FELLOWSHIPS
   - *who is funded:* doctoral students at uni in AT, DE, FR, CH, UK; C1 german level; ≤5 years of PhD
   - *what is funded:* 18-42 mo stipend + social benefit + childcare
   - *funding level:* 1450 EUR per mo \(and more\)
-  - *application requirements:* ***in German** cv • uni justification • two recommendations • uni commitment • research abstract • research project exposé
+  - *application requirements:* **in German** cv • uni justification • two recommendations • uni commitment • research abstract • research project exposé
   - *deadline:* 15 Jan 2024 • 17 Jul 2024
   - *themes:* interest to commercialize research projects/products; entreprenuership; start-ups
 
@@ -72,7 +72,7 @@ title: FELLOWSHIPS
   
   - *who is funded:* doctoral students from ID, MY, TH, PH, VN; PhD in AT; ≤35 years
   - *what is funded:* 36 mo stipend + travel + housing allowance
-  - *funding level:* 1250 EUR plus
+  - *funding level:* 1250 EUR per mo \(and more\)
   - *application requirements:* 
   - *deadline:* Mar
   - *themes:* open
