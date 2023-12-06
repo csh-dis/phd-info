@@ -125,6 +125,7 @@ title: VISITS+CONFERENCES
 - [ICTP Hands-On Research in Complex Systems School](https://indico.ictp.it/event/10525) • 2024: 2 - 13 Dec in Trieste IT
 
 <br />
+
 📣 *See also [Bernoulli Society-Statistical Network Science](https://github.com/BS-SNS/Public/tree/main/conf) list of conferences and meetings*
 
 ---
