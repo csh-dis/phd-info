@@ -94,26 +94,38 @@ title: VISITS+CONFERENCES
 ---
 ### CONFERENCES + SCHOOLS
 #### general conferences
-- [NetSciX](https://netscix2024.netscisociety.org/) • 22-25 Jan in Venice IT
-- [APS](https://march.aps.org/) • 2024: 3 - 8 Mar in Minneapolis US
-- [NetSci](https://netsci2024.com/en) • 2024: 16 - 21 Jun in Quebec CA
+- [NetSciX](https://netscix2024.netscisociety.org/) • 2024: 22-25 Jan in Venice IT
+- [APS](https://march.aps.org/) • 2024: 3-8 Mar in Minneapolis US
+- [NetSci](https://netsci2024.com/en) • 2024: 16-21 Jun in Quebec CA
 - [CCS](https://cssociety.org/events) • 2024: ?
+- [JSM/AmStat](https://ww2.amstat.org/meetings/jsm/2024/index.cfm) • 2024: 3-8 Aug in Portland US
+- [Bernoulli-IMS Congress](https://www.bernoulli-ims-worldcongress2024.org/) • 2024: 12-16 Aug in Bochum DE
+- [COMPSTAT](http://www.compstat2024.org/) • 2024: 27-30 Aug in Giessen DE
+- [EUSocialNetworks](https://eusn2023.org/) • 2024: ?
 - [IC2S2](https://iscss.org/ic2s2/conference/) • 2024: ?
 <br />
 
 #### workshops
 - [ICTP Workshop on Limits to Collective Agency](https://indico.ictp.it/event/10475) • 2024: 6 - 10 May in Trieste IT
+- [Complex Networks: Theory, Methods, Applications](https://ntmg.lakecomoschool.org/) • 2024: ? in Lake Cuomo IT
+- [Workshop: Sparse Inference on Complex Networks](https://www.ci.inf.usi.ch/workshop-sparse-inference-on-complex-networks/) • 2024: ? in Lugano CH
+- [Workshop on Sustainability of Network Analysis Software](https://igraph.org/workshop.html) • 2024: ?
 - [SFI Graduate Workshop in Computational Social Sciences](https://santafe.edu/gwcss) • 2024: 30 Jun - 12 Jul in Santa Fe US
 - [ICTP School & Workshop on Dynamical Systems](https://indico.ictp.it/event/10497) • 2024: 22 Jul - 09 Aug in Trieste IT
 <br />
 
 #### schools
-- ICTP Spring College on the Physics of Complex Systems • 2025:  in Trieste IT
+- ICTP Spring College on the Physics of Complex Systems • 2025: ? in Trieste IT
 - [CSH Winter School](https://www.csh.ac.at) • 2024:  in Obergurgl AT
+- [Research School on Graph Structure and Complex Network Analysis](https://www.cimpa.info/en/node/7225) • 2024: ?
 - [SFI Complex Systems Summer School](https://santafe.edu/csss) • 2024: 9 Jun - 5 Jul in Santa Fe US
+- [Meditteranean School of Complex Networks](https://mediterraneanschoolcomplex.net/) • 2024: ?
+- [Lipari School on Computational Complex and Social Systems](https://complex23.liparischool.it/) • 2024: ? in Lipari IT
+- [Behavioral Macro and Complexity](https://summerschool.uva.nl/content/summer-courses/behavioral-macro-and-complexity/behavioral-macro-and-complexity.html?cb) • 2024: ? in Amsterdam NL
 - [ICTP Hands-On Research in Complex Systems School](https://indico.ictp.it/event/10525) • 2024: 2 - 13 Dec in Trieste IT
 
 <br />
+📣 *See also [Bernoulli Society-Statistical Network Science](https://github.com/BS-SNS/Public/tree/main/conf) list of conferences and meetings*
 
 ---
 ### INTERNSHIPS
