@@ -386,12 +386,31 @@ required courses indicated with \*
 
 <details><summary><b> Compulsory Modules [36 ECTS @ 6 each]</b></summary>
 
- - Mathematics
- - Statistics
- - Topics in econometrics
- - Research seminar microeconomics
- - Research seminar macroeconomics
- - Internal/external research seminar</li>
+ - Academic Writing
+ - Research Methods
+ - Methodology & Theory
+ - Interdisciplinary Research Seminar
+ - Research Seminar: Participating in scientific discourse
+ 
+ - <details><summary>for <b>economics</b> specialization:</summary>
+ 
+   - Mathematics
+   - Statistics
+   - Topics in econometrics
+   - Research seminar microeconomics
+   - Research seminar macroeconomics
+   - Internal/external research seminar
+
+   </details>
+ 
+ - <details><summary>for <b>mathematics in economics and business</b> specialization:</summary>
+ 
+   - Stochastic processes and financial mathematics
+   - Statistics and computing
+   - Analysis, optimization and operations research
+   - Economics and business
+
+    </details>
 
 </details>
 
