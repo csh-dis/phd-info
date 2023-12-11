@@ -106,17 +106,18 @@ title: VISITS+CONFERENCES
 <br />
 
 #### workshops
-- [ICTP Workshop on Limits to Collective Agency](https://indico.ictp.it/event/10475) • 2024: 6 - 10 May in Trieste IT
+- [MPI-PKS Information Processing, Noise, and Adaptation in Living Systems](https://www.pks.mpg.de/signal24) • 2024: 15-19 Apr in Dresden DE
+- [ICTP Workshop on Limits to Collective Agency](https://indico.ictp.it/event/10475) • 2024: 6-10 May in Trieste IT
 - [Complex Networks: Theory, Methods, Applications](https://ntmg.lakecomoschool.org/) • 2024: ? in Lake Cuomo IT
 - [Workshop: Sparse Inference on Complex Networks](https://www.ci.inf.usi.ch/workshop-sparse-inference-on-complex-networks/) • 2024: ? in Lugano CH
 - [Workshop on Sustainability of Network Analysis Software](https://igraph.org/workshop.html) • 2024: ?
-- [SFI Graduate Workshop in Computational Social Sciences](https://santafe.edu/gwcss) • 2024: 30 Jun - 12 Jul in Santa Fe US
-- [ICTP School & Workshop on Dynamical Systems](https://indico.ictp.it/event/10497) • 2024: 22 Jul - 09 Aug in Trieste IT
+- [SFI Graduate Workshop in Computational Social Sciences](https://santafe.edu/gwcss) • 2024: 30 Jun-12 Jul in Santa Fe US
+- [ICTP School & Workshop on Dynamical Systems](https://indico.ictp.it/event/10497) • 2024: 22 Jul-09 Aug in Trieste IT
 <br />
 
 #### schools
-- ICTP Spring College on the Physics of Complex Systems • 2025: ? in Trieste IT
-- [CSH Winter School](https://www.csh.ac.at) • 2024:  in Obergurgl AT
+- [ICTP Spring College on the Physics of Complex Systems](https://indico.ictp.it/event/10459) • 2024: 19 Feb-15 Mar in Trieste IT
+- [CSH Winter School • Societal Challenges for a Green Transition](https://www.csh.ac.at/event/csh-winter-school-on-societal-challenges-for-green-transition/) • 2024: 8-13 Apr in Obergurgl AT
 - [Research School on Graph Structure and Complex Network Analysis](https://www.cimpa.info/en/node/7225) • 2024: ?
 - [SFI Complex Systems Summer School](https://santafe.edu/csss) • 2024: 9 Jun - 5 Jul in Santa Fe US
 - [Meditteranean School of Complex Networks](https://mediterraneanschoolcomplex.net/) • 2024: ?
@@ -195,13 +196,39 @@ title: VISITS+CONFERENCES
 
 --- 
 
-<!-- 
 ## PROCESS
-### mentor approval
-### university approval
+### advisor approval
+You will need your advisor's approval – and in many cases, their financial support – to pursue a research visit or conference. Discuss with your advisor before applying to any program. 
+
+Depending on the funding source of your salary, it might not be possible to participate in certain longer-term research and training activities during your employment on a particular project. See below.
+
 ### CSH approval
+Depending on the funding source for your salary, it might not be possible to participate in certain longer-term research and training activities during your employment on a particular project is ongoing. Check with the CSH Grant Executive Officer \(if you are paid by your advisor\) or with the CSH graduate program \(if you are paid by the program\).
+
+If you would like to apply for the the ÖAW International Communication program, you will not apply as an individutal but instead CSH will submit an application on your behalf. Please contact the CSH Grant Executive Officer as early as possible to discuss your application.
+
+### university approval
+You ***might*** need to request a leave of absence from your university in the case of research visits or training programs ≥4 weeks. The policies governing leave are university-wide and independent of the particular program of study.
+- [TUWien](https://www.tuwien.at/studium/studieren-an-der-tuw/beurlaubung)
+- [UniWien](https://doktorat.univie.ac.at/en/doctoralphd-programmes/leave-of-absence/)
+*more information coming soon*
+
 ---
-## OTHER CONSIDERATIONS
+## CONSIDERATIONS
 ### visas & residency requirements
+If you require a residency permit to stay/study/work in AT, you may need to consult with the MA 35 before pursuing research opportunities outside of those associated with your residency permit (for instance, as described in the "Aufnahmevereinbarung" from CSH).
+
+###
+
+<!--
 ### salary
+-->
+
+---
+## CONTACTS
+[Grant Executive Officer](mailto:d.meier@csh.ac.at)
+
+[graduate program](mailto:cowan@csh.ac.at)
+
+<!-- 
 -->
