@@ -4,7 +4,7 @@ title: VISITS+CONFERENCES
 
 ### RESEARCH VISITS
 
-*see also **FUNDING** below*
+*see also [**FUNDING**](visits-conferences.md#funding) below*
 
 #### visiting researcher programs
 
