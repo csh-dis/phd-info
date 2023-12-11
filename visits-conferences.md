@@ -147,7 +147,7 @@ title: VISITS+CONFERENCES
 ---
 ### FUNDING
 
-*see also **RESEARCH VISITS** above*
+*see also [**RESEARCH VISITS**](visits-conferences.md#research-visits) above*
 
 #### grants + travel awards
 <details><summary><b><a href="https://www.oefg.at/funding/international-communication/">ÖFG International Communication program</a></b></summary>
