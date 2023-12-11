@@ -83,6 +83,7 @@ title: VISITS+CONFERENCES
 #### academic stays
 
 - CA [Perimeter Institute Visiting Scientists](https://perimeterinstitute.ca/visiting-students)
+- IL [Weizmann Institute Visiting Students Program](https://www.weizmann.ac.il/feinberg/admissions/visiting-students-program/about-program)
 - UK [Oxford International Visiting Researchers](https://www.ox.ac.uk/research/engage-with-us/international-visiting-researchers)
 - UK [LSE Visiting Research Student in Social Policy](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2024/VRS-Social-Policy)
 - UK [UCL Science & Technology Studies visiting doctoral student program](https://www.ucl.ac.uk/sts/study-here/phd-programme/visiting-doctoral-student-programme)
