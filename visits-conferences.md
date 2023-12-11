@@ -132,6 +132,16 @@ title: VISITS+CONFERENCES
 ---
 ### INTERNSHIPS
 ##### 🚧  under construction  🚧
+<details><summary><b><a href="https://jobs.careers.microsoft.com/global/en/job/1666413/Research-Intern---Quantum-Information-and-Computation">Microsoft Quantum graduate internship program</a></b></summary>
+
+  - *qualifications:* background in quantum algorithms, quantum chemistry, quantum error correction, quantum benchmarking, physics device modeling and characterization, or machine learning
+  - *location:* Redmond, Washington US
+  - *dates:* beginning spring-summer-fall 2024
+  - *apply by:* review begins Jan 2024
+  - *application:* cv • ≥2 letters of recommendation • research interests/expertise statement
+  - *contact:* [Leanne Dillon](mailto:LEDILLON@microsoft.com)
+
+  </details>
 
 ---
 ### FUNDING
@@ -141,12 +151,12 @@ title: VISITS+CONFERENCES
 #### grants + travel awards
 <details><summary><b><a href="https://www.oefg.at/funding/international-communication/">ÖFG International Communication program</a></b></summary>
 
-  - who is funded: *junior researchers at an AT uni or research institute; <40 years*
-  - what is funded: *research stays ≤3 mo • conference attendance/presentation • organizing symposia in AT • **not** schools or courses*
-  - funding level: *?*
-  - application requirements: *budget • cv • list of publications • letter of recommendation from senior/habilitated researcher • justification/purpose of research visit or conference abstract • acceptance by host institution or conference*
-  - deadline: *approx. Jan, Mar, Jun, Sep, Oct*
-  - themes: *open*
+  - *who is funded:* junior researchers at an AT uni or research institute; <40 years
+  - *what is funded:* research stays ≤3 mo • conference attendance/presentation • organizing symposia in AT • **not** schools or courses
+  - *funding level:* ?
+  - *application requirements:* budget • cv • list of publications • letter of recommendation from senior/habilitated researcher • justification/purpose of research visit or conference abstract • acceptance by host institution or conference
+  - *deadline:* approx. Jan, Mar, Jun, Sep, Oct
+  - *themes:* open
 
 </details>
 <br />
@@ -154,42 +164,42 @@ title: VISITS+CONFERENCES
 #### university sources
 <details><summary><b><a href="https://www.tuwien.at/studium/international/studieren-im-ausland/mobilitaetsprogramme/konferenzteilnahmen-von-dissertant-innen">TUWien conference grants</a></b></summary>
 
-  - who is funded: *doctoral students enrolled at TUWien*
-  - what is funded: *presentation at international scientific conference*
-  - funding level: *travel + accommodations + registration*
-  - application requirements: *online form • cv • justification • thesis proposal acceptance • acceptance by host institution • two recommendation letters from TUWien faculty*
-  - deadline: *15 Jan, 15 Mar, 15 Jun, 15 Oct*
-  - themes: *open*
+  - *who is funded:* doctoral students enrolled at TUWien
+  - *what is funded:* presentation at international scientific conference
+  - *funding level:* travel + accommodations + registration
+  - *application requirements:* online form • cv • justification • thesis proposal acceptance • acceptance by host institution • two recommendation letters from TUWien faculty
+  - *deadline:* 15 Jan, 15 Mar, 15 Jun, 15 Oct
+  - *themes:* open
 
 </details>
 <details><summary><b><a href="https://www.tuwien.at/studium/international/studieren-im-ausland/formulare-dokumente/wissenschaftliche-arbeiten-und-kurse">TUWien short-term scientific work abroad</a></b></summary>
   
-  - who is funded: *doctoral students enrolled at TUWien*
-  - what is funded: *research stays; domain-specific coursework*
-  - funding level: *850 EUR per mo + travel allowance*
-  - application requirements: *justification • advisor's agreement • acceptance by conference • registration payment receipt*
-  - deadline: *15 Jan, 15 Mai, 15 Oct*
-  - themes: *open*
+  - *who is funded:* doctoral students enrolled at TUWien
+  - *what is funded:* research stays; domain-specific coursework
+  - *funding level:* 850 EUR per mo + travel allowance
+  - *application requirements:* justification • advisor's agreement • acceptance by conference • registration payment receipt
+  - *deadline:* 15 Jan, 15 Mai, 15 Oct
+  - *themes:* open
 
 </details>
 <details><summary><b><a href="https://international.univie.ac.at/en/student-mobility/outgoing-students/erasmus-traineeships/">UniWien Erasmus+ Traineeship</a></b></summary>
   
-  - who is funded: *students enrolled at UniWien*
-  - what is funded: *2-5 mo traineeship in EU member country; uni, company, NGO, association but **not** EU organizations or national partners; time abroad must be ≤12 mo*
-  - funding level: *400-500 EUR per mo*
-  - application requirements: *cv • learning agreement • language certificate*
-  - deadline: *ongoing; ≥6 weeks prior to start*
-  - themes: *open*
+  - *who is funded:* students enrolled at UniWien
+  - *what is funded:* 2-5 mo traineeship in EU member country; uni, company, NGO, association but **not** EU organizations or national partners; time abroad must be ≤12 mo
+  - *funding level:* 400-500 EUR per mo
+  - *application requirements:* cv • learning agreement • language certificate
+  - *deadline:* ongoing; ≥6 weeks prior to start
+  - *themes:* open
 
 </details>
 <details><summary><b><a href="https://international.univie.ac.at/en/student-mobility/outgoing-students/short-term-grants-abroad-kwa/requirements/">UniWien short-term grants abroad</a></b></summary>
   
-  - who is funed: *graduate students enrolled at UniWien; <4 years PhD; accepted thesis proposal*
-  - what is funded: *0.5-3 mo research visits; **not** conferences, schools, etc.; **not** internships that could be funded by Erasmus+*
-  - funding level: *650-1050 EUR per mo + 200-900 EUR travel*
-  - application requirements: *online form • cv • project description • dissertation agreement • host institute confirmation • recommendation letter from UniWien advisor*
-  - deadline: *15 Feb, 15 May, 15 Oct*
-  - themes: *open*
+  - *who is funed:* graduate students enrolled at UniWien; <4 years PhD; accepted thesis proposal
+  - *what is funded:* 0.5-3 mo research visits; **not** conferences, schools, etc.; **not** internships that could be funded by Erasmus+
+  - *funding level:* 650-1050 EUR per mo + 200-900 EUR travel
+  - *application requirements:* online form • cv • project description • dissertation agreement • host institute confirmation • recommendation letter from UniWien advisor
+  - *deadline:* 15 Feb, 15 May, 15 Oct
+  - *themes:* open
 </details>
 
 *more to come*
