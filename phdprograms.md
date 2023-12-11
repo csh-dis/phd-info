@@ -82,11 +82,14 @@ title: PHD PROGRAMS
 ----
 ### CEU • [network science]()
 
+🚧  under construction  🚧
 
 <br />
 
 ---
 ### Donau Uni Krems • [migration studies]()
+
+🚧  under construction  🚧
 
 <br />
 
@@ -137,7 +140,6 @@ title: PHD PROGRAMS
   - END • degree complete
 
   </details>
-  <br />
 - <details><summary><b>enrollment process</b></summary>
   
   - contact:
@@ -146,7 +148,6 @@ title: PHD PROGRAMS
   - process:
 
   </details>
-  <br />
 - <details><summary><b>degree requirements</b></summary>
   
   - qualifying exam: before end YR1; public presentation and defense of the thesis proposal to a thesis advisory committee; should have a manuscript submitted and have presented at a seminar or conference
@@ -156,8 +157,7 @@ title: PHD PROGRAMS
   - defense: public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
 
   </details>
-  <br />
-- <details><summary><b>documents</b></summary>
+- <details><summary><b>documents & forms</b></summary>
   
   - thesis proposal
 
@@ -178,11 +178,13 @@ title: PHD PROGRAMS
 
 ---
 ### TU Graz • [computer science](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
-- **CSH faculty** Fariba Karimi
+- **CSH faculty** Fariba Karimi • Jana Lasser
 - **program director:** [Daniel Gruss](https://www.iaik.tugraz.at/person/daniel-gruss/)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **SSt credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
 - **time to degree:** 4 semesters to complete course requirements
+- **thesis proposal:**
+- **qualifying exam:**
 - **thesis advisory committee:** 
 - **thesis committee meetings:**
 - **dissertation evaluation:** 2-3\* reviewers, at least one from outside TU Graz; all must have habilitation or equivalent
@@ -299,8 +301,6 @@ title: PHD PROGRAMS
   - [Anmeldung zur Defensio Dissertationis](https://www.wu.ac.at/fileadmin/wu/h/programs/phd/wiso/Anmeldung_Defensio_SoWi_2018.doc)
 
   </details>
-  
-*more info to come*
 
 *coursework takes place in **German***
 
@@ -310,7 +310,7 @@ title: PHD PROGRAMS
 ### Uni Wien • mathematics
 - **CSH faculty:** none
 
-*more info to come*
+🚧  under construction  🚧
 
 <br />
 
@@ -319,7 +319,7 @@ title: PHD PROGRAMS
 - **CSH faculty:** none
 - currently there is no supervisor available for CSH students: ***please* do not contact Prof. Dellago about the possibility of supervision**
   
-*more info to come*
+🚧  under construction  🚧
 
 <br />
 
