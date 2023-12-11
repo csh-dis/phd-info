@@ -5,7 +5,7 @@ title: PHD PROGRAMS
 ### 🚧  under construction  🚧
 
 ---
-[BOKUsustainability](phdprograms.md#boku--transitions-to-sustainability) | [CEUnetworks]() | [DonauUniMigration]() | [MedUniComplexSystems]() | [TUGrazInformatics]() | [TUWienInformatics]() | [TUWienPhysics]() | [vetmeduni]() | [WUeconomics]() | [UniWienMaths]() | [UniWienPhysics]()
+[**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien-informatics) | [**TUWien**Physics](phdprograms.md#tu-wien-physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics]() | [**UniWien**Maths]() | [**UniWien**Physics]()
 
 ---
 
@@ -274,7 +274,6 @@ title: PHD PROGRAMS
   - END • degree complete
 
   </details>
-
 - <details><summary><b>enrollment process</b></summary>
   
   - contact:
