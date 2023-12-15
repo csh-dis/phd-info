@@ -4,7 +4,7 @@ title: VISITS+CONFERENCES
 
 ### RESEARCH VISITS
 
-*see also **FUNDING** below*
+*see also [**FUNDING**](visits-conferences.md#funding) below*
 
 #### visiting researcher programs
 
@@ -83,6 +83,7 @@ title: VISITS+CONFERENCES
 #### academic stays
 
 - CA [Perimeter Institute Visiting Scientists](https://perimeterinstitute.ca/visiting-students)
+- IL [Weizmann Institute Visiting Students Program](https://www.weizmann.ac.il/feinberg/admissions/visiting-students-program/about-program)
 - UK [Oxford International Visiting Researchers](https://www.ox.ac.uk/research/engage-with-us/international-visiting-researchers)
 - UK [LSE Visiting Research Student in Social Policy](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2024/VRS-Social-Policy)
 - UK [UCL Science & Technology Studies visiting doctoral student program](https://www.ucl.ac.uk/sts/study-here/phd-programme/visiting-doctoral-student-programme)
@@ -119,7 +120,8 @@ title: VISITS+CONFERENCES
 - [ICTP Spring College on the Physics of Complex Systems](https://indico.ictp.it/event/10459) • 2024: 19 Feb-15 Mar in Trieste IT
 - [CSH Winter School • Societal Challenges for a Green Transition](https://www.csh.ac.at/event/csh-winter-school-on-societal-challenges-for-green-transition/) • 2024: 8-13 Apr in Obergurgl AT
 - [Research School on Graph Structure and Complex Network Analysis](https://www.cimpa.info/en/node/7225) • 2024: ?
-- [SFI Complex Systems Summer School](https://santafe.edu/csss) • 2024: 9 Jun - 5 Jul in Santa Fe US
+- [SFI Complex Systems Summer School](https://santafe.edu/csss) • 2024: 9 Jun-5 Jul in Santa Fe US
+- [Computational Modeling of Cognition in a Social Context](https://sites.uci.edu/cmmc/) • 2024: 3-17 Aug in Hinsterstoder AT
 - [Meditteranean School of Complex Networks](https://mediterraneanschoolcomplex.net/) • 2024: ?
 - [Lipari School on Computational Complex and Social Systems](https://complex23.liparischool.it/) • 2024: ? in Lipari IT
 - [Behavioral Macro and Complexity](https://summerschool.uva.nl/content/summer-courses/behavioral-macro-and-complexity/behavioral-macro-and-complexity.html?cb) • 2024: ? in Amsterdam NL
@@ -146,7 +148,7 @@ title: VISITS+CONFERENCES
 ---
 ### FUNDING
 
-*see also **RESEARCH VISITS** above*
+*see also [**RESEARCH VISITS**](visits-conferences.md#research-visits) above*
 
 #### grants + travel awards
 <details><summary><b><a href="https://www.oefg.at/funding/international-communication/">ÖFG International Communication program</a></b></summary>

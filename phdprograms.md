@@ -5,7 +5,7 @@ title: PHD PROGRAMS
 ### 🚧  under construction  🚧
 
 ---
-[BOKUsustainability](phdprograms.md#boku--transitions-to-sustainability) | [CEUnetworks]() | [DonauUniMigration]() | [MedUniComplexSystems]() | [TUGrazInformatics]() | [TUWienInformatics]() | [TUWienPhysics]() | [vetmeduni]() | [WUeconomics]() | [UniWienMaths]() | [UniWienPhysics]()
+[**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien-informatics) | [**TUWien**Physics](phdprograms.md#tu-wien-physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics]() | [**UniWien**Maths]() | [**UniWien**Physics]()
 
 ---
 
@@ -44,12 +44,13 @@ title: PHD PROGRAMS
   
   - YR1 • develop thesis research proposal
   - YR1 • complete dissertation \(doctoral thesis\) agreement with advisor
-  - YR2 • within 1 year of acceptance of dissertation agreement: enroll + submit exposé
+  - YR2 • *≤1 yr after acceptance of dissertation agreement* • enroll + submit exposé
   - YR2 • coursework + thesis research 
   - YR3 • coursework + thesis research
-  - END • ≥2 months prior to completion: schedule tentative date for defense
-  - END • ≥2 months prior to completion: dissertation submitted to dean of studies; dissertation shared with reviewers 
-  - END • ~2 weeks prior to completion: defense
+  - END • *≥2 mo prior to completion* • schedule tentative date for defense
+  - END • *≥2 mo prior to completion* • dissertation submitted to dean of studies; dissertation shared with reviewers 
+  - END • *~1 wk prior to completion:* • defense
+  - END • degree complete
 
   </details>
 - <details><summary><b>enrollment</b></summary>
@@ -113,6 +114,7 @@ title: PHD PROGRAMS
 ### TU Wien • [informatics](https://informatics.tuwien.ac.at/doctoral/)
 - **CSH faculty:** Allan Hanbury
 - **program director:** [Andreas Steininger](https://informatics.tuwien.ac.at/people/andreas-steininger)
+- **program admin:** [Clarissa Schmid](https://informatics.tuwien.ac.at/people/clarissa-schmid)
 - **dean of academic affairs:** [Hilda Tellioglu](https://informatics.tuwien.ac.at/people/hilda-tellioglu)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[18\] + dissertation \[162\]
@@ -123,43 +125,57 @@ title: PHD PROGRAMS
 - **thesis advisory committee:** same as proficiency evaluation committee
 - **thesis advisory meetings:** should occur annually
 - **progress reporting:** annual written reports to committee, 1-3 pages plus any publications
-- **dissertation evaluation:** 
-- **defense committee:**
+- **dissertation evaluation:** 2 international expert reviewers; takes 10-14 wks for entire process
+- **defense committee:** proficiency evaluation committee plus dissertation reviewers
 - <details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
-  - YR1 • *\(end of YR1 or start YR2\)* enroll
+  - YR1 • enroll
+  - YR1 • coursework: fundamental courses only (optional)
   - YR2 • coursework + thesis research
-  - YR2 • *\(6-18 mo after enrollment\)* proficiency evaluation
-  - YR2 • upon successful proficiency evaluation: dissertation agreement
+  - YR2 • *6-18 mo after enrollment* • proficiency evaluation
+  - YR2 • *after successful proficiency evaluation* • dissertation agreement
   - YR3 • coursework + thesis research
-  - END • *\(≥3 months before completion\)* dissertation reviewers proposed to doctoral school for approval; draft shared with approved reviewers \* must be ≥2 months prior to submission of final dissertation
-  - END • *\(≥2 months before completion\)* schedule tentative date for defense
-  - END • *\(≥1 months before completion\)* final dissertation submitted to TU Graz; final dissertation shared with reviewers 
-  - END • *\(~2 weeks before completion\)* defense
+  - END • *≥4 mo before completion* • propose dissertation reviewers; submit v1 dissertation for review
+  - END • *≥2 mo before completion* • revise dissertation as needed; submit v2 dissertation for final evaluation; schedule tentative date for defense
+  - END • *≥1 mo before completion* • final dissertation publicly available 
+  - END • *~1 wk before completion* • defense
   - END • degree complete
 
   </details>
-- <details><summary><b>enrollment process</b></summary>
-  
-  - contact:
-  - prerequisites:
-  - required documents:
-  - process:
+- <details><summary><b>application and enrollment</b></summary>
 
-  </details>
+  - process: agreement with advisor » apply » enroll
+  - <details><summary><b>application</b></summary>
+
+    - ***if you earned your Masters degree from TU Wien, the process is [different]()***
+    - required documents: [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
+    - process: submit your application documents » application documents reviewed by TU Wien » possibly recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
+  
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+  
+    - prerequisites:
+    - required documents: admissions letter • passport • residence permit \(if available\)
+    - process: application » (online registration)[] » in-person registration
+
+    </details>
 - <details><summary><b>degree requirements</b></summary>
   
-  - qualifying exam: before end YR1; public presentation and defense of the thesis proposal to a thesis advisory committee; should have a manuscript submitted and have presented at a seminar or conference
+  - proficiency evaluation: thesis proposal and successful defense 
   - courses: [see list](phdcourses.md#tu-wien-informatics)
-  - publications: 3 first-author publications or conference proceedings; can be in any journal/discipline but with the goal top quartile (Q1) journals or high impact-factor journals; *exceptions are possible \- see \**
-  - dissertation: cummulative dissertation is acceptable with permission of the advisor; in English; require 2 hardcopies
-  - defense: public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
+  - publications: no requirements; advisor sets expectations
+  - dissertation: cummulative dissertation is acceptable with permissions; in English; require 2 hardcopies
+  - defense: public presenation and defense of the disseration to a defense committee 
 
   </details>
 - <details><summary><b>documents & forms</b></summary>
   
-  - thesis proposal
+  - [provisional supervision letter]()
+  - [proficiency evaluation](https://informatics.tuwien.ac.at/study-services/forms/F-848.pdf)
+  - [dissertation agreement](https://informatics.tuwien.ac.at/study-services/forms/F-815.pdf)
+  - [nomination of dissertation reviewers](https://informatics.tuwien.ac.at/study-services/forms/F-876.pdf)
+  - [permission to defend](https://informatics.tuwien.ac.at/study-services/forms/F-868.pdf)
 
   </details> 
 <br />
@@ -274,7 +290,6 @@ title: PHD PROGRAMS
   - END • degree complete
 
   </details>
-
 - <details><summary><b>enrollment process</b></summary>
   
   - contact:
