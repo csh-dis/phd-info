@@ -68,7 +68,7 @@ title: VISITS+CONFERENCES
   - themes: *technical or natural sciences* 
 
 </details>
-<details><summary><b>AL•BA•BG•CZ•HR•HU•MD•ME•MK•PL•RO•RS•SK•SI•XK <a href="https://www.ceepus.info/content/apply">Central European Exchange Programme for University Studies(CEEPUS)</a></b></summary>
+<details><summary><b>AL•BA•BG•CZ•HR•HU•MD•ME•MK•PL•RO•RS•SK•SI•XK <a href="https://www.ceepus.info/content/apply">Central European Exchange Programme for University Studies (CEEPUS)</a></b></summary>
 
   - who is funded: *students enrolled in CEEPUS uni \(all usual CSH partners are members\)* 
   - what is funed: *3-10 mo research stay at another CEEPUS uni*
