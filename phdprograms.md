@@ -327,6 +327,7 @@ title: PHD PROGRAMS
   </details>
 <details><summary><b>documents + forms</b></summary>
   
+  - [preliminary thesis supervision agreement](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Forms/Doctoral_programme_confirmation_of_supervision_sample_E.docx)
   - thesis proposal
   - annual report
   - [curriculum](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Information/Doctoral_Schools/Curriculum_Doctoral_Programme_Natural_Sciences_as_of_1.10.2020.pdf)
