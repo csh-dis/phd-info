@@ -352,19 +352,17 @@ title: PHD PROGRAMS
 
 ---
 ### Wirtschafts Uni • [economic & social sciences](https://www.wu.ac.at/en/programs/doctoral-phd-programs/phd-program-in-economic-and-social-sciences/overview/)
-- **CSH faculty:** Axel Polleres • Mark Strembeck • Johannes Wachs
-- **program director:** [Rüdiger Frey](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[72\] + proposal \[6\] + defense \[6\]
 - **time to degree:** __ semesters to complete course requirements
-- **thesis advisory committee:** ≥3 professors with habilitation or equivalent; nominated by advisor and approved by program director
-- **research proposal:** written only? pages? evaluated by **thesis advisory committee** as "mit/ohne Erfolg"
-- **thesis committee meetings:** not required
-- **progress reports:** not required
-- **dissertation evaluation:** by **doctoral committee**; can occur before or after defense
-- **doctoral committee:** evaluates both dissertation and defense; 3 professors, ≥1 external to WU; nominated by department chair and approved by program director
+<details><summary><b>people</b></summary>
 
-- <details><summary><b>timeline</b></summary>
+  - **CSH faculty:** Axel Polleres • Mark Strembeck • Johannes Wachs • Anthony Pichler
+  - **program director:** [Rüdiger Frey](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
+  - **program admin:**
+
+  </details>
+<details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
   - YR1 • \(see below\) enroll
@@ -378,22 +376,51 @@ title: PHD PROGRAMS
   - END • degree complete
 
   </details>
-- <details><summary><b>enrollment process</b></summary>
+<details><summary><b>admissions + enrollment</b></summary>
+
+  - **steps:** 
+  - <details><summary><b>admissions</b></summary>
+
+    - **prerequisites:**
+    - **required documents:** cv + exposé (1-2 pg extended abstract)
+    - **process:**
   
-  - contact:
-  - prerequisites:
-  - required documents: cv + exposé (1-2 pg extended abstract)
-  - process:
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+  
+    - required documents: 
+    - process:
+
+    </details>
+  </details>
+<details><summary><b>thesis proposal</b></summary>
+
+  - proposal: written only? pages? evaluated as "mit/ohne Erfolg"
+  - committee: evaluated by thesis advisory committee (see next section)
+  - no requirement for exam?
 
   </details>
-- <details><summary><b>degree requirements</b></summary>
+<details><summary><b>thesis advisory committee</b></summary>
+
+  - **committee:** ≥3 professors with habilitation or equivalent; nominated by advisor and approved by program director
+  - **thesis committee meetings:** not required
+  - **progress reports:** not required
+  
+  </details>
+<details><summary><b>dissertation + defense</b></summary>
+
+  - **dissertation evaluation:** by **doctoral committee**; can occur before or after defense
+  - **doctoral committee:** evaluates both dissertation and defense; 3 professors, ≥1 external to WU; nominated by department chair and approved by program director
+
+  </details>
+<details><summary><b>degree requirements</b></summary>
 
   - things here
   - here
   - here
 
   </details>
-- <details><summary><b>documents + forms</b></summary>
+<details><summary><b>documents + forms</b></summary>
    
   - [curriculum](https://www.wu.ac.at/fileadmin/wu/d/i/statmath/Dateien/phd_en_curr_wiso_26.06.2019.pdf)
   - [Dissertationsvereinbarung](https://www.wu.ac.at/fileadmin/wu/h/programs/phd/Dissertationsvereinbarung.pdf)
