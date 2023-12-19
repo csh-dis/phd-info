@@ -37,7 +37,7 @@ title: PHD PROGRAMS
 - **time to degree:** 4 semesters to complete course requirements
 <details><summary><b>people</b></summary>
   
-  - **CSH faculty:** none (but talk to Rafael)
+  - **CSH faculty:** none
   - **program director:** [Christoph Winckler](https://boku.ac.at/personen/person/16073745BD38FB0B)
 
   </details>
