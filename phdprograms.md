@@ -247,11 +247,16 @@ title: PHD PROGRAMS
 
 ---
 ### TU Graz • [computer science](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
-- **CSH faculty** Fariba Karimi • Jana Lasser
-- **program director:** [Daniel Gruss](https://www.iaik.tugraz.at/person/daniel-gruss/)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **SSt credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
 - **time to degree:** 4 semesters to complete course requirements
+<details><summary><b>people</b></summary>
+  
+  - **CSH faculty:** Fariba Karimi • Jana Lasser
+  - **program director:** [Daniel Gruss](https://www.iaik.tugraz.at/person/daniel-gruss/)
+  - **program admin:** []()
+
+  </details>
 - **thesis proposal:**
 - **qualifying exam:**
 - **thesis advisory committee:** 
