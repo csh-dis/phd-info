@@ -56,7 +56,7 @@ title: PHD PROGRAMS
   </details>
 <details><summary><b>admissions + enrollment</b></summary>
 
-  - **steps:** preliminary agreement with advisor • [pre-register](https://boku.ac.at/en/boku-it/themen/teach-learn/studium-meldung-weitermeldung-abschluss/voranmeldung) • application • registration • enrollment
+  - **steps:** preliminary agreement with advisor • [pre-register](https://boku.ac.at/en/boku-it/themen/teach-learn/studium-meldung-weitermeldung-abschluss/voranmeldung) • admissions • registration • enrollment
   - <details><summary><b>admissions</b></summary>
 
     - **prerequisites:** Masters degree in natural or social sciences or engineering, or an equivalent degree
