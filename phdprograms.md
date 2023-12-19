@@ -357,7 +357,7 @@ title: PHD PROGRAMS
 - **time to degree:** __ semesters to complete course requirements
 <details><summary><b>people</b></summary>
 
-  - **CSH faculty:** Axel Polleres • Mark Strembeck • Johannes Wachs • Anthony Pichler
+  - **CSH faculty:** Axel Polleres • Mark Strembeck • Johannes Wachs
   - **program director:** [Rüdiger Frey](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
   - **program admin:**
 
