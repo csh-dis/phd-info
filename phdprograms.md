@@ -172,7 +172,7 @@ title: PHD PROGRAMS
   - **steps:** preliminary agreement with advisor » application » enrollment
   - <details><summary><b>admissions</b></summary>
 
-    - ***if you earned your Masters degree from TU Wien, the process is [different]()***
+    - ***if you earned your Masters degree from TU Wien, the process is [different](https://www.tuwien.at/studium/zulassung/zulassung-mit-oesterreichischer-vorbildung/doktoratsstudium)***
     - **prerequisites:** Masters degree in computer science or related discipline, or equivalent degree, or special permission
     - **required documents:** [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
     - **process:** submit your application documents » application documents reviewed by TU Wien » possibly recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
