@@ -3,6 +3,7 @@ title: PHD PROGRAMS
 ---
 
 ### 🚧  under construction  🚧
+📣 if you find errors and/or have additional information that can be included, please submit your corrections [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
 
 ---
 [**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien-informatics) | [**TUWien**Physics](phdprograms.md#tu-wien-physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics]() | [**UniWien**Maths]() | [**UniWien**Physics]()
@@ -53,7 +54,7 @@ title: PHD PROGRAMS
   - END • degree complete
 
   </details>
-- <details><summary><b>enrollment</b></summary>
+- <details><summary><b>admissions + enrollment</b></summary>
 
   - contact:
   - prerequisites:
@@ -97,6 +98,10 @@ title: PHD PROGRAMS
 
 ---
 ### MedUniWien • [medical informatics, biostatistics & complex systems]()
+
+🚧  under construction  🚧
+
+<!--
 - **CSH faculty:** Rudi Hanel • Peter Klimek • Stefan Thurner
 - **program director:** [Peter Klimek](https://www.complex-systems.meduniwien.ac.at/people/pklimek/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
@@ -106,35 +111,31 @@ title: PHD PROGRAMS
 - **thesis committee meetings:** 
 - **dissertation evaluation:** 
 - **defense committee:** 
-
+-->
 
 <br />
 
 ---
 ### TU Wien • [informatics](https://informatics.tuwien.ac.at/doctoral/)
-- **CSH faculty:** Allan Hanbury
-- **program director:** [Andreas Steininger](https://informatics.tuwien.ac.at/people/andreas-steininger)
-- **program admin:** [Clarissa Schmid](https://informatics.tuwien.ac.at/people/clarissa-schmid)
-- **dean of academic affairs:** [Hilda Tellioglu](https://informatics.tuwien.ac.at/people/hilda-tellioglu)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[18\] + dissertation \[162\]
 - **time to degree:** 4-6 semesters to complete course requirements
-- **research proposal:** ~10 pages with ≥10 references, includes timeline and workplan
-- **proficiency evaluation committee:** advisor + national expert \(AT uni\) + chair \(TU Wien Informatics but different section\) 
-- **proficiency evaluation:** 6-18 mo after enrollment
-- **thesis advisory committee:** same as proficiency evaluation committee
-- **thesis advisory meetings:** should occur annually
-- **progress reporting:** annual written reports to committee, 1-3 pages plus any publications
-- **dissertation evaluation:** 2 international expert reviewers; takes 10-14 wks for entire process
-- **defense committee:** proficiency evaluation committee plus dissertation reviewers
-- <details><summary><b>timeline</b></summary>
+<details><summary><b>people</b></summary>
+
+  - **CSH faculty:** Allan Hanbury • (more to come)
+  - **program director:** [Andreas Steininger](https://informatics.tuwien.ac.at/people/andreas-steininger)
+  - **program admin:** [Clarissa Schmid](https://informatics.tuwien.ac.at/people/clarissa-schmid)
+  - **dean of academic affairs:** [Hilda Tellioglu](https://informatics.tuwien.ac.at/people/hilda-tellioglu)
+
+</details>
+<details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
   - YR1 • enroll
   - YR1 • coursework: fundamental courses only (optional)
-  - YR2 • coursework + thesis research
-  - YR2 • *6-18 mo after enrollment* • proficiency evaluation
+  - YR1/YR2 • *6-18 mo after enrollment* • proficiency evaluation
   - YR2 • *after successful proficiency evaluation* • dissertation agreement
+  - YR2 • coursework + thesis research
   - YR3 • coursework + thesis research
   - END • *≥4 mo before completion* • propose dissertation reviewers; submit v1 dissertation for review
   - END • *≥2 mo before completion* • revise dissertation as needed; submit v2 dissertation for final evaluation; schedule tentative date for defense
@@ -142,11 +143,11 @@ title: PHD PROGRAMS
   - END • *~1 wk before completion* • defense
   - END • degree complete
 
-  </details>
-- <details><summary><b>application and enrollment</b></summary>
+</details>
+<details><summary><b>admissions + enrollment</b></summary>
 
   - process: agreement with advisor » apply » enroll
-  - <details><summary><b>application</b></summary>
+  - <details><summary><b>admissions</b></summary>
 
     - ***if you earned your Masters degree from TU Wien, the process is [different]()***
     - required documents: [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
@@ -155,38 +156,64 @@ title: PHD PROGRAMS
     </details>
   - <details><summary><b>enrollment</b></summary>
   
-    - prerequisites:
+    - prerequisites: Masters degree in computer science or related discipline, or equivalent degree, or special permission
     - required documents: admissions letter • passport • residence permit \(if available\)
-    - process: application » (online registration)[] » in-person registration
+    - process: application » [online registration](https://tiss.tuwien.ac.at/aufnahme/aufnahmeverfahren) » in-person registration
 
-    </details>
-- <details><summary><b>degree requirements</b></summary>
+</details>
+<details><summary><b>proficiency exam</b></summary>
   
-  - proficiency evaluation: thesis proposal and successful defense 
+  - research proposal: ~10 pages with ≥10 references, includes timeline and workplan
+  - committee: advisor + national expert \(AT uni\) + chair \(TU Wien Informatics but different section\) 
+  - deadline: 6-18 mo after enrollment
+  - *also includes review and approval of proposed courses*
+
+</details>
+<details><summary><b>thesis advisory committee</b></summary>
+  
+  - committee: same as proficiency evaluation committee
+  - meetings: should occur annually
+  - progress reporting: annual written reports to committee, 1-3 pages plus any publications
+ 
+</details>
+<details><summary><b>dissertation + defense</b></summary>
+  
+  - dissertation evaluation: 2 international expert reviewers; takes 10-14 wks for entire process
+  - defense committee: proficiency evaluation committee plus dissertation reviewers
+
+</details>
+<details><summary><b>degree requirements</b></summary>
+  
+  - proficiency evaluation: passing evaluation 
   - courses: [see list](phdcourses.md#tu-wien-informatics)
   - publications: no requirements; advisor sets expectations
   - dissertation: cummulative dissertation is acceptable with permissions; in English; require 2 hardcopies
   - defense: public presenation and defense of the disseration to a defense committee 
 
-  </details>
-- <details><summary><b>documents & forms</b></summary>
+</details>
+<details><summary><b>documents + forms</b></summary>
   
-  - [provisional supervision letter]()
+  - provisional supervision letter
   - [proficiency evaluation](https://informatics.tuwien.ac.at/study-services/forms/F-848.pdf)
   - [dissertation agreement](https://informatics.tuwien.ac.at/study-services/forms/F-815.pdf)
   - [nomination of dissertation reviewers](https://informatics.tuwien.ac.at/study-services/forms/F-876.pdf)
   - [permission to defend](https://informatics.tuwien.ac.at/study-services/forms/F-868.pdf)
 
-  </details> 
+</details> 
 <br />
 
 ---
 ### TU Wien • physics
-- **CSH faculty:** none
-- **program director:**
-- **dean of faculty of physics:** Joachim Burgdörfer
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[?\] + dissertation \[?\]
+- **time to degree:** ?
+<details><summary><b>people</b></summary>
+
+  - **CSH faculty:** none
+  - **program director:**
+  - **dean of faculty of physics:** Joachim Burgdörfer
+
+</details>
 
 *more info to come*
 
