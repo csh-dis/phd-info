@@ -149,6 +149,7 @@ title: PHD PROGRAMS
   - **program director:** [Andreas Steininger](https://informatics.tuwien.ac.at/people/andreas-steininger)
   - **program admin:** [Clarissa Schmid](https://informatics.tuwien.ac.at/people/clarissa-schmid)
   - **dean of academic affairs:** [Hilda Tellioglu](https://informatics.tuwien.ac.at/people/hilda-tellioglu)
+  - **student organization:** [Fachschaft Doktorat](https://fsdr.at/)
 
 </details>
 <details><summary><b>timeline</b></summary>
@@ -169,13 +170,13 @@ title: PHD PROGRAMS
 </details>
 <details><summary><b>admissions + enrollment</b></summary>
 
-  - **steps:** preliminary agreement with advisor » application » enrollment
+  - **steps:** confrimation from TUWien faculty advisor » application » enrollment
   - <details><summary><b>admissions</b></summary>
 
-    - ***if you earned your Masters degree from TU Wien, the process is [different](https://www.tuwien.at/studium/zulassung/zulassung-mit-oesterreichischer-vorbildung/doktoratsstudium)***
+    - ***if you earned your Masters degree from TUWien or another AT uni, the process is [different](https://www.tuwien.at/studium/zulassung/zulassung-mit-oesterreichischer-vorbildung/doktoratsstudium)***
     - **prerequisites:** Masters degree in computer science or related discipline, or equivalent degree, or special permission
     - **required documents:** [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
-    - **process:** submit your application documents » application documents reviewed by TU Wien » possibly recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
+    - **process:** submit your application documents to ___ » possible recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
   
     </details>
   - <details><summary><b>enrollment</b></summary>
@@ -276,12 +277,12 @@ title: PHD PROGRAMS
   </details>
 <details><summary><b>admissions + enrollment</b></summary>
 
-  - **steps:** 
+  - **steps:** confirmation from TUGraz faculty advisor » pre-registration » admissions
   - <details><summary><b>admissions</b></summary>
 
-    - **prerequisites:**
-    - **required documents:**
-    - **process:**
+    - **prerequisites:** masters degree in natural sciences or engineering, or equivalent degree, or with special consideration bachelors degree
+    - **required documents:** certificate of completion of prior degree • degree transcripts w/ ECTS, exams • cv • confirmation of supervision by TUGraz faculty 
+    - **process:** online [pre-registration]() » submit all required documents to [Registrar](mailto:studienservice@tugraz.ac.at) » ?
       
     </details>
   - <details><summary><b>enrollment</b></summary>
