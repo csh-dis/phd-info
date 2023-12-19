@@ -255,7 +255,8 @@ title: PHD PROGRAMS
   
   - **CSH faculty:** Fariba Karimi • Jana Lasser
   - **program director:** [Daniel Gruss](https://www.iaik.tugraz.at/person/daniel-gruss/)
-  - **program admin:** []()
+  - **program admin:** [Nina Zöchling](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=106266DC3B744225&pPersonenGruppe=3)
+  - **student representative:** [Alina Herderich](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C9D36D0F62CA4747&pPersonenGruppe=3)
 
   </details>
 <details><summary><b>timeline</b></summary>
