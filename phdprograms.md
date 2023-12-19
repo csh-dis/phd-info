@@ -3,7 +3,7 @@ title: PHD PROGRAMS
 ---
 
 ### 🚧  under construction  🚧
-📣 if you find errors and/or have additional information that can be included, please submit  corrections [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
+📣 if you find errors and/or have additional information that can be included, please submit [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
 
 ---
 [**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien-informatics) | [**TUWien**Physics](phdprograms.md#tu-wien-physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics]() | [**UniWien**Maths]() | [**UniWien**Physics]()
@@ -45,7 +45,7 @@ title: PHD PROGRAMS
   
   - YR1 • develop thesis research
   - YR1/YR2 • enroll
-  - YR2 • *≤1 yr after enrolling* • register your thesis • submit exposé • complete dissertation agreement with advisor
+  - YR2 • *≤1 yr after enrolling* • register your thesis project
   - YR2 • coursework + thesis research 
   - YR3 • coursework + thesis research
   - END • *≥2 mo prior to completion* • schedule tentative date for defense
