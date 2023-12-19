@@ -32,16 +32,16 @@ title: PHD PROGRAMS
 
 ---
 ### BOKU • [transitions to sustainability]()
-- **CSH faculty:** none (but talk to Rafael)
-- **program contact:** [Christoph Winckler](https://boku.ac.at/personen/person/16073745BD38FB0B)
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
 - **ECTS credits:** coursework \[30\] + dissertation \[150\]
 - **time to degree:** 4 semesters to complete course requirements
-- **thesis advisory committee:** ≥3 members incl. advisor, 1 from BOKU Doctoral School, 1 external
-- **thesis committee meetings:** annual written report to committee; meeting of ≥2 members incl. minutes/report submitted to program
-- **dissertation evaluation:** 2 reviewers, at least one from outside BOKU; all must have expertise related to topic
-- **defense committee:** 2 examiners plus chair
-- <details><summary><b>timeline</b></summary>
+<details><summary><b>people</b></summary>
+  
+  - **CSH faculty:** none (but talk to Rafael)
+  - **program director:** [Christoph Winckler](https://boku.ac.at/personen/person/16073745BD38FB0B)
+
+  </details>
+<details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
   - YR1 • complete dissertation \(doctoral thesis\) agreement with advisor
@@ -54,24 +54,46 @@ title: PHD PROGRAMS
   - END • degree complete
 
   </details>
-- <details><summary><b>admissions + enrollment</b></summary>
+<details><summary><b>admissions + enrollment</b></summary>
 
-  - contact:
-  - prerequisites:
-  - required documents:
-  - process:
+  - **steps:**
+  - <details><summary><b>admissions</b></summary>
 
+    - xxx:
+    - xxx:
+    - xxx:
+
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+    
+    - prerequisites:
+    - required documents:
+    - process:
+
+    </details>
   </details>
-- <details><summary><b>degree requirements</b></summary>
+<details><summary><b>thesis advisory committee</b></summary>
   
-  - acceptance of dissertation agreement by program coordinator
-  - courses: [see list](phdcourses.md#boku--transitions-to-sustainability)
-  - publications: *nothing specified*
-  - dissertation: original monograph *or* cummulative dissertation incl ≥2 first-author publications plus "framework paper"; require 2 hardcopies
-  - defense: public presenation \(20-30 min\) and defense to examination committee
+  - **committee:** ≥3 members incl. advisor, 1 from BOKU Doctoral School, 1 external
+  - **meetings:** annual written report to committee; meeting of ≥2 members incl. minutes/report submitted to program
+  
+  </details>
+<details><summary><b>dissertation + defense</b></summary>
+  
+  - **dissertation evaluation:** 2 reviewers, at least one from outside BOKU; all must have expertise related to topic
+  - **defense committee:** 2 examiners plus chair
 
   </details>
-- <details><summary><b>documents + forms</b></summary>
+<details><summary><b>degree requirements</b></summary>
+  
+  - **dissertation agreement:** acceptance by program coordinator
+  - **courses:** [see list](phdcourses.md#boku--transitions-to-sustainability)
+  - **publications:** *nothing specified*
+  - **dissertation:** original monograph *or* cummulative dissertation incl ≥2 first-author publications plus "framework paper"; require 2 hardcopies
+  - **defense:** public presenation \(20-30 min\) and defense to examination committee
+
+  </details>
+<details><summary><b>documents + forms</b></summary>
   
   - [registration of doctoral project](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796764_T2S_Anmeldung_Projekt_Doktorat_2020_EN.docx)
   - [additional coursework](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796761-796769_Nachnominierung_2021_EN.docx)
@@ -146,49 +168,49 @@ title: PHD PROGRAMS
 </details>
 <details><summary><b>admissions + enrollment</b></summary>
 
-  - process: agreement with advisor » apply » enroll
+  - **steps:** agreement with advisor » apply » enroll
   - <details><summary><b>admissions</b></summary>
 
     - ***if you earned your Masters degree from TU Wien, the process is [different]()***
-    - required documents: [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
-    - process: submit your application documents » application documents reviewed by TU Wien » possibly recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
+    - **required documents:** [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
+    - **process:** submit your application documents » application documents reviewed by TU Wien » possibly recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
   
     </details>
   - <details><summary><b>enrollment</b></summary>
   
-    - prerequisites: Masters degree in computer science or related discipline, or equivalent degree, or special permission
-    - required documents: admissions letter • passport • residence permit \(if available\)
-    - process: application » [online registration](https://tiss.tuwien.ac.at/aufnahme/aufnahmeverfahren) » in-person registration
+    - **prerequisites:** Masters degree in computer science or related discipline, or equivalent degree, or special permission
+    - **required documents:** admissions letter • passport • residence permit \(if available\)
+    - **process:** application » [online registration](https://tiss.tuwien.ac.at/aufnahme/aufnahmeverfahren) » in-person registration
 
 </details>
 <details><summary><b>proficiency exam</b></summary>
   
-  - research proposal: ~10 pages with ≥10 references, includes timeline and workplan
-  - committee: advisor + national expert \(AT uni\) + chair \(TU Wien Informatics but different section\) 
-  - deadline: 6-18 mo after enrollment
-  - *also includes review and approval of proposed courses*
+  - **research proposal:** ~10 pages with ≥10 references, includes timeline and workplan
+  - **committee:** advisor + national expert \(AT uni\) + chair \(TU Wien Informatics but different section\) 
+  - **deadline:** 6-18 mo after enrollment
+  - **other:** the defense also includes review and approval of proposed coursework for the degree
 
 </details>
 <details><summary><b>thesis advisory committee</b></summary>
   
-  - committee: same as proficiency evaluation committee
-  - meetings: should occur annually
-  - progress reporting: annual written reports to committee, 1-3 pages plus any publications
+  - **committee:** same as proficiency evaluation committee
+  - **meetings:** should occur annually
+  - **progress reporting:** annual written reports to committee, 1-3 pages plus any publications
  
 </details>
 <details><summary><b>dissertation + defense</b></summary>
   
-  - dissertation evaluation: 2 international expert reviewers; takes 10-14 wks for entire process
-  - defense committee: proficiency evaluation committee plus dissertation reviewers
+  - **dissertation evaluation:** 2 international expert reviewers; takes 10-14 wks for entire process
+  - **defense committee:** proficiency evaluation committee plus dissertation reviewers
 
 </details>
 <details><summary><b>degree requirements</b></summary>
   
-  - proficiency evaluation: passing evaluation 
-  - courses: [see list](phdcourses.md#tu-wien-informatics)
-  - publications: no requirements; advisor sets expectations
-  - dissertation: cummulative dissertation is acceptable with permissions; in English; require 2 hardcopies
-  - defense: public presenation and defense of the disseration to a defense committee 
+  - **proficiency evaluation:** passing evaluation 
+  - **courses:** [see list](phdcourses.md#tu-wien-informatics)
+  - **publications:** no requirements; advisor sets expectations
+  - **dissertation:** cummulative dissertation is acceptable with permissions; in English; require 2 hardcopies
+  - **defense:** public presenation and defense of the disseration to a defense committee 
 
 </details>
 <details><summary><b>documents + forms</b></summary>
@@ -204,6 +226,10 @@ title: PHD PROGRAMS
 
 ---
 ### TU Wien • physics
+
+🚧  under construction  🚧
+
+<!--
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[?\] + dissertation \[?\]
 - **time to degree:** ?
@@ -216,7 +242,7 @@ title: PHD PROGRAMS
 </details>
 
 *more info to come*
-
+-->
 <br />
 
 ---
