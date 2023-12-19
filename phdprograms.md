@@ -169,7 +169,7 @@ title: PHD PROGRAMS
 </details>
 <details><summary><b>admissions + enrollment</b></summary>
 
-  - **steps:** preliminary agreement with advisor » apply » enroll
+  - **steps:** preliminary agreement with advisor » application » enrollment
   - <details><summary><b>admissions</b></summary>
 
     - ***if you earned your Masters degree from TU Wien, the process is [different]()***
@@ -249,7 +249,7 @@ title: PHD PROGRAMS
 ---
 ### TU Graz • [computer science](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
-- **SSt credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
+- **ECTS credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
 - **time to degree:** 4 semesters to complete course requirements
 <details><summary><b>people</b></summary>
   
@@ -258,14 +258,8 @@ title: PHD PROGRAMS
   - **program admin:** []()
 
   </details>
-- **thesis proposal:**
-- **qualifying exam:**
-- **thesis advisory committee:** 
-- **thesis committee meetings:**
-- **dissertation evaluation:** 2-3\* reviewers, at least one from outside TU Graz; all must have habilitation or equivalent
-- **defense committee:** 3-5\* members; dean of studies in computer science or their apointee serves as chair; at least one member from outside TU Graz; all must have habilitation of equivalent
-- <details><summary><b>timeline</b></summary>
-  
+<details><summary><b>timeline</b></summary>
+
   - YR1 • develop thesis research proposal
   - YR1/YR2 • *\(end of YR1 or start YR2\)* enroll
   - YR2 • *\(6-9 months after enrollment\)* qualifying exam
@@ -279,15 +273,48 @@ title: PHD PROGRAMS
   - END • degree complete
 
   </details>
-- <details><summary><b>enrollment process</b></summary>
-  
-  - contact:
-  - prerequisites:
-  - required documents:
-  - process:
+<details><summary><b>admissions + enrollment</b></summary>
+
+  - **steps:** 
+  - <details><summary><b>admissions</b></summary>
+
+    - **prerequisites:**
+    - **required documents:**
+    - **process:**
+      
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+
+    - **required documents:**
+    - **process:**
+    
+    </details>
 
   </details>
-- <details><summary><b>degree requirements</b></summary>
+<details><summary><b>qualifying exam</b></summary>
+
+  - **thesis proposal:**
+  - **qualifying exam:**
+  - **committee:**
+
+  </details>
+<details><summary><b>thesis advisory committee</b></summary>
+
+  - **committee:**
+  - **meetings:**
+  - **progress reports:**
+
+  </details>
+<details><summary><b>dissertation + defense</b></summary>
+
+  - **dissertation evaluation:** 2-3\* reviewers, at least one from outside TU Graz; all must have habilitation or equivalent
+  - **defense committee:** 3-5\* members; dean of studies in computer science or their apointee serves as chair; at least one member from outside TU Graz; all must have habilitation of equivalent
+  - *\* 3 and 5 members are required if student has not met the publication requirement*
+
+  </details>
+
+
+<details><summary><b>degree requirements</b></summary>
   
   - qualifying exam: before end YR1; public presentation and defense of the thesis proposal to a thesis advisory committee; should have a manuscript submitted and have presented at a seminar or conference
   - courses: [see list](phdcourses.md#tu-graz--computer-science--informatics)
@@ -296,7 +323,7 @@ title: PHD PROGRAMS
   - defense: public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
 
   </details>
-- <details><summary><b>documents + forms</b></summary>
+<details><summary><b>documents + forms</b></summary>
   
   - thesis proposal
   - annual report
@@ -305,7 +332,6 @@ title: PHD PROGRAMS
  
   </details>
   
-*\* 3 and 5 members are required if student has not met the publication requirement*
 
 <br />
 
