@@ -3,7 +3,7 @@ title: PHD PROGRAMS
 ---
 
 ### 🚧  under construction  🚧
-📣 if you find errors and/or have additional information that can be included, please submit your corrections [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
+📣 if you find errors and/or have additional information that can be included, please submit  corrections [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
 
 ---
 [**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien-informatics) | [**TUWien**Physics](phdprograms.md#tu-wien-physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics]() | [**UniWien**Maths]() | [**UniWien**Physics]()
@@ -31,7 +31,7 @@ title: PHD PROGRAMS
 
 
 ---
-### BOKU • [transitions to sustainability]()
+### BOKU • [transitions to sustainability](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/transitions-to-sustainability-t2s)
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
 - **ECTS credits:** coursework \[30\] + dissertation \[150\]
 - **time to degree:** 4 semesters to complete course requirements
@@ -43,9 +43,9 @@ title: PHD PROGRAMS
   </details>
 <details><summary><b>timeline</b></summary>
   
-  - YR1 • develop thesis research proposal
-  - YR1 • complete dissertation \(doctoral thesis\) agreement with advisor
-  - YR2 • *≤1 yr after acceptance of dissertation agreement* • enroll + submit exposé
+  - YR1 • develop thesis research
+  - YR1/YR2 • enroll
+  - YR2 • *≤1 yr after enrolling* • register your thesis • submit exposé • complete dissertation agreement with advisor
   - YR2 • coursework + thesis research 
   - YR3 • coursework + thesis research
   - END • *≥2 mo prior to completion* • schedule tentative date for defense
@@ -56,19 +56,20 @@ title: PHD PROGRAMS
   </details>
 <details><summary><b>admissions + enrollment</b></summary>
 
-  - **steps:**
+  - **steps:** preliminary agreement with advisor • [pre-register](https://boku.ac.at/en/boku-it/themen/teach-learn/studium-meldung-weitermeldung-abschluss/voranmeldung) • application • registration • enrollment
   - <details><summary><b>admissions</b></summary>
 
-    - xxx:
-    - xxx:
-    - xxx:
+    - **prerequisites:** Masters degree in natural or social sciences or engineering, or an equivalent degree
+    - **required documents:** [application form - non-AT degree](https://boku.ac.at/fileadmin/data/H05000/H11100/Zulassung/Formulare_Zulassung/Application_form_Doctorat.doc) or [application form - AT degree](https://boku.ac.at/fileadmin/data/H05000/H11100/Zulassung/Formulare_Zulassung/Antrag_Doktorat_inlaendisches_Vorstudium.doc) • certificate of completion of Masters (e.g. diploma) • degree transcript w/ ECTS • cv • preliminary supervision confirmation
+    - **process:** if you do not already have an application from a PhD program, request admissions by sending required documents to [DocService](docservice@boku.ac.at) » recieve an application \(from DocService or from PhD program directly\) » send required documents plus application to [Study Services](studienservices@boku.ac.at) or as instructed
+    - **deadlines:** *for non-EU students* Sep 5 for winter term or Feb 5 for spring term • admissions process may take 12-15 wks
+    - **registration:** once admitted you will probably need: passport • certificate of admission • proof of health insurance • uni entrance requiremnt » all to Registration Office
 
     </details>
   - <details><summary><b>enrollment</b></summary>
     
-    - prerequisites:
-    - required documents:
-    - process:
+    - **required documents:** none
+    - **process:** enroll [online](https://online.boku.ac.at/BOKUonline/ee/ui/ca2/app/desktop/#/login) every semester • pay student union fee
 
     </details>
   </details>
@@ -168,17 +169,17 @@ title: PHD PROGRAMS
 </details>
 <details><summary><b>admissions + enrollment</b></summary>
 
-  - **steps:** agreement with advisor » apply » enroll
+  - **steps:** preliminary agreement with advisor » apply » enroll
   - <details><summary><b>admissions</b></summary>
 
     - ***if you earned your Masters degree from TU Wien, the process is [different]()***
+    - **prerequisites:** Masters degree in computer science or related discipline, or equivalent degree, or special permission
     - **required documents:** [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
     - **process:** submit your application documents » application documents reviewed by TU Wien » possibly recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
   
     </details>
   - <details><summary><b>enrollment</b></summary>
   
-    - **prerequisites:** Masters degree in computer science or related discipline, or equivalent degree, or special permission
     - **required documents:** admissions letter • passport • residence permit \(if available\)
     - **process:** application » [online registration](https://tiss.tuwien.ac.at/aufnahme/aufnahmeverfahren) » in-person registration
 
