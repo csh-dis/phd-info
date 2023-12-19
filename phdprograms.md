@@ -294,16 +294,18 @@ title: PHD PROGRAMS
   </details>
 <details><summary><b>qualifying exam</b></summary>
 
-  - **thesis proposal:**
-  - **qualifying exam:**
-  - **committee:**
+  - **thesis proposal:** xxxxx
+  - **qualifying exam:** public presentation and defense of the thesis proposal to a thesis advisory committee
+  - **committee:** xxxxxxx
+  - **deadline:** approx. 6-9 months after enrolling
+  - **other:** should have a manuscript submitted and have presented at a seminar or conference
 
   </details>
 <details><summary><b>thesis advisory committee</b></summary>
 
-  - **committee:**
-  - **meetings:**
-  - **progress reports:**
+  - **committee:** expected to be same or similar to qualifying exam
+  - **meetings:** ≥1 per year
+  - **progress reports:** 
 
   </details>
 <details><summary><b>dissertation + defense</b></summary>
@@ -313,15 +315,13 @@ title: PHD PROGRAMS
   - *\* 3 and 5 members are required if student has not met the publication requirement*
 
   </details>
-
-
 <details><summary><b>degree requirements</b></summary>
   
-  - qualifying exam: before end YR1; public presentation and defense of the thesis proposal to a thesis advisory committee; should have a manuscript submitted and have presented at a seminar or conference
-  - courses: [see list](phdcourses.md#tu-graz--computer-science--informatics)
-  - publications: 3 first-author publications or conference proceedings; can be in any journal/discipline but with the goal top quartile (Q1) journals or high impact-factor journals; *exceptions are possible \- see \**
-  - dissertation: cummulative dissertation is acceptable with permission of the advisor; in English; require 2 hardcopies
-  - defense: public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
+  - **qualifying exam:** passing evaluation
+  - **courses:** [see list](phdcourses.md#tu-graz--computer-science--informatics)
+  - **publications:** 3 first-author publications or conference proceedings; can be in any journal/discipline but with the goal top quartile (Q1) journals or high impact-factor journals; *exceptions are possible*
+  - **dissertation:** cummulative dissertation is acceptable with permission of the advisor; in English; require 2 hardcopies
+  - **defense:** public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
 
   </details>
 <details><summary><b>documents + forms</b></summary>
