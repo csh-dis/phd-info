@@ -79,6 +79,17 @@ title: FELLOWSHIPS
     
 </details>  
 <br />
+<details><summary><b><a href="https://www.unicreditgroup.eu/en/microsites/unicreditfoundation/proposals.html">UniCredit Crivelli Europe Scholarship</a></b></summary>
+  
+  - *who is funded:* doctoral students from AT, BA, BG, HR, CZ, DE, HU, IT, RO, RU, RS, SK, SI or from anywhere but earned degree in one of those countries; ≤28 years; ≤3 years since masters
+  - *what is funded:* 2 yrs PhD program in economics,  
+  - *funding level:* 65000 EUR for 2 yrs
+  - *application requirements:* online form • cv • dissertation summary • publications \(incl. full dissertation\) • degree certificate • ≥ recommendation letter
+  - *deadline:* 15 Nov
+  - *themes:* theoretical and empirical studies in economics, finance, banking
+    
+</details>  
+<br />
 more to come...
 
 ---
