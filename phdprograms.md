@@ -295,10 +295,10 @@ title: PHD PROGRAMS
   </details>
 <details><summary><b>qualifying exam</b></summary>
 
-  - **thesis proposal:** xxxxx
+  - **research \(thesis\) proposal:** format specified by the advisor
   - **qualifying exam:** public presentation and defense of the thesis proposal to a thesis advisory committee
-  - **committee:** xxxxxxx
-  - **deadline:** approx. 6-9 months after enrolling
+  - **committee:** advisor plus ≥2 faculty with habilitation or equivalent
+  - **deadline:** approx. 6-9 months after enrolling, must be ≤1 year
   - **other:** should have a manuscript submitted and have presented at a seminar or conference
 
   </details>
@@ -306,7 +306,7 @@ title: PHD PROGRAMS
 
   - **committee:** expected to be same or similar to qualifying exam
   - **meetings:** ≥1 per year
-  - **progress reports:** 
+  - **progress reports:** not required
 
   </details>
 <details><summary><b>dissertation + defense</b></summary>
@@ -328,8 +328,6 @@ title: PHD PROGRAMS
 <details><summary><b>documents + forms</b></summary>
   
   - [preliminary thesis supervision agreement](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Forms/Doctoral_programme_confirmation_of_supervision_sample_E.docx)
-  - thesis proposal
-  - annual report
   - [curriculum](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Information/Doctoral_Schools/Curriculum_Doctoral_Programme_Natural_Sciences_as_of_1.10.2020.pdf)
   - [statutes *will be updated 2023*](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Information/Doctoral_Schools/Statutes_Doctoral_School_Computer_Science_English_1.10.2020.pdf)
  
@@ -353,8 +351,8 @@ title: PHD PROGRAMS
 ---
 ### Wirtschafts Uni • [economic & social sciences](https://www.wu.ac.at/en/programs/doctoral-phd-programs/phd-program-in-economic-and-social-sciences/overview/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
-- **ECTS credits:** coursework \[72\] + proposal \[6\] + defense \[6\]
-- **time to degree:** __ semesters to complete course requirements
+- **ECTS credits:** coursework \[72\] + defense \[6\]
+- **time to degree:** 6 semesters to complete course requirements
 <details><summary><b>people</b></summary>
 
   - **CSH faculty:** Axel Polleres • Mark Strembeck • Johannes Wachs
@@ -381,7 +379,7 @@ title: PHD PROGRAMS
   - **steps:** 
   - <details><summary><b>admissions</b></summary>
 
-    - **prerequisites:**
+    - **prerequisites:** masters/diploma degree in a relevant field
     - **required documents:** cv + exposé (1-2 pg extended abstract)
     - **process:**
   
@@ -393,31 +391,31 @@ title: PHD PROGRAMS
 
     </details>
   </details>
-<details><summary><b>thesis proposal</b></summary>
+<details><summary><b>research proposal</b></summary>
 
   - proposal: written only? pages? evaluated as "mit/ohne Erfolg"
-  - committee: evaluated by thesis advisory committee (see next section)
-  - no requirement for exam?
+  - committee: ≥3 professors with habilitation or equivalent; nominated by advisor and approved by program director
+  - deadline: ≤1 year after start of studies
 
   </details>
 <details><summary><b>thesis advisory committee</b></summary>
 
-  - **committee:** ≥3 professors with habilitation or equivalent; nominated by advisor and approved by program director
-  - **thesis committee meetings:** not required
-  - **progress reports:** not required
-  
+  - **no requirements**
+      
   </details>
 <details><summary><b>dissertation + defense</b></summary>
 
-  - **dissertation evaluation:** by **doctoral committee**; can occur before or after defense
+  - **dissertation evaluation:** by doctoral committee; can occur before or after defense
   - **doctoral committee:** evaluates both dissertation and defense; 3 professors, ≥1 external to WU; nominated by department chair and approved by program director
 
   </details>
 <details><summary><b>degree requirements</b></summary>
 
-  - things here
-  - here
-  - here
+  - **thesis proposal:** passing review
+  - **courses:** [see list](phdcourses.md#wu--economics-social-science)
+  - **publications:** not specified 
+  - **dissertation:**
+  - **defense:** 
 
   </details>
 <details><summary><b>documents + forms</b></summary>
