@@ -3,13 +3,14 @@ title: PHD PROGRAMS
 ---
 
 ### 🚧  under construction  🚧
+📣 if you find errors and/or have additional information that can be included, please submit [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
 
 ---
 [**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien-informatics) | [**TUWien**Physics](phdprograms.md#tu-wien-physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics]() | [**UniWien**Maths]() | [**UniWien**Physics]()
 
 ---
 
-<details><summary><b>DEFINITIONS</b></summary>
+<details><summary><h3>DEFINITIONS</h3></summary>
   
   - **advisor / supervisor** : these terms may be used interchangeably to denote the faculty member who is directly guiding your thesis research and shares responsibility for your professional development as a researcher; at CSH, usually <b>advisor</b> is used
   - **mentor** : at CSH, this term is most often used to refer to your advisor; in other programs (e.g. TU Graz) the term denotes another person (i.e. not your advisor) whom you consult for professional development purposes or advice, for instance especially if your career interests lie outside of academia
@@ -30,21 +31,21 @@ title: PHD PROGRAMS
 
 
 ---
-### BOKU • [transitions to sustainability]()
-- **CSH faculty:** none (but talk to Rafael)
-- **program contact:** [Christoph Winckler](https://boku.ac.at/personen/person/16073745BD38FB0B)
+### BOKU • [transitions to sustainability](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/transitions-to-sustainability-t2s)
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
 - **ECTS credits:** coursework \[30\] + dissertation \[150\]
 - **time to degree:** 4 semesters to complete course requirements
-- **thesis advisory committee:** ≥3 members incl. advisor, 1 from BOKU Doctoral School, 1 external
-- **thesis committee meetings:** annual written report to committee; meeting of ≥2 members incl. minutes/report submitted to program
-- **dissertation evaluation:** 2 reviewers, at least one from outside BOKU; all must have expertise related to topic
-- **defense committee:** 2 examiners plus chair
-- <details><summary><b>timeline</b></summary>
+<details><summary><b>people</b></summary>
   
-  - YR1 • develop thesis research proposal
-  - YR1 • complete dissertation \(doctoral thesis\) agreement with advisor
-  - YR2 • *≤1 yr after acceptance of dissertation agreement* • enroll + submit exposé
+  - **CSH faculty:** none
+  - **program director:** [Christoph Winckler](https://boku.ac.at/personen/person/16073745BD38FB0B)
+
+  </details>
+<details><summary><b>timeline</b></summary>
+  
+  - YR1 • develop thesis research
+  - YR1/YR2 • enroll
+  - YR2 • *≤1 yr after enrolling* • register your thesis project
   - YR2 • coursework + thesis research 
   - YR3 • coursework + thesis research
   - END • *≥2 mo prior to completion* • schedule tentative date for defense
@@ -53,24 +54,47 @@ title: PHD PROGRAMS
   - END • degree complete
 
   </details>
-- <details><summary><b>enrollment</b></summary>
+<details><summary><b>admissions + enrollment</b></summary>
 
-  - contact:
-  - prerequisites:
-  - required documents:
-  - process:
+  - **steps:** preliminary agreement with advisor • [pre-register](https://boku.ac.at/en/boku-it/themen/teach-learn/studium-meldung-weitermeldung-abschluss/voranmeldung) • admissions • registration • enrollment
+  - <details><summary><b>admissions</b></summary>
 
+    - **prerequisites:** Masters degree in natural or social sciences or engineering, or an equivalent degree
+    - **required documents:** [application form - non-AT degree](https://boku.ac.at/fileadmin/data/H05000/H11100/Zulassung/Formulare_Zulassung/Application_form_Doctorat.doc) or [application form - AT degree](https://boku.ac.at/fileadmin/data/H05000/H11100/Zulassung/Formulare_Zulassung/Antrag_Doktorat_inlaendisches_Vorstudium.doc) • certificate of completion of Masters (e.g. diploma) • degree transcript w/ ECTS • cv • preliminary supervision confirmation
+    - **process:** if you do not already have an application from a PhD program, request admissions by sending required documents to [DocService](docservice@boku.ac.at) » recieve an application \(from DocService or from PhD program directly\) » send required documents plus application to [Study Services](studienservices@boku.ac.at) or as instructed
+    - **deadlines:** *for non-EU students* Sep 5 for winter term or Feb 5 for spring term • admissions process may take 12-15 wks
+    - **registration:** once admitted you will probably need: passport • certificate of admission • proof of health insurance • uni entrance requiremnt » all to Registration Office
+
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+    
+    - **required documents:** none
+    - **process:** enroll [online](https://online.boku.ac.at/BOKUonline/ee/ui/ca2/app/desktop/#/login) every semester • pay student union fee
+
+    </details>
   </details>
-- <details><summary><b>degree requirements</b></summary>
+<details><summary><b>thesis advisory committee</b></summary>
   
-  - acceptance of dissertation agreement by program coordinator
-  - courses: [see list](phdcourses.md#boku--transitions-to-sustainability)
-  - publications: *nothing specified*
-  - dissertation: original monograph *or* cummulative dissertation incl ≥2 first-author publications plus "framework paper"; require 2 hardcopies
-  - defense: public presenation \(20-30 min\) and defense to examination committee
+  - **committee:** ≥3 members incl. advisor, 1 from BOKU Doctoral School, 1 external
+  - **meetings:** annual written report to committee; meeting of ≥2 members incl. minutes/report submitted to program
+  
+  </details>
+<details><summary><b>dissertation + defense</b></summary>
+  
+  - **dissertation evaluation:** 2 reviewers, at least one from outside BOKU; all must have expertise related to topic
+  - **defense committee:** 2 examiners plus chair
 
   </details>
-- <details><summary><b>documents + forms</b></summary>
+<details><summary><b>degree requirements</b></summary>
+  
+  - **dissertation agreement:** acceptance by program coordinator
+  - **courses:** [see list](phdcourses.md#boku--transitions-to-sustainability)
+  - **publications:** *nothing specified*
+  - **dissertation:** original monograph *or* cummulative dissertation incl ≥2 first-author publications plus "framework paper"; require 2 hardcopies
+  - **defense:** public presenation \(20-30 min\) and defense to examination committee
+
+  </details>
+<details><summary><b>documents + forms</b></summary>
   
   - [registration of doctoral project](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796764_T2S_Anmeldung_Projekt_Doktorat_2020_EN.docx)
   - [additional coursework](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796761-796769_Nachnominierung_2021_EN.docx)
@@ -97,6 +121,10 @@ title: PHD PROGRAMS
 
 ---
 ### MedUniWien • [medical informatics, biostatistics & complex systems]()
+
+🚧  under construction  🚧
+
+<!--
 - **CSH faculty:** Rudi Hanel • Peter Klimek • Stefan Thurner
 - **program director:** [Peter Klimek](https://www.complex-systems.meduniwien.ac.at/people/pklimek/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
@@ -106,35 +134,32 @@ title: PHD PROGRAMS
 - **thesis committee meetings:** 
 - **dissertation evaluation:** 
 - **defense committee:** 
-
+-->
 
 <br />
 
 ---
 ### TU Wien • [informatics](https://informatics.tuwien.ac.at/doctoral/)
-- **CSH faculty:** Allan Hanbury
-- **program director:** [Andreas Steininger](https://informatics.tuwien.ac.at/people/andreas-steininger)
-- **program admin:** [Clarissa Schmid](https://informatics.tuwien.ac.at/people/clarissa-schmid)
-- **dean of academic affairs:** [Hilda Tellioglu](https://informatics.tuwien.ac.at/people/hilda-tellioglu)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[18\] + dissertation \[162\]
 - **time to degree:** 4-6 semesters to complete course requirements
-- **research proposal:** ~10 pages with ≥10 references, includes timeline and workplan
-- **proficiency evaluation committee:** advisor + national expert \(AT uni\) + chair \(TU Wien Informatics but different section\) 
-- **proficiency evaluation:** 6-18 mo after enrollment
-- **thesis advisory committee:** same as proficiency evaluation committee
-- **thesis advisory meetings:** should occur annually
-- **progress reporting:** annual written reports to committee, 1-3 pages plus any publications
-- **dissertation evaluation:** 2 international expert reviewers; takes 10-14 wks for entire process
-- **defense committee:** proficiency evaluation committee plus dissertation reviewers
-- <details><summary><b>timeline</b></summary>
+<details><summary><b>people</b></summary>
+
+  - **CSH faculty:** Allan Hanbury • (more to come)
+  - **program director:** [Andreas Steininger](https://informatics.tuwien.ac.at/people/andreas-steininger)
+  - **program admin:** [Clarissa Schmid](https://informatics.tuwien.ac.at/people/clarissa-schmid)
+  - **dean of academic affairs:** [Hilda Tellioglu](https://informatics.tuwien.ac.at/people/hilda-tellioglu)
+  - **student organization:** [Fachschaft Doktorat](https://fsdr.at/)
+
+</details>
+<details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
   - YR1 • enroll
   - YR1 • coursework: fundamental courses only (optional)
-  - YR2 • coursework + thesis research
-  - YR2 • *6-18 mo after enrollment* • proficiency evaluation
+  - YR1/YR2 • *6-18 mo after enrollment* • proficiency evaluation
   - YR2 • *after successful proficiency evaluation* • dissertation agreement
+  - YR2 • coursework + thesis research
   - YR3 • coursework + thesis research
   - END • *≥4 mo before completion* • propose dissertation reviewers; submit v1 dissertation for review
   - END • *≥2 mo before completion* • revise dissertation as needed; submit v2 dissertation for final evaluation; schedule tentative date for defense
@@ -142,71 +167,101 @@ title: PHD PROGRAMS
   - END • *~1 wk before completion* • defense
   - END • degree complete
 
-  </details>
-- <details><summary><b>application and enrollment</b></summary>
+</details>
+<details><summary><b>admissions + enrollment</b></summary>
 
-  - process: agreement with advisor » apply » enroll
-  - <details><summary><b>application</b></summary>
+  - **steps:** confrimation from TUWien faculty advisor » application » enrollment
+  - <details><summary><b>admissions</b></summary>
 
-    - ***if you earned your Masters degree from TU Wien, the process is [different]()***
-    - required documents: [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
-    - process: submit your application documents » application documents reviewed by TU Wien » possibly recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
+    - ***if you earned your Masters degree from TUWien or another AT uni, the process is [different](https://www.tuwien.at/studium/zulassung/zulassung-mit-oesterreichischer-vorbildung/doktoratsstudium)***
+    - **prerequisites:** Masters degree in computer science or related discipline, or equivalent degree, or special permission
+    - **required documents:** [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
+    - **process:** submit your application documents to ___ » possible recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
   
     </details>
   - <details><summary><b>enrollment</b></summary>
   
-    - prerequisites:
-    - required documents: admissions letter • passport • residence permit \(if available\)
-    - process: application » (online registration)[] » in-person registration
+    - **required documents:** admissions letter • passport • residence permit \(if available\)
+    - **process:** application » [online registration](https://tiss.tuwien.ac.at/aufnahme/aufnahmeverfahren) » in-person registration
 
-    </details>
-- <details><summary><b>degree requirements</b></summary>
+</details>
+<details><summary><b>proficiency exam</b></summary>
   
-  - proficiency evaluation: thesis proposal and successful defense 
-  - courses: [see list](phdcourses.md#tu-wien-informatics)
-  - publications: no requirements; advisor sets expectations
-  - dissertation: cummulative dissertation is acceptable with permissions; in English; require 2 hardcopies
-  - defense: public presenation and defense of the disseration to a defense committee 
+  - **research proposal:** ~10 pages with ≥10 references, includes timeline and workplan
+  - **committee:** advisor + national expert \(AT uni\) + chair \(TU Wien Informatics but different section\) 
+  - **deadline:** 6-18 mo after enrollment
+  - **other:** the defense also includes review and approval of proposed coursework for the degree
 
-  </details>
-- <details><summary><b>documents & forms</b></summary>
+</details>
+<details><summary><b>thesis advisory committee</b></summary>
   
-  - [provisional supervision letter]()
+  - **committee:** same as proficiency evaluation committee
+  - **meetings:** should occur annually
+  - **progress reporting:** annual written reports to committee, 1-3 pages plus any publications
+ 
+</details>
+<details><summary><b>dissertation + defense</b></summary>
+  
+  - **dissertation evaluation:** 2 international expert reviewers; takes 10-14 wks for entire process
+  - **defense committee:** proficiency evaluation committee plus dissertation reviewers
+
+</details>
+<details><summary><b>degree requirements</b></summary>
+  
+  - **proficiency evaluation:** passing evaluation 
+  - **courses:** [see list](phdcourses.md#tu-wien-informatics)
+  - **publications:** no requirements; advisor sets expectations
+  - **dissertation:** cummulative dissertation is acceptable with permissions; in English; require 2 hardcopies
+  - **defense:** public presenation and defense of the disseration to a defense committee 
+
+</details>
+<details><summary><b>documents + forms</b></summary>
+  
+  - provisional supervision letter
   - [proficiency evaluation](https://informatics.tuwien.ac.at/study-services/forms/F-848.pdf)
   - [dissertation agreement](https://informatics.tuwien.ac.at/study-services/forms/F-815.pdf)
   - [nomination of dissertation reviewers](https://informatics.tuwien.ac.at/study-services/forms/F-876.pdf)
   - [permission to defend](https://informatics.tuwien.ac.at/study-services/forms/F-868.pdf)
 
-  </details> 
+</details> 
 <br />
 
 ---
 ### TU Wien • physics
-- **CSH faculty:** none
-- **program director:**
-- **dean of faculty of physics:** Joachim Burgdörfer
+
+🚧  under construction  🚧
+
+<!--
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[?\] + dissertation \[?\]
+- **time to degree:** ?
+<details><summary><b>people</b></summary>
+
+  - **CSH faculty:** none
+  - **program director:**
+  - **dean of faculty of physics:** Joachim Burgdörfer
+
+</details>
 
 *more info to come*
-
+-->
 <br />
 
 ---
 ### TU Graz • [computer science](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
-- **CSH faculty** Fariba Karimi • Jana Lasser
-- **program director:** [Daniel Gruss](https://www.iaik.tugraz.at/person/daniel-gruss/)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
-- **SSt credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
+- **ECTS credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
 - **time to degree:** 4 semesters to complete course requirements
-- **thesis proposal:**
-- **qualifying exam:**
-- **thesis advisory committee:** 
-- **thesis committee meetings:**
-- **dissertation evaluation:** 2-3\* reviewers, at least one from outside TU Graz; all must have habilitation or equivalent
-- **defense committee:** 3-5\* members; dean of studies in computer science or their apointee serves as chair; at least one member from outside TU Graz; all must have habilitation of equivalent
-- <details><summary><b>timeline</b></summary>
+<details><summary><b>people</b></summary>
   
+  - **CSH faculty:** Fariba Karimi • Jana Lasser
+  - **program director:** [Daniel Gruss](https://www.iaik.tugraz.at/person/daniel-gruss/)
+  - **program admin:** [Nina Zöchling](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=106266DC3B744225&pPersonenGruppe=3)
+  - **student representative:** [Alina Herderich](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C9D36D0F62CA4747&pPersonenGruppe=3)
+
+  </details>
+<details><summary><b>timeline</b></summary>
+
   - YR1 • develop thesis research proposal
   - YR1/YR2 • *\(end of YR1 or start YR2\)* enroll
   - YR2 • *\(6-9 months after enrollment\)* qualifying exam
@@ -220,25 +275,59 @@ title: PHD PROGRAMS
   - END • degree complete
 
   </details>
-- <details><summary><b>enrollment process</b></summary>
-  
-  - contact:
-  - prerequisites:
-  - required documents:
-  - process:
+<details><summary><b>admissions + enrollment</b></summary>
+
+  - **steps:** confirmation from TUGraz faculty advisor » pre-registration » admissions
+  - <details><summary><b>admissions</b></summary>
+
+    - **prerequisites:** masters degree in natural sciences or engineering, or equivalent degree, or with special consideration bachelors degree
+    - **required documents:** certificate of completion of prior degree • degree transcripts w/ ECTS, exams • cv • confirmation of supervision by TUGraz faculty 
+    - **process:** online [pre-registration]() » submit all required documents to [Registrar](mailto:studienservice@tugraz.ac.at) » ?
+      
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+
+    - **required documents:**
+    - **process:**
+    
+    </details>
 
   </details>
-- <details><summary><b>degree requirements</b></summary>
-  
-  - qualifying exam: before end YR1; public presentation and defense of the thesis proposal to a thesis advisory committee; should have a manuscript submitted and have presented at a seminar or conference
-  - courses: [see list](phdcourses.md#tu-graz--computer-science--informatics)
-  - publications: 3 first-author publications or conference proceedings; can be in any journal/discipline but with the goal top quartile (Q1) journals or high impact-factor journals; *exceptions are possible \- see \**
-  - dissertation: cummulative dissertation is acceptable with permission of the advisor; in English; require 2 hardcopies
-  - defense: public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
+<details><summary><b>qualifying exam</b></summary>
+
+  - **thesis proposal:** xxxxx
+  - **qualifying exam:** public presentation and defense of the thesis proposal to a thesis advisory committee
+  - **committee:** xxxxxxx
+  - **deadline:** approx. 6-9 months after enrolling
+  - **other:** should have a manuscript submitted and have presented at a seminar or conference
 
   </details>
-- <details><summary><b>documents + forms</b></summary>
+<details><summary><b>thesis advisory committee</b></summary>
+
+  - **committee:** expected to be same or similar to qualifying exam
+  - **meetings:** ≥1 per year
+  - **progress reports:** 
+
+  </details>
+<details><summary><b>dissertation + defense</b></summary>
+
+  - **dissertation evaluation:** 2-3\* reviewers, at least one from outside TU Graz; all must have habilitation or equivalent
+  - **defense committee:** 3-5\* members; dean of studies in computer science or their apointee serves as chair; at least one member from outside TU Graz; all must have habilitation of equivalent
+  - *\* 3 and 5 members are required if student has not met the publication requirement*
+
+  </details>
+<details><summary><b>degree requirements</b></summary>
   
+  - **qualifying exam:** passing evaluation
+  - **courses:** [see list](phdcourses.md#tu-graz--computer-science--informatics)
+  - **publications:** 3 first-author publications or conference proceedings; can be in any journal/discipline but with the goal top quartile (Q1) journals or high impact-factor journals; *exceptions are possible*
+  - **dissertation:** cummulative dissertation is acceptable with permission of the advisor; in English; require 2 hardcopies
+  - **defense:** public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
+
+  </details>
+<details><summary><b>documents + forms</b></summary>
+  
+  - [preliminary thesis supervision agreement](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Forms/Doctoral_programme_confirmation_of_supervision_sample_E.docx)
   - thesis proposal
   - annual report
   - [curriculum](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Information/Doctoral_Schools/Curriculum_Doctoral_Programme_Natural_Sciences_as_of_1.10.2020.pdf)
@@ -246,7 +335,6 @@ title: PHD PROGRAMS
  
   </details>
   
-*\* 3 and 5 members are required if student has not met the publication requirement*
 
 <br />
 
@@ -264,19 +352,17 @@ title: PHD PROGRAMS
 
 ---
 ### Wirtschafts Uni • [economic & social sciences](https://www.wu.ac.at/en/programs/doctoral-phd-programs/phd-program-in-economic-and-social-sciences/overview/)
-- **CSH faculty:** Axel Polleres • Mark Strembeck • Johannes Wachs
-- **program director:** [Rüdiger Frey](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[72\] + proposal \[6\] + defense \[6\]
 - **time to degree:** __ semesters to complete course requirements
-- **thesis advisory committee:** ≥3 professors with habilitation or equivalent; nominated by advisor and approved by program director
-- **research proposal:** written only? pages? evaluated by **thesis advisory committee** as "mit/ohne Erfolg"
-- **thesis committee meetings:** not required
-- **progress reports:** not required
-- **dissertation evaluation:** by **doctoral committee**; can occur before or after defense
-- **doctoral committee:** evaluates both dissertation and defense; 3 professors, ≥1 external to WU; nominated by department chair and approved by program director
+<details><summary><b>people</b></summary>
 
-- <details><summary><b>timeline</b></summary>
+  - **CSH faculty:** Axel Polleres • Mark Strembeck • Johannes Wachs
+  - **program director:** [Rüdiger Frey](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
+  - **program admin:**
+
+  </details>
+<details><summary><b>timeline</b></summary>
   
   - YR1 • develop thesis research proposal
   - YR1 • \(see below\) enroll
@@ -290,22 +376,51 @@ title: PHD PROGRAMS
   - END • degree complete
 
   </details>
-- <details><summary><b>enrollment process</b></summary>
+<details><summary><b>admissions + enrollment</b></summary>
+
+  - **steps:** 
+  - <details><summary><b>admissions</b></summary>
+
+    - **prerequisites:**
+    - **required documents:** cv + exposé (1-2 pg extended abstract)
+    - **process:**
   
-  - contact:
-  - prerequisites:
-  - required documents: cv + exposé (1-2 pg extended abstract)
-  - process:
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+  
+    - required documents: 
+    - process:
+
+    </details>
+  </details>
+<details><summary><b>thesis proposal</b></summary>
+
+  - proposal: written only? pages? evaluated as "mit/ohne Erfolg"
+  - committee: evaluated by thesis advisory committee (see next section)
+  - no requirement for exam?
 
   </details>
-- <details><summary><b>degree requirements</b></summary>
+<details><summary><b>thesis advisory committee</b></summary>
+
+  - **committee:** ≥3 professors with habilitation or equivalent; nominated by advisor and approved by program director
+  - **thesis committee meetings:** not required
+  - **progress reports:** not required
+  
+  </details>
+<details><summary><b>dissertation + defense</b></summary>
+
+  - **dissertation evaluation:** by **doctoral committee**; can occur before or after defense
+  - **doctoral committee:** evaluates both dissertation and defense; 3 professors, ≥1 external to WU; nominated by department chair and approved by program director
+
+  </details>
+<details><summary><b>degree requirements</b></summary>
 
   - things here
   - here
   - here
 
   </details>
-- <details><summary><b>documents + forms</b></summary>
+<details><summary><b>documents + forms</b></summary>
    
   - [curriculum](https://www.wu.ac.at/fileadmin/wu/d/i/statmath/Dateien/phd_en_curr_wiso_26.06.2019.pdf)
   - [Dissertationsvereinbarung](https://www.wu.ac.at/fileadmin/wu/h/programs/phd/Dissertationsvereinbarung.pdf)
