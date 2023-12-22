@@ -412,7 +412,7 @@ title: PHD PROGRAMS
 <details><summary><b>degree requirements</b></summary>
 
   - **thesis proposal:** passing review
-  - **courses:** [see list](phdcourses.md#wu--economics-social-science)
+  - **courses:** [see list](phdcourses.md#wirtschafts-uni--economics--social-sciences)
   - **publications:** not specified 
   - **dissertation:**
   - **defense:** 
