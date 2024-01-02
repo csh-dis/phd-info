@@ -6,7 +6,7 @@ title: PHD PROGRAMS
 📣 if you find errors and/or have additional information that can be included, please submit [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
 
 ---
-[**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien-informatics) | [**TUWien**Physics](phdprograms.md#tu-wien-physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics]() | [**UniWien**Maths]() | [**UniWien**Physics]()
+[**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien--informatics) | [**TUWien**Physics](phdprograms.md#tu-wien--physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu--economic--social-sciences) | [**UniWien**Maths]() | [**UniWien**Physics]()
 
 ---
 
@@ -31,6 +31,80 @@ title: PHD PROGRAMS
 
 
 ---
+### BOKU • [social ecology](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/doctoral-school-social-ecology-dsse)
+- **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
+- **ECTS credits:** coursework \[30\] + dissertation \[150\]
+- **time to degree:** 4 semesters to complete course requirements
+<details><summary><b>people</b></summary>
+  
+  - **CSH faculty:** none
+  - **program director:** [Helmut Haberl](https://boku.ac.at/en/personen/person/179B1532340EF82F)
+
+  </details> 
+<details><summary><b>timeline</b></summary>
+  
+  - YR1 • develop thesis research
+  - YR1/YR2 • enroll
+  - YR2 • *≤1 yr after enrolling* • register your thesis project
+  - YR2 • coursework + thesis research 
+  - YR3 • coursework + thesis research
+  - END • *≥2 mo prior to completion* • schedule tentative date for defense
+  - END • *≥2 mo prior to completion* • dissertation submitted to dean of studies; dissertation shared with reviewers 
+  - END • *~1 wk prior to completion:* • defense
+  - END • degree complete
+
+  </details>
+<details><summary><b>admissions + enrollment</b></summary>
+
+  - **steps:** preliminary agreement with advisor • [pre-register](https://boku.ac.at/en/boku-it/themen/teach-learn/studium-meldung-weitermeldung-abschluss/voranmeldung) • admissions • registration • enrollment
+  - <details><summary><b>admissions</b></summary>
+
+    - **prerequisites:** Masters degree in natural or social sciences or engineering, or an equivalent degree
+    - **required documents:** [application form - non-AT degree](https://boku.ac.at/fileadmin/data/H05000/H11100/Zulassung/Formulare_Zulassung/Application_form_Doctorat.doc) or [application form - AT degree](https://boku.ac.at/fileadmin/data/H05000/H11100/Zulassung/Formulare_Zulassung/Antrag_Doktorat_inlaendisches_Vorstudium.doc) • certificate of completion of Masters (e.g. diploma) • degree transcript w/ ECTS • cv • preliminary supervision confirmation
+    - **process:** if you do not already have an application from a PhD program, request admissions by sending required documents to [DocService](docservice@boku.ac.at) » recieve an application \(from DocService or from PhD program directly\) » send required documents plus application to [Study Services](studienservices@boku.ac.at) or as instructed
+    - **deadlines:** *for non-EU students* Sep 5 for winter term or Feb 5 for spring term • admissions process may take 12-15 wks
+    - **registration:** once admitted you will probably need: passport • certificate of admission • proof of health insurance • uni entrance requiremnt » all to Registration Office
+
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+    
+    - **required documents:** none
+    - **process:** enroll [online](https://online.boku.ac.at/BOKUonline/ee/ui/ca2/app/desktop/#/login) every semester • pay student union fee
+
+    </details>
+  </details>
+<details><summary><b>thesis advisory committee</b></summary>
+  
+  - **committee:** ≥3 members incl. advisor, 1 from BOKU Doctoral School, 1 external
+  - **meetings:** annual written report to committee; meeting of ≥2 members incl. minutes/report submitted to program
+  
+  </details>
+<details><summary><b>dissertation + defense</b></summary>
+  
+  - **dissertation evaluation:** 2 reviewers, at least one from outside BOKU; all must have expertise related to topic
+  - **defense committee:** 2 examiners plus chair
+
+  </details>
+<details><summary><b>degree requirements</b></summary>
+  
+  - **dissertation agreement:** acceptance by program coordinator
+  - **courses:** [see list](phdcourses.md)
+  - **publications:** *nothing specified*
+  - **dissertation:** original monograph *or* cummulative dissertation incl ≥2 first-author publications plus "framework paper"; require 2 hardcopies
+  - **defense:** public presenation \(20-30 min\) and defense to examination committee
+
+  </details>
+<details><summary><b>documents + forms</b></summary>
+  
+  - [registration of doctoral project](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796764_T2S_Anmeldung_Projekt_Doktorat_2020_EN.docx)
+  - [additional coursework](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Formulare/796761-796769_Nachnominierung_2021_EN.docx)
+  - [curriculum](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Curricula/796761-769_Curriculum_Doktorat_2021U_EN.pdf)
+  - [guidelines](https://boku.ac.at/fileadmin/data/H05000/H11100/_TEMP_/Studienangebot/3_Doktoratsstudien/Sonstiges/796761-769_Doktoratsrichtlinien_2021_EN.pdf)
+ 
+  </details>
+<br />
+
+
 ### BOKU • [transitions to sustainability](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/transitions-to-sustainability-t2s)
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
 - **ECTS credits:** coursework \[30\] + dissertation \[150\]
@@ -376,7 +450,7 @@ title: PHD PROGRAMS
   </details>
 <details><summary><b>admissions + enrollment</b></summary>
 
-  - **steps:** acceptance by [WU supervisor](https://www.wu.ac.at/en/programs/doctoral-phd-programs/doctoral-program-in-social-and-economic-sciences/overview/) » admissions **during** [**enrollment period**](https://www.wu.ac.at/en/programs/application-and-admission/next-steps/0/27/51/1/3/?cHash=9e9012b399bc38db3d02e49e676897f5) 
+  - **steps:** acceptance by [WU supervisor](https://www.wu.ac.at/en/programs/doctoral-phd-programs/doctoral-program-in-social-and-economic-sciences/overview/) » apply for admissions **during** [**enrollment period**](https://www.wu.ac.at/en/programs/application-and-admission/next-steps/0/27/51/1/3/?cHash=9e9012b399bc38db3d02e49e676897f5) » enroll
   - <details><summary><b>admissions</b></summary>
 
     - **prerequisites:** masters/diploma degree in a relevant field
@@ -387,9 +461,9 @@ title: PHD PROGRAMS
   </details>
 <details><summary><b>research proposal</b></summary>
 
-  - proposal: written only? pages? evaluated as "mit/ohne Erfolg"
-  - committee: ≥3 professors with habilitation or equivalent; nominated by advisor and approved by program director
-  - deadline: ≤1 year after start of studies
+  - **proposal:** written; evaluated as "mit/ohne Erfolg"
+  - **committee:** ≥3 professors with habilitation or equivalent; nominated by advisor and approved by program director
+  - **deadline:** ≤1 year after start of studies
 
   </details>
 <details><summary><b>thesis advisory committee</b></summary>
@@ -400,7 +474,7 @@ title: PHD PROGRAMS
 <details><summary><b>dissertation + defense</b></summary>
 
   - **dissertation evaluation:** by doctoral committee; can occur before or after defense
-  - **doctoral committee:** evaluates both dissertation and defense; 3 professors, ≥1 external to WU; nominated by department chair and approved by program director
+  - **doctoral committee:** evaluates both dissertation and defense; 3 professors, ≥1 external to WU; approved by program director
 
   </details>
 <details><summary><b>degree requirements</b></summary>
