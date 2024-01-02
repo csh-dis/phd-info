@@ -4,6 +4,41 @@ title: PHD COURSES
 
 
 ---
+### BOKU • social ecology
+#### REQUIRED COURSEWORK ECTS : 26   \[~ 10 courses\]
+
+<details><summary><b>Mandatory Courses [14 ECTS]</b></summary>
+
+ - Principles & challenges of research in socio-economics, natural resources & life sciences
+ - Doctoral Seminar I-IV
+ - Research workshop in social ecology I-II
+
+</details>
+
+<br />
+
+<details><summary><b> Elective Courses [≥6 ECTS]</b></summary>
+
+ - Advancing theories & methods in social ecology
+ - Biodiversity crisis - climate crisis
+ - Computer simulation in energy & resource economics
+ - Theory & principles of inter- & transdisciplinary research
+ - Systems analysis, strategic planning & policy modeling with system dynamics
+ - Current selected fields of social ecology
+ - Journal club
+ - Research seminar
+ - \...and more\...
+ 
+</details>
+
+<br />
+
+**Elective Courses : Scientific Courses \[6 ECTS from BOKU or other university\]**
+
+<br />
+<br />
+
+---
 ### BOKU • transitions to sustainability
 #### REQUIRED COURSEWORK ECTS : 30   \[~ 9 courses\]
 
