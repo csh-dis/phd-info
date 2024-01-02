@@ -355,9 +355,9 @@ title: PHD PROGRAMS
 - **time to degree:** 6 semesters to complete course requirements
 <details><summary><b>people</b></summary>
 
-  - **CSH faculty:** Axel Polleres • Mark Strembeck • Johannes Wachs
+  - **CSH faculty:** Axel Polleres • Mark Strembeck
   - **program director:** [Rüdiger Frey](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
-  - **program admin:**
+  - **program admin:** [Barbara Bauer • Daniela Eder • Antonia Lanner • Svetlana Kim](mailto:doctoraloffice@wu.ac.at)
 
   </details>
 <details><summary><b>timeline</b></summary>
@@ -376,19 +376,13 @@ title: PHD PROGRAMS
   </details>
 <details><summary><b>admissions + enrollment</b></summary>
 
-  - **steps:** 
+  - **steps:** acceptance by [WU supervisor](https://www.wu.ac.at/en/programs/doctoral-phd-programs/doctoral-program-in-social-and-economic-sciences/overview/) » admissions **during** [**enrollment period**](https://www.wu.ac.at/en/programs/application-and-admission/next-steps/0/27/51/1/3/?cHash=9e9012b399bc38db3d02e49e676897f5) 
   - <details><summary><b>admissions</b></summary>
 
     - **prerequisites:** masters/diploma degree in a relevant field
-    - **required documents:** cv + exposé (1-2 pg extended abstract)
-    - **process:**
+    - **required documents:** [application form](https://www.wu.ac.at/fileadmin/wu/h/prospective/admission/international/Ansuchen_Zul.DR_01.pdf) • certificate of completion of prior degree • degree transcripts w/ ECTS, exams • cv • exposé (1-2 pg extended abstract) • confirmation of supervision • German proficiency • passport
+    - **process:** send all documents as pdf to [doktorat.zulassung@wu.ac.at](mailto:doktorat.zulassung@wu.ac.at) » [pre-register](https://bach.wu.ac.at/bachapp/kdcs/33173/SUI?R=1704206153) » bring original documents to admissions office
   
-    </details>
-  - <details><summary><b>enrollment</b></summary>
-  
-    - required documents: 
-    - process:
-
     </details>
   </details>
 <details><summary><b>research proposal</b></summary>
@@ -420,6 +414,7 @@ title: PHD PROGRAMS
   </details>
 <details><summary><b>documents + forms</b></summary>
    
+  - [preliminary confirmation of the supervisor](https://www.wu.ac.at/fileadmin/wu/h/prospective/admission/international/betr_sowi.pdf)
   - [curriculum](https://www.wu.ac.at/fileadmin/wu/d/i/statmath/Dateien/phd_en_curr_wiso_26.06.2019.pdf)
   - [Dissertationsvereinbarung](https://www.wu.ac.at/fileadmin/wu/h/programs/phd/Dissertationsvereinbarung.pdf)
   - [Freigabe des Research Proposal](https://www.wu.ac.at/fileadmin/wu/h/programs/phd/wiso/Freigabe_RP_SoWi_2018.doc)
