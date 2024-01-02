@@ -6,7 +6,7 @@ title: PHD PROGRAMS
 📣 if you find errors and/or have additional information that can be included, please submit [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
 
 ---
-[**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien--informatics) | [**TUWien**Physics](phdprograms.md#tu-wien--physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu--economic--social-sciences) | [**UniWien**Maths]() | [**UniWien**Physics]()
+[**BOKU**socialEcology](phdprograms.md#boku--social-ecology) | [**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien--informatics) | [**TUWien**Physics](phdprograms.md#tu-wien--physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu--economic--social-sciences) | [**UniWien**Maths]() | [**UniWien**Physics]()
 
 ---
 
@@ -33,7 +33,7 @@ title: PHD PROGRAMS
 ---
 ### BOKU • [social ecology](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/doctoral-school-social-ecology-dsse)
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
-- **ECTS credits:** coursework \[30\] + dissertation \[150\]
+- **ECTS credits:** coursework \[26\] + dissertation \[154\]
 - **time to degree:** 4 semesters to complete course requirements
 <details><summary><b>people</b></summary>
   
@@ -88,7 +88,7 @@ title: PHD PROGRAMS
 <details><summary><b>degree requirements</b></summary>
   
   - **dissertation agreement:** acceptance by program coordinator
-  - **courses:** [see list](phdcourses.md)
+  - **courses:** [see list](phdcourses.md#boku--social-economics)
   - **publications:** *nothing specified*
   - **dissertation:** original monograph *or* cummulative dissertation incl ≥2 first-author publications plus "framework paper"; require 2 hardcopies
   - **defense:** public presenation \(20-30 min\) and defense to examination committee
