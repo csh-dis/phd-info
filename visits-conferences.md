@@ -151,7 +151,7 @@ title: VISITS+CONFERENCES
 *see also [**RESEARCH VISITS**](visits-conferences.md#research-visits) above*
 
 #### grants + travel awards
-<details><summary><b><a href="https://www.oefg.at/funding/international-communication/">ÖFG International Communication program</a></b></summary>
+<details><summary><b><a href="https://www.oefg.at/foerderungen/internationale-kommunikation/">ÖFG International Communication program</a></b></summary>
 
   - *who is funded:* junior researchers at an AT uni or research institute; <40 years
   - *what is funded:* research stays ≤3 mo • conference attendance/presentation • organizing symposia in AT • **not** schools or courses
