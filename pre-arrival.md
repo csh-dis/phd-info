@@ -1,1 +1,1 @@
-
+### PRIOR TO ARRIVAL AT CSH ###
