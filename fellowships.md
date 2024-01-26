@@ -90,6 +90,7 @@ title: FELLOWSHIPS
     
 </details>  
 <br />
+
 more to come...
 
 ---
@@ -187,11 +188,6 @@ more to come...
 
 </details>  
 <br />
-more to come...
-
----
-### POSTDOC » FACULTY TRANSITION FELLOWSHIPS
-
 <details><summary><b><a href="https://marie-sklodowska-curie-actions.ec.europa.eu/actions/postdoctoral-fellowships">EU Horizon Marie Skłodowska-Curie Action Postdoctoral Fellowship</a></b></summary>
 
   - *who is funded:* !EU researchers coming to EU **or** EU researchers going !EU; <8 years research experience since doctorate
@@ -203,6 +199,11 @@ more to come...
 
 </details>
 <br />
+more to come...
+
+---
+### POSTDOC » FACULTY TRANSITION FELLOWSHIPS
+
 <details><summary><b><a href="https://www.fwf.ac.at/en/funding/portfolio/careers/elise-richter">FWF Elise Richter</a></b></summary>
 
   - *who is funded:* non-male senior postdocs, ≥2 years postdoc experience 
