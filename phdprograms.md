@@ -179,7 +179,7 @@ title: PHD PROGRAMS
 <br />
 
 ----
-### CEU • [network science]()
+### CEU • [network science](https://networkdatascience.ceu.edu/phd-program-network-science)
 
 🚧  under construction  🚧
 
