@@ -113,7 +113,7 @@ more to come...
 
 <details><summary><b><a href="https://www.fwf.ac.at/foerdern/foerderportfolio/karrieren/esprit">FWF ESPRIT</a></b></summary>
 
-  - *who is funded:* postdocs; female postdocs; ≤ 5 years since PhD
+  - *who is funded:* postdocs; esp. female postdocs; ≤ 5 years since PhD
   - *what is funded:* 36 mo salary + research budget; research at AT institution
   - *funding level:* salary: 84.430 EUR per year; project: 45.000-75.000 EUR
   - *application requirements:* online form • cv • publication list • mentoring plan • research project proposal • collaboration agreements
