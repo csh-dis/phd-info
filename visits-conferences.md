@@ -97,13 +97,14 @@ title: VISITS+CONFERENCES
 #### general conferences
 - [NetSciX](https://netscix2024.netscisociety.org/) • 2024: 22-25 Jan in Venice IT
 - [APS](https://march.aps.org/) • 2024: 3-8 Mar in Minneapolis US
+- [Complenet](https://complenet.weebly.com/) • 2024: 23-26 Apr in Exeter UK
 - [NetSci](https://netsci2024.com/en) • 2024: 16-21 Jun in Quebec CA
-- [CCS](https://cssociety.org/events) • 2024: ?
+- [IC2S2](https://iscss.org/ic2s2/conference/) • 2024: 17-20 July in Philadelphia US
 - [JSM/AmStat](https://ww2.amstat.org/meetings/jsm/2024/index.cfm) • 2024: 3-8 Aug in Portland US
 - [Bernoulli-IMS Congress](https://www.bernoulli-ims-worldcongress2024.org/) • 2024: 12-16 Aug in Bochum DE
 - [COMPSTAT](http://www.compstat2024.org/) • 2024: 27-30 Aug in Giessen DE
-- [EUSocialNetworks](https://eusn2023.org/) • 2024: ?
-- [IC2S2](https://iscss.org/ic2s2/conference/) • 2024: ?
+- [CCS](https://cssociety.org/event/50d5726d-295a-4407-a21b-0db05ada8791) • 2024: 1-6 Sep in Exter UK
+- [EUSocialNetworks](https://www.insna.org/european-conference-of-social-networks-eusn) • 2024: ?
 <br />
 
 #### workshops
