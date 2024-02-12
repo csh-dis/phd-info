@@ -17,7 +17,7 @@ description: all things PhD
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-#  - phdprograms.md
+  - phdprograms.md
   - phdcourses.md
   - visits-conferences.md
   - fellowships.md
