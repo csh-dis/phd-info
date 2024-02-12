@@ -6,7 +6,7 @@ title: PHD PROGRAMS
 📣 if you find errors and/or have additional information that can be included, please submit [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
 
 ---
-[**BOKU**socialEcology](phdprograms.md#boku--social-ecology) | [**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien--informatics) | [**TUWien**Physics](phdprograms.md#tu-wien--physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu--economic--social-sciences) | [**UniWien**Maths]() | [**UniWien**Physics]()
+[**BOKU**socialEcology](phdprograms.html#boku--social-ecology) | [**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.html#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.html#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien--informatics) | [**TUWien**Physics](phdprograms.md#tu-wien--physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu--economic--social-sciences) | [**UniWien**Maths]() | [**UniWien**Physics]()
 
 ---
 
@@ -250,7 +250,7 @@ title: PHD PROGRAMS
     - ***if you earned your Masters degree from TUWien or another AT uni, the process is [different](https://www.tuwien.at/studium/zulassung/zulassung-mit-oesterreichischer-vorbildung/doktoratsstudium)***
     - **prerequisites:** Masters degree in computer science or related discipline, or equivalent degree, or special permission
     - **required documents:** [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
-    - **process:** submit your application documents to ___ » possible recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
+    - **process:** submit your application documents to admissions office » possible recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
   
     </details>
   - <details><summary><b>enrollment</b></summary>
@@ -291,7 +291,7 @@ title: PHD PROGRAMS
 </details>
 <details><summary><b>documents + forms</b></summary>
   
-  - provisional supervision letter
+  - [application for doctoral program](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf)
   - [proficiency evaluation](https://informatics.tuwien.ac.at/study-services/forms/F-848.pdf)
   - [dissertation agreement](https://informatics.tuwien.ac.at/study-services/forms/F-815.pdf)
   - [nomination of dissertation reviewers](https://informatics.tuwien.ac.at/study-services/forms/F-876.pdf)
@@ -356,7 +356,7 @@ title: PHD PROGRAMS
 
     - **prerequisites:** masters degree in natural sciences or engineering, or equivalent degree, or with special consideration bachelors degree
     - **required documents:** certificate of completion of prior degree • degree transcripts w/ ECTS, exams • cv • confirmation of supervision by TUGraz faculty 
-    - **process:** online [pre-registration]() » submit all required documents to [Registrar](mailto:studienservice@tugraz.ac.at) » ?
+    - **process:** online [pre-registration](https://www.tugraz.at/fileadmin/user_upload/tugrazInternal/Studium/Studieren_an_der_TU_Graz/Anmeldung_und_Zulassung/Guideline_StudentPreRegistration_EN.pdf) » submit all required documents to [Registrar](mailto:studienservice@tugraz.ac.at) » ?
       
     </details>
   - <details><summary><b>enrollment</b></summary>
@@ -403,7 +403,7 @@ title: PHD PROGRAMS
   
   - [preliminary thesis supervision agreement](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Forms/Doctoral_programme_confirmation_of_supervision_sample_E.docx)
   - [curriculum](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Information/Doctoral_Schools/Curriculum_Doctoral_Programme_Natural_Sciences_as_of_1.10.2020.pdf)
-  - [statutes *will be updated 2023*](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Information/Doctoral_Schools/Statutes_Doctoral_School_Computer_Science_English_1.10.2020.pdf)
+  - [statutes *will be updated 2024*](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Information/Doctoral_Schools/Statutes_Doctoral_School_Computer_Science_English_1.10.2020.pdf)
  
   </details>
   
@@ -513,8 +513,7 @@ title: PHD PROGRAMS
 
 ---
 ## Uni Wien • physics
-- **CSH faculty:** none
-- currently there is no supervisor available for CSH students: ***please* do not contact Prof. Dellago about the possibility of supervision**
+- **CSH faculty:** Stefan Thurner
   
 🚧  under construction  🚧
 
