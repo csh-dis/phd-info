@@ -2,15 +2,14 @@
 title: PHD PROGRAMS
 ---
 
-### 🚧  under construction  🚧
 📣 if you find errors and/or have additional information that can be included, please submit [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
 
 ---
-[**BOKU**socialEcology](phdprograms.md#boku--social-ecology) | [**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien--informatics) | [**TUWien**Physics](phdprograms.md#tu-wien--physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu--economic--social-sciences) | [**UniWien**Maths]() | [**UniWien**Physics]()
+[**BOKU**socialEcology](phdprograms.md#boku) | [**BOKU**sustainability](phdprograms.md#boku) | [**CEU**networks](phdprograms.md#ceu) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems) | [**MedUni**ComplexSystems](phdprogram.md#med-uni) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz) | [**TUWien**Informatics](phdprogram.md#tu-wien) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu) | [**UniWien**Maths](phdprograms.md#uni-wien) | [**UniWien**Physics](phdprograms.md#uni-wien)
 
 ---
 
-<details><summary><h3>DEFINITIONS</h3></summary>
+<details><summary><h2>DEFINITIONS</h2></summary>
   
   - **advisor / supervisor** : these terms may be used interchangeably to denote the faculty member who is directly guiding your thesis research and shares responsibility for your professional development as a researcher; at CSH, usually <b>advisor</b> is used
   - **mentor** : at CSH, this term is most often used to refer to your advisor; in other programs (e.g. TU Graz) the term denotes another person (i.e. not your advisor) whom you consult for professional development purposes or advice, for instance especially if your career interests lie outside of academia
@@ -31,7 +30,8 @@ title: PHD PROGRAMS
 
 
 ---
-### BOKU • [social ecology](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/doctoral-school-social-ecology-dsse)
+### BOKU
+## [social ecology](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/doctoral-school-social-ecology-dsse)
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
 - **ECTS credits:** coursework \[26\] + dissertation \[154\]
 - **time to degree:** 4 semesters to complete course requirements
@@ -105,7 +105,7 @@ title: PHD PROGRAMS
 <br />
 
 
-### BOKU • [transitions to sustainability](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/transitions-to-sustainability-t2s)
+## [transitions to sustainability](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/transitions-to-sustainability-t2s)
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
 - **ECTS credits:** coursework \[30\] + dissertation \[150\]
 - **time to degree:** 4 semesters to complete course requirements
@@ -179,14 +179,16 @@ title: PHD PROGRAMS
 <br />
 
 ----
-### CEU • [network science](https://networkdatascience.ceu.edu/phd-program-network-science)
+### CEU
+## [network science](https://networkdatascience.ceu.edu/phd-program-network-science)
 
 🚧  under construction  🚧
 
 <br />
 
 ---
-### Donau Uni Krems • [migration studies]()
+### Donau Uni Krems
+## [migration studies]()
 
 🚧  under construction  🚧
 
@@ -194,14 +196,15 @@ title: PHD PROGRAMS
 
 
 ---
-### MedUniWien • [medical informatics, biostatistics & complex systems]()
+### Med Uni
+## [medical informatics, biostatistics & complex systems]()
 
 🚧  under construction  🚧
 
-<!--
 - **CSH faculty:** Rudi Hanel • Peter Klimek • Stefan Thurner
 - **program director:** [Peter Klimek](https://www.complex-systems.meduniwien.ac.at/people/pklimek/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
+<!--
 - **SWS credits:** coursework \[ \] + dissertation \[ \]
 - **time to degree:** 4 semesters to complete course requirements
 - **thesis advisory committee:** 
@@ -213,7 +216,8 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### TU Wien • [informatics](https://informatics.tuwien.ac.at/doctoral/)
+### TU Wien
+## [informatics](https://informatics.tuwien.ac.at/doctoral/)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[18\] + dissertation \[162\]
 - **time to degree:** 4-6 semesters to complete course requirements
@@ -300,28 +304,9 @@ title: PHD PROGRAMS
 </details> 
 <br />
 
-### TU Wien • physics
-
-🚧  under construction  🚧
-
-<!--
-- **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
-- **ECTS credits:** coursework \[?\] + dissertation \[?\]
-- **time to degree:** ?
-<details><summary><b>people</b></summary>
-
-  - **CSH faculty:** none
-  - **program director:**
-  - **dean of faculty of physics:** Joachim Burgdörfer
-
-</details>
-
-*more info to come*
--->
-<br />
-
 ---
-### TU Graz • [computer science](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
+### TU Graz 
+## [computer science](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
 - **time to degree:** 4 semesters to complete course requirements
@@ -406,7 +391,6 @@ title: PHD PROGRAMS
  
   </details>
   
-
 <br />
 
 ---
@@ -422,7 +406,8 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### Wirtschafts Uni • [economic & social sciences](https://www.wu.ac.at/en/programs/doctoral-phd-programs/phd-program-in-economic-and-social-sciences/overview/)
+### WU
+## [economic & social sciences](https://www.wu.ac.at/en/programs/doctoral-phd-programs/phd-program-in-economic-and-social-sciences/overview/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[72\] + defense \[6\]
 - **time to degree:** 6 semesters to complete course requirements
@@ -503,14 +488,15 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### Uni Wien • mathematics
+### Uni Wien
+## mathematics
 - **CSH faculty:** none
 
 🚧  under construction  🚧
 
 <br />
 
-## Uni Wien • physics
+## physics
 - **CSH faculty:** Stefan Thurner
   
 🚧  under construction  🚧
@@ -518,3 +504,4 @@ title: PHD PROGRAMS
 <br />
 
 ---
+
