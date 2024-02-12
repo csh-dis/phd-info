@@ -6,7 +6,7 @@ title: PHD PROGRAMS
 📣 if you find errors and/or have additional information that can be included, please submit [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
 
 ---
-[**BOKU**socialEcology](phdprograms.html#boku--social-ecology) | [**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.html#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.html#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien--informatics) | [**TUWien**Physics](phdprograms.md#tu-wien--physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu--economic--social-sciences) | [**UniWien**Maths]() | [**UniWien**Physics]()
+[**BOKU**socialEcology](phdprograms.md#boku--social-ecology) | [**BOKU**sustainability](phdprograms.md#boku--transitions-to-sustainability) | [**CEU**networks](phdprograms.md#ceu--network-studies) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems--migration-studies) | [**MedUni**ComplexSystems](phdprogram.md#meduniwien--complex-systems) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz--computer-science) | [**TUWien**Informatics](phdprogram.md#tu-wien--informatics) | [**TUWien**Physics](phdprograms.md#tu-wien--physics) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu--economic--social-sciences) | [**UniWien**Maths]() | [**UniWien**Physics]()
 
 ---
 
@@ -300,7 +300,6 @@ title: PHD PROGRAMS
 </details> 
 <br />
 
----
 ### TU Wien • physics
 
 🚧  under construction  🚧
@@ -511,7 +510,6 @@ title: PHD PROGRAMS
 
 <br />
 
----
 ## Uni Wien • physics
 - **CSH faculty:** Stefan Thurner
   
