@@ -4,36 +4,60 @@ title: PRE-ARRIVAL
 
 ### 🚧  under construction  🚧
 
+### CONTRACT
 contract
-
 Aufnahmevereinbarung mit der Forschungseinrichtung
 
-residence permit as researcher = Niederlassungsbewilligung - Forscher"
-
-residence permit Blau-Weiß-Blau Karte =
-
-residence permit Rot-Weiß-Rot Karte =
-
-residence permit Rot-Weiß-Rot Karte Plus =
-
+### REGISTRATION
 registration of residence = Anmeldung eines Wohnsitz
 
-bank account = Konto
+### RESIDENCY
+**For EU/EEA citizens:**
 
-phone card = Handy Wertkarte
+**For non-EU/EEA citizens:**
+residence permit as researcher = Niederlassungsbewilligung - Forscher"
+residence permit Blau-Weiß-Blau Karte =
+residence permit Rot-Weiß-Rot Karte =
+residence permit Rot-Weiß-Rot Karte Plus =
 
-phone contract = Handy Vertrag
+### TRAVEL
+**To Vienna:**
 
-apartment contract
+**Within Vienna:**
 
-<details><summary><h4>finding a place to live</h4></summary>
+
+### BANK ACCOUNT
+
+
+### PHONE
+**Basics**
+- You can get a phone card (Wertkarte) with ; you do not need 
+- If you want a contract (Vertrag) that includes a phone and service, you will need an Austrian bank account
+
+<details><summary><h4>Providers</h4></summary>
+
+
+  </details>
+
+### ACCOMMODATIONS
+**Basics**
+- Open-ended contracts are "unbefristet" and can be terminated at any time.
+- Contracts with an end date are "befristet" and are expected to run for their full term.
+- Many landlords will require a deposit (*Kaution*) equivalent to three-months rent.
+- Wohnunggeminschaften \(WGs\) are a popular co-housing option
+- Vienna's districts 9, 7, 6, 4, and more central parts of 5 and 2 are popular with students.
+
+<details><summary><h4>Searching for a place</h4></summary>
   
-  **For everyone:**
+  *for everyone:*
+  
     - [Willhaben.at](https://www.willhaben.at/iad/immobilien)
     - [OeAD](https://www.oeadstudenthousing.at/en/)
     - [WG Gesucht](https://www.wg-gesucht.de/)
     - [Der Standard](https://immobilien.derstandard.at/)
-  **For students:**
+    
+  *for students:*
+  
     - [home4students](https://www.home4students.at/en/)
     - [STUWO Studentenheim](http://www.stuwo.at/studentenheime/)
     - [Viennabase homes for students](https://viennabase.at/)
@@ -49,10 +73,7 @@ apartment contract
 
   </details>
 
-travel to vienna
-
-public transportion
-
+### UNIVERSITY ENROLLMENT 
 university enrollment timeline
 student status
 
