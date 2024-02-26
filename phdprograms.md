@@ -483,8 +483,6 @@ title: PHD PROGRAMS
 
   </details>
 
-*coursework takes place in **German***
-
 <br />
 
 ---
