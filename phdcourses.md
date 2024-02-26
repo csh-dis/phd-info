@@ -452,7 +452,7 @@ required courses indicated with \*
 
 ---
 ### Uni Wien • physics
-#### REQUIRED COURSEWORK ECTS : 24 \[~ x courses\]
+#### REQUIRED COURSEWORK ECTS : 24 \[~ 10 courses\]
 
 <details><summary><b>Courses</b></summary>
 
@@ -460,6 +460,7 @@ required courses indicated with \*
  - From the [MSc curriculum](https://ufind.univie.ac.at/de/vvz_sub.html?path=302093)
 
  </details>
+
 
 *to be determined in agreement with the supervisor and approved by director of studies as part of the thesis agreement*
 
