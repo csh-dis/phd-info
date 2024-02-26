@@ -310,43 +310,7 @@ required courses indicated with \*
 <br />
 
 ---
-### TU Wien • physics
-#### REQUIRED COURSEWORK ECTS : 18
 
-<details><summary><b>Courses / Lectures [6-14 ECTS]</b></summary>
-
- more info to come
-
-</details>
-
-<br />
-
-<details><summary><b>Seminars [2-4 ECTS]</b></summary>
-
- more info to come
- 
-</details> 
-
-<br />
-
-<details><summary><b>Workshops [2-5 ECTS]</b></summary>
-
- more info to come
-
-</details>
-
-<br />
-
-<details><summary><b>Laboratories [0-6 ECTS]</b></summary>
-
- more info to come
-
-</details>
-
-<br />
-<br />
-
----
 ### TU Graz • computer science / informatics
 #### REQUIRED COURSEWORK SSt : 14 \[~ 8 courses\]
 
@@ -490,7 +454,14 @@ required courses indicated with \*
 ### Uni Wien • physics
 #### REQUIRED COURSEWORK ECTS : 24 \[~ x courses\]
 
-*more info to come*
+<details><summary><b>Courses</b></summary>
+
+ - From the [PhD curriculum](https://ufind.univie.ac.at/de/vvz_sub.html?path=302164)
+ - From the [MSc curriculum](https://ufind.univie.ac.at/de/vvz_sub.html?path=302093)
+
+ </details>
+
+*to be determined in agreement with the supervisor and approved by director of studies as part of the thesis agreement*
 
 <br />
 
