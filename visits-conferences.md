@@ -97,6 +97,7 @@ title: VISITS+CONFERENCES
 #### general conferences
 - [NetSciX](https://netscix2024.netscisociety.org/) • 2024: 22-25 Jan in Venice IT
 - [APS](https://march.aps.org/) • 2024: 3-8 Mar in Minneapolis US
+- [DPG](https://www.dpg-physik.de/aktivitaeten-und-programme/tagungen/fruehjahrstagungen) • 2024: 17-22 Mar in Berlin DE
 - [Complenet](https://complenet.weebly.com/) • 2024: 23-26 Apr in Exeter UK
 - [NetSci](https://netsci2024.com/en) • 2024: 16-21 Jun in Quebec CA
 - [IC2S2](https://iscss.org/ic2s2/conference/) • 2024: 17-20 July in Philadelphia US
@@ -110,7 +111,6 @@ title: VISITS+CONFERENCES
 #### workshops
 - [MPI-PKS Information Processing, Noise, and Adaptation in Living Systems](https://www.pks.mpg.de/signal24) • 2024: 15-19 Apr in Dresden DE
 - [ICTP Workshop on Limits to Collective Agency](https://indico.ictp.it/event/10475) • 2024: 6-10 May in Trieste IT
-- [Complex Networks: Theory, Methods, Applications](https://ntmg.lakecomoschool.org/) • 2024: ? in Lake Cuomo IT
 - [Workshop: Sparse Inference on Complex Networks](https://www.ci.inf.usi.ch/workshop-sparse-inference-on-complex-networks/) • 2024: ? in Lugano CH
 - [Workshop on Sustainability of Network Analysis Software](https://igraph.org/workshop.html) • 2024: ?
 - [SFI Graduate Workshop in Computational Social Sciences](https://santafe.edu/gwcss) • 2024: 30 Jun-12 Jul in Santa Fe US
@@ -121,7 +121,10 @@ title: VISITS+CONFERENCES
 - [ICTP Spring College on the Physics of Complex Systems](https://indico.ictp.it/event/10459) • 2024: 19 Feb-15 Mar in Trieste IT
 - [CSH Winter School • Societal Challenges for a Green Transition](https://www.csh.ac.at/event/csh-winter-school-on-societal-challenges-for-green-transition/) • 2024: 8-13 Apr in Obergurgl AT
 - [Research School on Graph Structure and Complex Network Analysis](https://www.cimpa.info/en/node/7225) • 2024: ?
+- [Computational Social Science: Advances, Challenges & Opportunities](https://css.lakecomoschool.org/) • 2024: 13-17 May in Lake Cuomo IT
+- [Complex Networks: Theory, Methods, Applications](https://ntmg.lakecomoschool.org/) • 2024: 27-31 May in Lake Cuomo IT
 - [SFI Complex Systems Summer School](https://santafe.edu/csss) • 2024: 9 Jun-5 Jul in Santa Fe US
+- [Oxford Summer School in Economic Networks](https://www.maths.ox.ac.uk/events/summer-schools/economic-networks) • 2024: 24-28 Jun in Oxford UK
 - [Computational Modeling of Cognition in a Social Context](https://sites.uci.edu/cmmc/) • 2024: 3-17 Aug in Hinsterstoder AT
 - [Meditteranean School of Complex Networks](https://mediterraneanschoolcomplex.net/) • 2024: ?
 - [Lipari School on Computational Complex and Social Systems](https://complex23.liparischool.it/) • 2024: ? in Lipari IT
