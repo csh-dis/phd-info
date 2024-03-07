@@ -8,6 +8,16 @@ title: VISITS+CONFERENCES
 
 #### visiting researcher programs
 
+<details><summary><b>US <a href="https://www.accelnet-multinet.org/education/international-exchange-program-opens-call-for-applicants">AccelNet MultiNet International Exchange Program</a></b></summary>
+
+  - who is funded: *advanced graduate students, postdocs, new faculty*
+  - what is funded: *2-week to 1-semester research stay at US lab*
+  - funding level: *travel and cost of living stipend*
+  - application requirements: *application form w/ brief research description*
+  - deadline: *preliminary application due March 15 for priority review*
+  - themes: *networks (not restricted to multi-level/layer/scale networks but there is a preference)*
+
+</details>
 <details><summary><b>DE <a href="https://www.einsteinforum.de/about/fellowship/?lang=en">Einstein Fellowship</a></b></summary>
 
   - who is funded: *< 35 years old, uni degree in humanities or social or natural sciences*
