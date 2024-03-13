@@ -177,6 +177,20 @@ title: VISITS+CONFERENCES
 </details>
 <br />
 
+#### CSH sources
+<details><summary><b>CSH PhD student travel budget</a></b></summary>
+
+  - *who is funded:* all doctoral students at CSH
+  - *what is funded:* conference travel when presenting a poster or talk; participation in advanced training programs \(e.g. summer schools\); other scientific visits/programs that are essential to your research
+  - *funding level:* max. 3000 EUR per year
+  - *requirements:* justification/purpose of research visit or conference abstract • acceptance by host institution or conference • advisor's approval
+  - *deadline:* submit request to CSH admin at least 1 mo before travel; costs are reimbursed after completion of travel
+  - *themes:* open
+  - *note:* you must provide **receipts** for all costs to be reiumbursed
+
+</details>
+<br />
+
 #### university sources
 <details><summary><b><a href="https://www.tuwien.at/studium/international/studieren-im-ausland/mobilitaetsprogramme/konferenzteilnahmen-von-dissertant-innen">TUWien conference grants</a></b></summary>
 
@@ -241,8 +255,9 @@ You ***might*** need to request a leave of absence from your university in the c
 
 ---
 ## CONSIDERATIONS
-### visas & residency requirements
+### visas & residency requirements in AT
 If you require a residency permit to stay/study/work in AT, you may need to consult with the MA 35 before pursuing research opportunities outside of those associated with your residency permit (for instance, as described in the "Aufnahmevereinbarung" from CSH).
+### visas for the US
 
 ###
 
