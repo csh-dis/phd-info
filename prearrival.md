@@ -21,6 +21,7 @@ title: PRE-ARRIVAL
   - *if you wish to have your academic degree included in your name* you will need your degree
 - Once you are registered, you must de-register when you are leaving Austria permanently.
 
+
 ### REGISTRATION & RESIDENCY
 **For EU/EEA/CH citizens:**
 <details><summary>registration certificate = <a href=https://www.oesterreich.gv.at/en/themen/menschen_aus_anderen_staaten/aufenthalt/4/2/Seite.120810.html> Anmeldebescheinigung</a></summary>
@@ -34,6 +35,7 @@ title: PRE-ARRIVAL
   - fee: EUR 15
 
   </details>
+
 
 **For non-EU/EEA citizens:**
 <details><summary>residence permit as researcher = <a href=https://www.oesterreich.gv.at/themen/menschen_aus_anderen_staaten/aufenthalt/3/2/Seite.120312.html> Niederlassungsbewilligung - Forscher</a></summary>
@@ -73,6 +75,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
 -->
 
   </details>
+<br />
 <details><summary><b>Within Vienna</b></summary>
 
   - Wiener Linien operates public transportation throughout the city
@@ -81,12 +84,14 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - Prior to enrollment, the 31 Days VIENNA ticket is probably the best value if you will be using public transportation for more than 10 round-trips per month
 
   </details>
+<br />
 <details><summary><b>Around Austria</b></summary>
 
   - If you will need to commute to Graz on a regular basis, it will likely be most economical to purchase a OeBB [discount card](https://www.oebb.at/de/tickets-kundenkarten/kundenkarten/vorteilscard), such as the Vorteilscard Jugend \(under 26 years\) or Vorteilscard 66
 <!--  - Students are eligible for reimbursement of the cost of the rail pass each year they are enrolled at TU Graz for doctoral studies.-->
   
   </details>
+<br />
 
 ### BANK ACCOUNT
 <details><summary><b>Good to know</b></summary>
@@ -98,6 +103,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - Even if you have an EU bank account with IBAN, there may be reasons why having an AT-based account is helpful – for instance, for particular phone or internet contracts 
 
   </details>
+<br />
   
 ### SHOPPING
 <details><summary><b>Good to know</b></summary>
@@ -110,6 +116,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - Common drug stores \(personal care & household stuff\) are dm, BIPA
 
   </details>
+<br />
 
 ### HEALTHCARE
 🚧  under construction  🚧
@@ -121,6 +128,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - Not all doctors will accept the public insurance plan. Check for "alle Krankenkassen" \("all health insurers"\) or Österreichischen Gesundheitskasse \(ÖGK\).
 
   </details>
+<br />
 
 ### PHONE
 🚧  under construction  🚧
@@ -131,6 +139,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - Major providers are Drei, Magenta \(T-Mobile\), and A1
 
   </details>
+<br />
 
 ### ACCOMMODATIONS
 <details><summary><b>Good to know</b></summary>
@@ -142,6 +151,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - Vienna's districts 9, 7, 6, 4, and more central parts of 5 and 2 are popular with students.
 
   </details>
+<br />
 
 #### Finding a place
 *for everyone:*
