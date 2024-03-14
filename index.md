@@ -12,6 +12,9 @@
 
 <br />
 
+### [PRE-ARRIVAL INFORMATION](prearrival.html)
+- registration, residency, documents to bring, living in Vienna, and more
+
 ### [PHD PROGRAMS](phdprograms.html)  🚧  under construction  🚧
 - enrollment & degree requirements of selected PhD/doctoral programs
 
@@ -25,4 +28,4 @@
 -  paid programs and funding opportunities for travel and short-term stays
 
 ### [TALKS + VISITORS](talks-visitors.html)
-- guidelines for giving a talk or hosting a talk
+- guidelines for giving a talk or hosting a talk at CSH
