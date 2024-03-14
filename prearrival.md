@@ -141,18 +141,15 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - Wohnunggeminschaften \(WGs\) are a popular co-housing option
   - Vienna's districts 9, 7, 6, 4, and more central parts of 5 and 2 are popular with students.
 
-  </detials>
-
+  </details>
 
 #### Finding a place
-
 *for everyone:*
   - [Willhaben.at](https://www.willhaben.at/iad/immobilien)
   - [OeAD](https://www.oeadstudenthousing.at/en/)
   - [Mein Wien Apartment](https://www.mein-wien-apartment.at/en/Apartment-in-Vienna)
   - [WG Gesucht](https://www.wg-gesucht.de/)
   - [Der Standard](https://immobilien.derstandard.at/) 
-
 *for students:*
   - [home4students](https://www.home4students.at/en/)
   - [STUWO Studentenheim](http://www.stuwo.at/studentenheime/)
