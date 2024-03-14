@@ -2,7 +2,7 @@
 title: TALKS+VISITORS
 ---
 
-### [CURRENT SCHEDULE](https://www.csh.ac.at/calendar/category/event/)
+### [CURRENT SCHEDULE](https://csh.ac.at/events-news/events/)
 
 ### GENERAL SCHEDULE + FORMATS
 #### Fridays, 15.00-16.00 Uhr in the Salon 
