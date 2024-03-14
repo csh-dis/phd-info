@@ -150,6 +150,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - [Mein Wien Apartment](https://www.mein-wien-apartment.at/en/Apartment-in-Vienna)
   - [WG Gesucht](https://www.wg-gesucht.de/)
   - [Der Standard](https://immobilien.derstandard.at/) 
+
 *for students:*
   - [home4students](https://www.home4students.at/en/)
   - [STUWO Studentenheim](http://www.stuwo.at/studentenheime/)
