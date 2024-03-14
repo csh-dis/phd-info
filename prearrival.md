@@ -64,6 +64,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
 - Movies, music & theater : EUR 10-50 per show
 
 ### TRAVEL
+🚧  under construction  🚧
 <details><summary><b>Arriving to Vienna</b></summary>
   
   - CSH is not able to offer a fixed relocation allowance.
@@ -142,15 +143,17 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
 
   </detials>
 
-<details><summary><b>Finding a place</b></summary>
-  
-  *for everyone:*
+
+#### Finding a place
+
+*for everyone:*
   - [Willhaben.at](https://www.willhaben.at/iad/immobilien)
   - [OeAD](https://www.oeadstudenthousing.at/en/)
   - [Mein Wien Apartment](https://www.mein-wien-apartment.at/en/Apartment-in-Vienna)
   - [WG Gesucht](https://www.wg-gesucht.de/)
-  - [Der Standard](https://immobilien.derstandard.at/)    
-  *for students:*
+  - [Der Standard](https://immobilien.derstandard.at/) 
+
+*for students:*
   - [home4students](https://www.home4students.at/en/)
   - [STUWO Studentenheim](http://www.stuwo.at/studentenheime/)
   - [Viennabase homes for students](https://viennabase.at/)
@@ -164,7 +167,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - [BOKUheim](http://www.bokuheim.at/)
   - [Apartmenthaus vetmed](http://www.vetheim.at/)
 
-  </details>
+ 
 
 <!--
 ### UNIVERSITY ENROLLMENT 
