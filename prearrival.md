@@ -2,20 +2,18 @@
 title: PRE-ARRIVAL
 ---
 
-### 🚧  under construction  🚧
-
 ### CONTRACT
 - Doctoral students will recieve an employment contract for a PhD research position at the Austrian funding agency FWF standard of 30 hours per week and EUR 34500 per year before tax and other withholdings. Students will recieve health insurance and social benefits as well. You can estimate your income [here](https://bruttonetto.arbeiterkammer.at/).
-- The initial contract is for 1 year, but students will have a commitment of 2.5 - 3 years in the formal offer letter, which should be sufficient for e.g. visa or residency purposes. The contract will either be issued by CSH or by one of our partner universities.
+- The initial contract is for 1 year, but students will usually have a commitment of 3 years in the formal offer letter, which should be sufficient for e.g. visa or residency purposes. The contract will either be issued by CSH or by one of our partner universities.
 <!--
-- Students are employed as researchers – not as students – at CSH, with the expectation that they will use the research performed at CSH as their thesis research for the doctoral degree. The 30-hour per week contract reflects the average time throughout the duration of the contract that will be spent on the research project defined in the contract and in consultation with their advisor. Other time spent on research or academics is considered part of academic training and education.
+- Students are employed as researchers at CSH, with the expectation that they will use the research performed at CSH as their thesis research for the doctoral degree. The 30-hour per week contract reflects the average time throughout the duration of the contract that will be spent on the research project that is defined in the contract and/or will be defined in consultation with their advisor. Other time spent on research or academic requirements is considered part of academic training and education.
 -->
 - Students who must apply for a residency permit \("Aufenthaltstitel"\), i.e. those from outside the EU/EEA/CH, will recieve a hosting agreement with research appointment \("Aufnahmevereinbarung mit der Forschungseinrichtung"\) from CSH as a supplemental document to the standard contract. See RESIDENCY below.
 
 ### ANMELDUNG EINES WOHNSITZ
 
 - All people settling in Austria must [register their residency](https://www.wien.gv.at/english/living-working/registration/) within 3 days of moving in. The process must be completed each time you change your residency.
-- The [Meldezettel form](https://www.wien.gv.at/verwaltung/meldeservice/pdf/meldezettel.pdf) must be delivered personally to one of the [Meldeservice office for your district](https://www.wien.gv.at/verwaltung/meldeservice/stellen.html). You can make an appointment online. **Only Austrian permanent residents** may change their residency online through ID-Austria.
+- The [Meldezettel form](https://www.wien.gv.at/verwaltung/meldeservice/pdf/meldezettel.pdf) must be delivered personally to one of the [Meldeservice office for your district](https://www.wien.gv.at/verwaltung/meldeservice/stellen.html). You can make an appointment online. You can change your residency online through ID-Austria, which requires registration in person at the local authority.
 - You may also need:
   - birth certificate
   - passport
@@ -66,13 +64,15 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
 - Movies, music & theater : EUR 10-50 per show
 
 ### TRAVEL
-<details><summary><h4>Arriving to Vienna</h4></summary>
+<details><summary><b>Arriving to Vienna</b></summary>
   
   - CSH is not able to offer a fixed relocation allowance.
+<!--
   - Students *may* be eligible for reimbursement of reasonable travel to Vienna in order to take up the position at CSH. Please note, however, that reimbursement is not guaranteed and cannot always be granted. Travel reimbursement should ideally be discussed as part of the contract negotiations, prior to travel.
+-->
 
   </details>
-<details><summary><h4>Within Vienna</h4></summary>
+<details><summary><b>Within Vienna</b></summary>
 
   - Wiener Linien operates public transportation throughout the city
   - Download the app **WienMobil** to purchase tickets \(Paypal or credit card\) and plan routes
@@ -80,7 +80,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - Prior to enrollment, the 31 Days VIENNA ticket is probably the best value if you will be using public transportation for more than 10 round-trips per month
 
   </details>
-<details><summary><h4>Around Austria</h4></summary>
+<details><summary><b>Around Austria</b></summary>
 
   - If you will need to commute to Graz on a regular basis, it will likely be most economical to purchase a OeBB [discount card](https://www.oebb.at/de/tickets-kundenkarten/kundenkarten/vorteilscard), such as the Vorteilscard Jugend \(under 26 years\) or Vorteilscard 66
 <!--  - Students are eligible for reimbursement of the cost of the rail pass each year they are enrolled at TU Graz for doctoral studies.-->
@@ -88,36 +88,42 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   </details>
 
 ### BANK ACCOUNT
-<details><summary><h4>Good to know</h4></summary>
+<details><summary><b>Good to know</b></summary>
   
-  - You will need to have proof of your registration (Anmeldung eines Wohnsitz) as well as an employment contract.
+  - You will need:
+    - proof of your registration \(*Anmeldung eines Wohnsitz*\)
+    - an employment contract
+    - your passport
   - Even if you have an EU bank account with IBAN, there may be reasons why having an AT-based account is helpful – for instance, for particular phone or internet contracts 
 
   </details>
   
 ### SHOPPING
-<details><summary><h4>Good to know</h4></summary>
+<details><summary><b>Good to know</b></summary>
   
   - Shops close earlier than what you might be used to, especially on Saturdays and especially *Apotheke*
   - No shops are open on Sundays except for grocery shops at train stations and the airport
   - There are after-hours *Apotheke*; go to the closest one and look for the *Nachtapotheke* or *Notdienst* 
-  - Common grocery shops are BILLA, Spar, ALDI, Netto, Attsan
-  - Common drug stores \(personal care & household stuff\) are dm, BIPA
   - You will need to visit an *Apotheke* for all medicines, including aspirin and similar
+  - Common grocery shops are BILLA, Spar, ALDI, Attsan
+  - Common drug stores \(personal care & household stuff\) are dm, BIPA
 
   </details>
 
 ### HEALTHCARE
-<details><summary><h4>Good to know</h4></summary>
+🚧  under construction  🚧
+<details><summary><b>Good to know</b></summary>
   
-  - All healthcare is managed through your [e-card](https://www.chipkarte.at/cdscontent/?contentid=10007.678532&portal=ecardportal), which you will recieve by post some months after joining CSH. The e-card is a physical card that you should take to doctor appointments and pharmacy visits. If you forget your card – and before it arrives – you can give the doctor your social security number, which is a 4-digit number followed by your birthdate in DDMMYY format.
+  - All healthcare is managed through your [e-card](https://www.chipkarte.at/cdscontent/?contentid=10007.678532&portal=ecardportal), for which you will need to register in person at a local authority. The e-card is sent by post some months after registering.
+  - The e-card is a physical card that you should take to doctor appointments and pharmacy visits. If you forget your card – and before it arrives – you can give the doctor your social security number, which is a 4-digit number followed by your birthdate in DDMMYY format.
   - To a large extent, you will be able to decide on the doctors you visit and where you go for care. A centralized system **will not** make decisions or appointments for you. For some services, however, you may need the referral of a general practitioner, so identify one soon.
   - Not all doctors will accept the public insurance plan. Check for "alle Krankenkassen" \("all health insurers"\) or Österreichischen Gesundheitskasse \(ÖGK\).
 
   </details>
 
 ### PHONE
-<details><summary><h4>Good to know</h4></summary>
+🚧  under construction  🚧
+<details><summary><b>Good to know</b></summary>
 
   - You can get a phone card \(*Wertkarte*\) with an ID and a way to pay; you should not need  proof of residency in AT nor an AT bank account.
   - If you want a contract \(*Vertrag*\) that includes a phone and service, you will need an Austrian bank account.
@@ -126,9 +132,9 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   </details>
 
 ### ACCOMMODATIONS
-<details><summary><h4>Good to know</h4></summary>
+<details><summary><b>Good to know</b></summary>
 
-  - Open-ended contracts are "unbefristet" and can be terminated at any time.
+  - Open-ended contracts are "unbefristet" and can be terminated by the renter at any time, though many will have a minimum rental period.
   - Contracts with an end date are "befristet" and are expected to run for their full term.
   - Many landlords will require a deposit (*Kaution*) equivalent to three-months rent.
   - Wohnunggeminschaften \(WGs\) are a popular co-housing option
@@ -136,7 +142,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
 
   </detials>
 
-<details><summary><h4>Finding a place</h4></summary>
+<details><summary><b>Finding a place</b></summary>
   
   *for everyone:*
   - [Willhaben.at](https://www.willhaben.at/iad/immobilien)
@@ -164,4 +170,5 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
 ### UNIVERSITY ENROLLMENT 
 university enrollment timeline
 student status
+documents
 -->
