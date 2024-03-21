@@ -115,6 +115,7 @@ title: VISITS+CONFERENCES
 - [Bernoulli-IMS Congress](https://www.bernoulli-ims-worldcongress2024.org/) • 2024: 12-16 Aug in Bochum DE
 - [COMPSTAT](http://www.compstat2024.org/) • 2024: 27-30 Aug in Giessen DE
 - [CCS](https://cssociety.org/event/50d5726d-295a-4407-a21b-0db05ada8791) • 2024: 1-6 Sep in Exter UK
+- [ASONAM](https://asonam.cpsc.ucalgary.ca/2024/) • 2024: 2-5 Sep in Calabria IT
 - [EUSocialNetworks](https://www.insna.org/european-conference-of-social-networks-eusn) • 2024: ?
 <br />
 
