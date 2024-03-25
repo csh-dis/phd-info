@@ -244,14 +244,14 @@ You will need your advisor's approval – and in many cases, their financial sup
 Depending on the funding source of your salary, there may be specific considerations for longer-term research and training activities while you are employed on a particular project. See below.
 
 ### CSH approval
-If you are traveling to take part in a research collaboration, or to attend a scientific conference, this is considered a "business trip" and is generally not subject to any limitations on length. Nonetheless, please notify the CSH Grants Executive Officer as early as possible 
+If you are traveling to take part in a research collaboration, or to attend a scientific conference, this is considered a "business trip" and is generally not subject to any limitations on length. Submit your request for a "business trip" through the timekeeping system. 
 
-All PhD students are eligible for paid leave to pursue research training programs, such as summer schoolsDepending on the funding source for your salary, there may be specific considerations for longer-term research and training activities while you are employed on a particular project. Check with the CSH Grant Executive Officer \(if you are paid by your advisor\) or with the CSH graduate program \(if you are paid by the program\).
+All PhD students are eligible for paid leave to pursue research training programs, such as schools and workshops. Programs ≤ 2 weeks are generally permissable without any specific considerations. Depending on the funding source for your salary, there may be specific considerations for research training activities ≥ 2 weeks. Please check with the CSH Grant Executive Officer as soon as possible to discuss any research training programs ≥ 2 weeks in length.
 
-If you would like to apply for the the ÖAW International Communication program, you will not apply as an individutal but instead CSH will submit an application on your behalf. Please contact the CSH Grant Executive Officer as early as possible to discuss your application.
+If you would like to apply for the the ÖAW International Communication program, you will not apply as an individutal but instead CSH will submit an application on your behalf. Please contact the CSH Grant Executive Officer to discuss your application.
 
 ### university approval
-If you want to request a leave of absence from your university in the case of research visits or training programs that last ≥4 weeks, please consult the policies governing leave at your university. These policies are university-wide and independent of the particular program of study.
+If you want to request a leave of absence from your university in the case of research visits or training programs that last ≥ 4 weeks, please consult the policies governing leave at your university. These policies are university-wide and independent of the particular program of study.
 - [TUWien](https://www.tuwien.at/studium/studieren-an-der-tuw/beurlaubung)
 - [UniWien](https://doktorat.univie.ac.at/en/doctoralphd-programmes/leave-of-absence/)
 *more information coming soon*
@@ -260,7 +260,13 @@ If you want to request a leave of absence from your university in the case of re
 ## CONSIDERATIONS
 ### visas & residency requirements in AT
 If you require a residency permit to stay/study/work in AT, you may need to consult with the MA 35 before pursuing research opportunities outside of those associated with your residency permit (for instance, as described in the "Aufnahmevereinbarung" from CSH).
+
 ### visas for the US
+If you are traveling to the US for a school, conference, workshop, or collaborative research visit, and if your visit is < 6 months, and if you will **not** be paid by your host in the US, you will generally be able to travel on a [B-1 non-residency temporary business visa](https://www.uscis.gov/working-in-the-united-states/temporary-visitors-for-business/b-1-temporary-business-visitor). For your B-1 interview, you may need documentation of the purpose of your visit, travel arrangements \(esp. a return flight\), and permanent place of residence outside the US.
+
+The waiting times to obtain an interview for a B-1 visa can be quite long. If you expect to need to B-1 visa, investigate [available appointment times](https://www.ustraveldocs.com/at/index.html) as soon as possible – also before you have applied or have been accepted into a program.
+
+If you are a citizen of certain countries, you may be eligible to enter the US on the [visa waiver program](https://esta.cbp.dhs.gov/).
 
 ###
 
