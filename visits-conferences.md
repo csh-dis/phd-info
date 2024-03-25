@@ -241,15 +241,17 @@ title: VISITS+CONFERENCES
 ### advisor approval
 You will need your advisor's approval – and in many cases, their financial support – to pursue a research visit or conference. Discuss with your advisor before applying to any program. 
 
-Depending on the funding source of your salary, it might not be possible to participate in certain longer-term research and training activities during your employment on a particular project. See below.
+Depending on the funding source of your salary, there may be specific considerations for longer-term research and training activities while you are employed on a particular project. See below.
 
 ### CSH approval
-Depending on the funding source for your salary, it might not be possible to participate in certain longer-term research and training activities during your employment on a particular project is ongoing. Check with the CSH Grant Executive Officer \(if you are paid by your advisor\) or with the CSH graduate program \(if you are paid by the program\).
+If you are traveling to take part in a research collaboration, or to attend a scientific conference, this is considered a "business trip" and is generally not subject to any limitations on length. Nonetheless, please notify the CSH Grants Executive Officer as early as possible 
+
+All PhD students are eligible for paid leave to pursue research training programs, such as summer schoolsDepending on the funding source for your salary, there may be specific considerations for longer-term research and training activities while you are employed on a particular project. Check with the CSH Grant Executive Officer \(if you are paid by your advisor\) or with the CSH graduate program \(if you are paid by the program\).
 
 If you would like to apply for the the ÖAW International Communication program, you will not apply as an individutal but instead CSH will submit an application on your behalf. Please contact the CSH Grant Executive Officer as early as possible to discuss your application.
 
 ### university approval
-You ***might*** need to request a leave of absence from your university in the case of research visits or training programs ≥4 weeks. The policies governing leave are university-wide and independent of the particular program of study.
+If you want to request a leave of absence from your university in the case of research visits or training programs that last ≥4 weeks, please consult the policies governing leave at your university. These policies are university-wide and independent of the particular program of study.
 - [TUWien](https://www.tuwien.at/studium/studieren-an-der-tuw/beurlaubung)
 - [UniWien](https://doktorat.univie.ac.at/en/doctoralphd-programmes/leave-of-absence/)
 *more information coming soon*
