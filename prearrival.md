@@ -10,17 +10,6 @@ title: PRE-ARRIVAL
 -->
 - Students who must apply for a residency permit \("Aufenthaltstitel"\), i.e. those from outside the EU/EEA/CH, will recieve a hosting agreement with research appointment \("Aufnahmevereinbarung mit der Forschungseinrichtung"\) from CSH as a supplemental document to the standard contract. See RESIDENCY below.
 
-### ANMELDUNG EINES WOHNSITZ
-
-- All people settling in Austria must [register their residency](https://www.wien.gv.at/english/living-working/registration/) within 3 days of moving in. The process must be completed each time you change your residency.
-- The [Meldezettel form](https://www.wien.gv.at/verwaltung/meldeservice/pdf/meldezettel.pdf) must be delivered personally to one of the [Meldeservice office for your district](https://www.wien.gv.at/verwaltung/meldeservice/stellen.html). You can make an appointment online. You can change your residency online through ID-Austria, which requires registration in person at the local authority.
-- You may also need:
-  - birth certificate
-  - passport
-  - rental contract
-  - *if you wish to have your academic degree included in your name* you will need your degree
-- Once you are registered, you must de-register when you are leaving Austria permanently.
-
 
 ### REGISTRATION & RESIDENCY
 **For EU/EEA/CH citizens:**
