@@ -13,7 +13,10 @@
 <br />
 
 ### [PRE-ARRIVAL INFORMATION](prearrival.html)
-- registration, residency, documents to bring, living in Vienna, and more
+- residency, visas, documents to bring, living in Vienna, and more
+
+### [ARRIVAL INFORMATION](arrival.html)
+- registration, e-Card, ID Austria, more living in Vienna
 
 ### [PHD PROGRAMS](phdprograms.html)  🚧  under construction  🚧
 - enrollment & degree requirements of selected PhD/doctoral programs
