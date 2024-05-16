@@ -199,19 +199,76 @@ title: PHD PROGRAMS
 ### Med Uni
 ## [medical informatics, biostatistics & complex systems]()
 
-🚧  under construction  🚧
-
-- **CSH faculty:** Rudi Hanel • Peter Klimek • Stefan Thurner
-- **program director:** [Peter Klimek](https://www.complex-systems.meduniwien.ac.at/people/pklimek/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
-<!--
-- **SWS credits:** coursework \[ \] + dissertation \[ \]
-- **time to degree:** 4 semesters to complete course requirements
-- **thesis advisory committee:** 
-- **thesis committee meetings:** 
-- **dissertation evaluation:** 
-- **defense committee:** 
--->
+<details><summary><b>people</b></summary>
+  
+  - **CSH faculty:** Rudi Hanel • Peter Klimek • Stefan Thurner
+  - **program director:** [Peter Klimek](https://www.complex-systems.meduniwien.ac.at/people/pklimek/) • [Franz König](https://data-science.meduniwien.ac.at/en/institutes/medical-statistics/team/)
+
+  </details>
+<details><summary><b>timeline</b></summary>
+  
+  - YR1 • develop thesis research
+  - YR1 • enroll
+  - YR1 • coursework
+  - YR2 • coursework + thesis research
+  - YR2 • register your thesis project; defend thesis proposal
+  - YR3 • coursework + thesis research
+  - END • *≥4 mo prior to completion* • schedule tentative date for defense
+  - END • *≥4 mo prior to completion* • dissertation submitted to dean of studies; dissertation shared with reviewers 
+  - END • *~1 wk prior to completion:* • defense
+  - END • degree complete
+
+  </details>
+<details><summary><b>admissions + enrollment</b></summary>
+
+  - **steps:** preliminary agreement with advisor •  • admissions • registration • enrollment
+  - <details><summary><b>admissions</b></summary>
+
+    - **prerequisites:** Masters degree in related field
+    - **required documents:**
+    - **process:** 
+    - **deadlines:** 
+    - **registration:** 
+
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+    
+    - **required documents:** none
+    - **process:** 
+
+    </details>
+  </details>
+<details><summary><b>thesis advisory committee</b></summary>
+  
+  - **committee:** ≥3 members incl. advisor, 1 from different MUW dept
+  - **meetings:** annual meetings and written report
+  
+  </details>
+<details><summary><b>dissertation + defense</b></summary>
+  
+  - **dissertation evaluation:** 2 reviewers, 1 MUW + 1 external; all must have expertise related to topic
+  - **defense committee:** 2 examiners plus chair /(supervisor does not count/)
+
+  </details>
+<details><summary><b>degree requirements</b></summary>
+  
+  - **dissertation agreement:** acceptance by program coordinator
+  - **courses:** [see list](phdcourses.md#meduni--complexsystems)
+  - **publications:** 1 first-author peer-reviewed, or justification for exception
+  - **dissertation:** cummulative dissertation with permission; require 2 hardcopies
+  - **defense:** public presenation and defense to examination committee
+
+  </details>
+<details><summary><b>documents + forms</b></summary>
+  
+  - [thesis registration form](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/studienabteilung/studium/PhD/pdf/UN094_Thesis_Registration.pdf)
+  - [thesis proposal / work plan ](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/studienabteilung/studium/PhD/FormulareOktober2019/UN094_ThesisProposal_01_2020.docx)
+  - [thesis outline](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/studienabteilung/studium/PhD/pdf/Latest_authorized_Thesis_Outline_22.04.2024.pdf)
+  - [annual progress report](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/studienabteilung/studium/PhD/Dokumente_updated_2021/Progress_report_meeting_protcol.pdf) • mail to (phd@meduniwien.ac.at)[mailto:phd@meduniwien.ac.at]
+ 
+  </details>
+<br />
 
 <br />
 
@@ -487,7 +544,9 @@ title: PHD PROGRAMS
 
 ---
 ### Uni Wien
-NOTE: not a member of the Digital Innovation School
+
+*not a member of the Digital Innovation School*
+
 ## mathematics
 - **CSH faculty:** none
 
