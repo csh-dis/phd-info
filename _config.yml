@@ -19,10 +19,11 @@ header_pages:
   - arrival.md
   - phdprograms.md
   - phdcourses.md
+  - talks-visitors.md
   - visits-conferences.md
   - fellowships.md
-  - talks-visitors.md
 
+  
 markdown: GFM
 
 # Set to `true` to show excerpts on the homepage.
