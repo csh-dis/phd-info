@@ -2,7 +2,6 @@
 title: PHD PROGRAMS
 ---
 
-📣 if you find errors and/or have additional information that can be included, please submit [here](https://forms.gle/hSCwTBg2Z7U1YjGc7), on slack, or with a pull request
 
 ---
 **DIGITAL INNOVATION SCHOOL UNIVERSITIES** [**BOKU**socialEcology](phdprograms.md#boku) | [**BOKU**sustainability](phdprograms.md#boku) | [**CEU**networks](phdprograms.md#ceu) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems) | [**MedUni**ComplexSystems](phdprogram.md#med-uni) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz) | [**TUWien**Informatics](phdprogram.md#tu-wien) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu) **OTHER UNIVERSITIES** [**UniWien**Maths](phdprograms.md#uni-wien) | [**UniWien**Physics](phdprograms.md#uni-wien)
