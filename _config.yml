@@ -16,12 +16,12 @@ description: all things PhD
 # in order as they should show up.
 header_pages:
   - prearrival.md
+  - arrival.md
   - phdprograms.md
   - phdcourses.md
   - talks-visitors.md
   - visits-conferences.md
   - fellowships.md
-  - arrival.md
 
   
 markdown: GFM
