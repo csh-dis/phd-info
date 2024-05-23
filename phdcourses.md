@@ -442,7 +442,7 @@ required courses indicated with \*
 <br />
 
 ---
-The University of Vienna is *not* a member of the Digital Innovation School. The programs listed below are not eligible for DIS students.
+*The University of Vienna is **not** a member of the Digital Innovation School. The programs listed below are not available to DIS students.*
 
 ---
 ### Uni Wien • mathematics
