@@ -3,11 +3,9 @@ title: PRE-ARRIVAL
 ---
 
 ### CONTRACT
-- Doctoral students will recieve an employment contract for a PhD research position at the Austrian funding agency FWF standard of 30 hours per week and EUR 34500 per year before tax and other withholdings. Students will recieve health insurance and social benefits as well. You can estimate your income [here](https://bruttonetto.arbeiterkammer.at/).
+- Doctoral students will recieve an employment contract for a PhD research position at the Austrian funding agency FWF standard of 30 hours per week and EUR 37577 per year before tax and other withholdings. Students will recieve health insurance and social benefits as well. You can estimate your income [here](https://bruttonetto.arbeiterkammer.at/).
 - The initial contract is for 1 year, but students will usually have a commitment of 3 years in the formal offer letter, which should be sufficient for e.g. visa or residency purposes. The contract will either be issued by CSH or by one of our partner universities.
-<!--
 - Students are employed as researchers at CSH, with the expectation that they will use the research performed at CSH as their thesis research for the doctoral degree. The 30-hour per week contract reflects the average time throughout the duration of the contract that will be spent on the research project that is defined in the contract and/or will be defined in consultation with their advisor. Other time spent on research or academic requirements is considered part of academic training and education.
--->
 - Students who must apply for a residency permit \("Aufenthaltstitel"\), i.e. those from outside the EU/EEA/CH, will recieve a hosting agreement with research appointment \("Aufnahmevereinbarung mit der Forschungseinrichtung"\) from CSH as a supplemental document to the standard contract. See RESIDENCY below.
 
 
