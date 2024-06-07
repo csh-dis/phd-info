@@ -26,9 +26,12 @@
 
 ### [FELLOWSHIPS & JOBS](fellowships.html)
 - long-term fellowship opportunities for PhD/doctoral students and postdoctoral fellows \[jobs to come\]
-  
-### [CONFERENCES, SCHOOLS & RESEARCH VISITS](visits-conferences.html)
--  paid programs and funding opportunities for travel and short-term stays
+
+### [RESEARCH SUPPORT](research-support.html)
+- journals, books and \(eventually\) other things like computation
 
 ### [TALKS + VISITORS](talks-visitors.html)
 - guidelines for giving a talk or hosting a talk at CSH
+
+### [CONFERENCES, SCHOOLS & RESEARCH VISITS](visits-conferences.html)
+-  paid programs and funding opportunities for travel and short-term stays
