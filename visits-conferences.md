@@ -109,6 +109,7 @@ title: VISITS+CONFERENCES
 - [APS](https://march.aps.org/) • 2024: 3-8 Mar in Minneapolis US
 - [DPG](https://www.dpg-physik.de/aktivitaeten-und-programme/tagungen/fruehjahrstagungen) • 2024: 17-22 Mar in Berlin DE
 - [Complenet](https://complenet.weebly.com/) • 2024: 23-26 Apr in Exeter UK
+- [Austrian Computer Science Day](https://www.ocg.at/en/events/austrian-computer-science-day-2024) • 2024: 14 Jun at UniWien \(changes location annually\)
 - [NetSci](https://netsci2024.com/en) • 2024: 16-21 Jun in Quebec CA
 - [IC2S2](https://iscss.org/ic2s2/conference/) • 2024: 17-20 July in Philadelphia US
 - [JSM/AmStat](https://ww2.amstat.org/meetings/jsm/2024/index.cfm) • 2024: 3-8 Aug in Portland US
