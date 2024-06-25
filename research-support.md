@@ -10,7 +10,7 @@ CSH operates the GBD GPU computing server, which can be used to run less intensi
 CSH is eligible to run jobs on Austria's most powerful supercomputers as part of the [Vienna Scientific Cluster](https://vsc.ac.at//systems/). To run jobs at the VSC, **the project leader** \(i.e. your advisor\) must [request access](https://vsc.ac.at//access/project-application/). You will need to estimate the computational resources needed. Once a project is approved/accepted, the project leader gains access and creates user accounts. VSC projects have a lifetime of one year but are eligible for renewal. The [VSC wiki](https://wiki.vsc.ac.at/doku.php?id=start) contains documentation. 
 
 ### HARD DRIVE BACK-UPS
-CSH **does not** have a centralized system for hard drive back-ups. Nextcloud is available for back-up storage but is not compatible with some operating systems. Consult with your advisor to determine the best system for your needs.
+CSH **does not** have a centralized system for hard drive back-ups. Nextcloud is available for back-up storage – and is itself backed up daily at 21:00 – but it is not compatible with some operating systems. Consult with your advisor to determine the best system for your needs.
 
 ### JOURNALS
 Once you enroll at a university, you should gain access to relevant online journals through your university ID. For any papers that you cannot find through your library or otherwise free online, crowd-sourcing within CSH is a good option: Post your request in Slack \(often these end up in #general\).
