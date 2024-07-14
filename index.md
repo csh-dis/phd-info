@@ -8,9 +8,7 @@
 
 ---
 
-### NAVIGATION
-
-<br />
+## CONTENTS
 
 ### [PRE-ARRIVAL INFORMATION](prearrival.html)
 - residency, visas, documents to bring, living in Vienna, and more
