@@ -7,7 +7,7 @@ title: PHD PROGRAMS
 **DIGITAL INNOVATION SCHOOL UNIVERSITIES** [**BOKU**socialEcology](phdprograms.md#boku) | [**BOKU**sustainability](phdprograms.md#boku) | [**CEU**networks](phdprograms.md#ceu) | [**DonauUni**Migration](phdprograms.md#dona-uni-krems) | [**MedUni**ComplexSystems](phdprogram.md#med-uni) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz) | [**TUWien**Informatics](phdprogram.md#tu-wien) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu) **OTHER UNIVERSITIES** [**UniWien**Maths](phdprograms.md#uni-wien) | [**UniWien**Physics](phdprograms.md#uni-wien)
 
 ---
-
+<br />
 <details><summary><b>DEFINITIONS</b></summary>
   
   - **advisor / supervisor** : these terms may be used interchangeably to denote the faculty member who is directly guiding your thesis research and shares responsibility for your professional development as a researcher; at CSH, usually <b>advisor</b> is used
@@ -27,6 +27,7 @@ title: PHD PROGRAMS
     
 </details>
 
+<br />
 
 ---
 ### BOKU
@@ -186,15 +187,6 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### Donau Uni Krems
-## [migration studies]()
-
-🚧  under construction  🚧
-
-<br />
-
-
----
 ### Med Uni
 ## [medical informatics, biostatistics & complex systems]()
 
@@ -269,95 +261,6 @@ title: PHD PROGRAMS
   </details>
 <br />
 
-<br />
-
----
-### TU Wien
-## [informatics](https://informatics.tuwien.ac.at/doctoral/)
-- **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
-- **ECTS credits:** coursework \[18\] + dissertation \[162\]
-- **time to degree:** 4-6 semesters to complete course requirements
-<details><summary><b>people</b></summary>
-
-  - **CSH faculty:** Allan Hanbury • (more to come)
-  - **program director:** [Andreas Steininger](https://informatics.tuwien.ac.at/people/andreas-steininger)
-  - **program admin:** [Clarissa Schmid](https://informatics.tuwien.ac.at/people/clarissa-schmid)
-  - **dean of academic affairs:** [Hilda Tellioglu](https://informatics.tuwien.ac.at/people/hilda-tellioglu)
-  - **student organization:** [Fachschaft Doktorat](https://fsdr.at/)
-
-</details>
-<details><summary><b>timeline</b></summary>
-  
-  - YR1 • develop thesis research proposal
-  - YR1 • enroll
-  - YR1 • coursework: fundamental courses only (optional)
-  - YR1/YR2 • *6-18 mo after enrollment* • proficiency evaluation
-  - YR2 • *after successful proficiency evaluation* • dissertation agreement
-  - YR2 • coursework + thesis research
-  - YR3 • coursework + thesis research
-  - END • *≥4 mo before completion* • propose dissertation reviewers; submit v1 dissertation for review
-  - END • *≥2 mo before completion* • revise dissertation as needed; submit v2 dissertation for final evaluation; schedule tentative date for defense
-  - END • *≥1 mo before completion* • final dissertation publicly available 
-  - END • *~1 wk before completion* • defense
-  - END • degree complete
-
-</details>
-<details><summary><b>admissions + enrollment</b></summary>
-
-  - **steps:** confrimation from TUWien faculty advisor » application » enrollment
-  - <details><summary><b>admissions</b></summary>
-
-    - ***if you earned your Masters degree from TUWien or another AT uni, the process is [different](https://www.tuwien.at/studium/zulassung/zulassung-mit-oesterreichischer-vorbildung/doktoratsstudium)***
-    - **prerequisites:** Masters degree in computer science or related discipline, or equivalent degree, or special permission
-    - **required documents:** [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
-    - **process:** submit your application documents to admissions office » possible recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
-  
-    </details>
-  - <details><summary><b>enrollment</b></summary>
-  
-    - **required documents:** admissions letter • passport • residence permit \(if available\)
-    - **process:** application » [online registration](https://tiss.tuwien.ac.at/aufnahme/aufnahmeverfahren) » in-person registration
-
-</details>
-<details><summary><b>proficiency exam</b></summary>
-  
-  - **research proposal:** ~10 pages with ≥10 references, includes timeline and workplan
-  - **committee:** advisor + national expert \(AT uni\) + chair \(TU Wien Informatics but different section\) 
-  - **deadline:** 6-18 mo after enrollment
-  - **other:** the defense also includes review and approval of proposed coursework for the degree
-
-</details>
-<details><summary><b>thesis advisory committee</b></summary>
-  
-  - **committee:** same as proficiency evaluation committee
-  - **meetings:** should occur annually
-  - **progress reporting:** annual written reports to committee, 1-3 pages plus any publications
- 
-</details>
-<details><summary><b>dissertation + defense</b></summary>
-  
-  - **dissertation evaluation:** 2 international expert reviewers; takes 10-14 wks for entire process
-  - **defense committee:** proficiency evaluation committee plus dissertation reviewers
-
-</details>
-<details><summary><b>degree requirements</b></summary>
-  
-  - **proficiency evaluation:** passing evaluation 
-  - **courses:** [see list](phdcourses.md#tu-wien-informatics)
-  - **publications:** no requirements; advisor sets expectations
-  - **dissertation:** cummulative dissertation is acceptable with permissions; in English; require 2 hardcopies
-  - **defense:** public presenation and defense of the disseration to a defense committee 
-
-</details>
-<details><summary><b>documents + forms</b></summary>
-  
-  - [application for doctoral program](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf)
-  - [proficiency evaluation](https://informatics.tuwien.ac.at/study-services/forms/F-848.pdf)
-  - [dissertation agreement](https://informatics.tuwien.ac.at/study-services/forms/F-815.pdf)
-  - [nomination of dissertation reviewers](https://informatics.tuwien.ac.at/study-services/forms/F-876.pdf)
-  - [permission to defend](https://informatics.tuwien.ac.at/study-services/forms/F-868.pdf)
-
-</details> 
 <br />
 
 ---
@@ -450,13 +353,213 @@ title: PHD PROGRAMS
 <br />
 
 ---
+### TU Wien
+## [physics]()
+- **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
+- **ECTS credits:** coursework \[18\] + dissertation \[162\]
+- **time to degree:** 4-6 semesters to complete course requirements
+<!--
+
+<details><summary><b>people</b></summary>
+
+  - **CSH faculty:** none • contact [Gerhard Schütz](https://www.tuwien.at/phy/iap/biophysics/team/gerhard-schuetz)
+  - **program director:** [xxx](https://informatics.tuwien.ac.at/people/andreas-steininger)
+  - **program admin:** [xxx](https://informatics.tuwien.ac.at/people/clarissa-schmid)
+  - **dean of academic affairs:** [xxx](https://informatics.tuwien.ac.at/people/hilda-tellioglu)
+  - **student organization:** [Fachschaft Doktorat](https://fsdr.at/)
+
+</details>
+<details><summary><b>timeline</b></summary>
+  
+  - YR1 • develop thesis research proposal
+  - YR1 • enroll
+  - YR1 • coursework: fundamental courses only (optional)
+  - YR1/YR2 • *6-18 mo after enrollment* • proficiency evaluation
+  - YR2 • *after successful proficiency evaluation* • dissertation agreement
+  - YR2 • coursework + thesis research
+  - YR3 • coursework + thesis research
+  - END • *≥4 mo before completion* • propose dissertation reviewers; submit v1 dissertation for review
+  - END • *≥2 mo before completion* • revise dissertation as needed; submit v2 dissertation for final evaluation; schedule tentative date for defense
+  - END • *≥1 mo before completion* • final dissertation publicly available 
+  - END • *~1 wk before completion* • defense
+  - END • degree complete
+
+</details>
+<details><summary><b>admissions + enrollment</b></summary>
+
+  - **steps:** confrimation from TUWien faculty advisor » application » enrollment
+  - <details><summary><b>admissions</b></summary>
+
+    - ***if you earned your Masters degree from TUWien or another AT uni, the process is [different](https://www.tuwien.at/studium/zulassung/zulassung-mit-oesterreichischer-vorbildung/doktoratsstudium)***
+    - **prerequisites:** Masters degree in computer science or related discipline, or equivalent degree, or special permission
+    - **required documents:** [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
+    - **process:** submit your application documents to admissions office » possible recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
+  
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+  
+    - **required documents:** admissions letter • passport • residence permit \(if available\)
+    - **process:** application » [online registration](https://tiss.tuwien.ac.at/aufnahme/aufnahmeverfahren) » in-person registration
+
+</details>
+<details><summary><b>proficiency exam</b></summary>
+  
+  - **research proposal:** ~10 pages with ≥10 references, includes timeline and workplan
+  - **committee:** advisor + national expert \(AT uni\) + chair \(TU Wien Informatics but different section\) 
+  - **deadline:** 6-18 mo after enrollment
+  - **other:** the defense also includes review and approval of proposed coursework for the degree
+
+</details>
+<details><summary><b>thesis advisory committee</b></summary>
+  
+  - **committee:** same as proficiency evaluation committee
+  - **meetings:** should occur annually
+  - **progress reporting:** annual written reports to committee, 1-3 pages plus any publications
+ 
+</details>
+<details><summary><b>dissertation + defense</b></summary>
+  
+  - **dissertation evaluation:** 2 international expert reviewers; takes 10-14 wks for entire process
+  - **defense committee:** proficiency evaluation committee plus dissertation reviewers
+
+</details>
+<details><summary><b>degree requirements</b></summary>
+  
+  - **proficiency evaluation:** passing evaluation 
+  - **courses:** [see list](phdcourses.md#tu-wien-informatics)
+  - **publications:** no requirements; advisor sets expectations
+  - **dissertation:** cummulative dissertation is acceptable with permissions; in English; require 2 hardcopies
+  - **defense:** public presenation and defense of the disseration to a defense committee 
+
+</details>
+<details><summary><b>documents + forms</b></summary>
+  
+  - [application for doctoral program](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf)
+  - [proficiency evaluation](https://informatics.tuwien.ac.at/study-services/forms/F-848.pdf)
+  - [dissertation agreement](https://informatics.tuwien.ac.at/study-services/forms/F-815.pdf)
+  - [nomination of dissertation reviewers](https://informatics.tuwien.ac.at/study-services/forms/F-876.pdf)
+  - [permission to defend](https://informatics.tuwien.ac.at/study-services/forms/F-868.pdf)
+
+</details> 
+
+<br />
+
+--->
+
+## [informatics](https://informatics.tuwien.ac.at/doctoral/)
+- **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
+- **ECTS credits:** coursework \[18\] + dissertation \[162\]
+- **time to degree:** 4-6 semesters to complete course requirements
+<details><summary><b>people</b></summary>
+
+  - **CSH faculty:** Allan Hanbury • (more to come)
+  - **program director:** [Andreas Steininger](https://informatics.tuwien.ac.at/people/andreas-steininger)
+  - **program admin:** [Clarissa Schmid](https://informatics.tuwien.ac.at/people/clarissa-schmid)
+  - **dean of academic affairs:** [Hilda Tellioglu](https://informatics.tuwien.ac.at/people/hilda-tellioglu)
+  - **student organization:** [Fachschaft Doktorat](https://fsdr.at/)
+
+</details>
+<details><summary><b>timeline</b></summary>
+  
+  - YR1 • develop thesis research proposal
+  - YR1 • enroll
+  - YR1 • coursework: fundamental courses only (optional)
+  - YR1/YR2 • *6-18 mo after enrollment* • proficiency evaluation
+  - YR2 • *after successful proficiency evaluation* • dissertation agreement
+  - YR2 • coursework + thesis research
+  - YR3 • coursework + thesis research
+  - END • *≥4 mo before completion* • propose dissertation reviewers; submit v1 dissertation for review
+  - END • *≥2 mo before completion* • revise dissertation as needed; submit v2 dissertation for final evaluation; schedule tentative date for defense
+  - END • *≥1 mo before completion* • final dissertation publicly available 
+  - END • *~1 wk before completion* • defense
+  - END • degree complete
+
+</details>
+<details><summary><b>admissions + enrollment</b></summary>
+
+  - **steps:** confrimation from TUWien faculty advisor » application » enrollment
+  - <details><summary><b>admissions</b></summary>
+
+    - ***if you earned your Masters degree from TUWien or another AT uni, the process is [different](https://www.tuwien.at/studium/zulassung/zulassung-mit-oesterreichischer-vorbildung/doktoratsstudium)***
+    - **prerequisites:** Masters degree in computer science or related discipline, or equivalent degree, or special permission
+    - **required documents:** [application form](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf) • certificate of completion of Masters • degree transcript w/ ECTS • summary of Masters thesis • confirmation of supervision by TU Wien faculty • copy of your passport
+    - **process:** submit your application documents to admissions office » possible recommendations for supplementary coursework » TU Wien sends you an admission letter » enroll
+  
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+  
+    - **required documents:** admissions letter • passport • residence permit \(if available\)
+    - **process:** application » [online registration](https://tiss.tuwien.ac.at/aufnahme/aufnahmeverfahren) » in-person registration
+
+</details>
+<details><summary><b>proficiency exam</b></summary>
+  
+  - **research proposal:** ~10 pages with ≥10 references, includes timeline and workplan
+  - **committee:** advisor + national expert \(AT uni\) + chair \(TU Wien Informatics but different section\) 
+  - **deadline:** 6-18 mo after enrollment
+  - **other:** the defense also includes review and approval of proposed coursework for the degree
+
+</details>
+<details><summary><b>thesis advisory committee</b></summary>
+  
+  - **committee:** same as proficiency evaluation committee
+  - **meetings:** should occur annually
+  - **progress reporting:** annual written reports to committee, 1-3 pages plus any publications
+ 
+</details>
+<details><summary><b>dissertation + defense</b></summary>
+  
+  - **dissertation evaluation:** 2 international expert reviewers; takes 10-14 wks for entire process
+  - **defense committee:** proficiency evaluation committee plus dissertation reviewers
+
+</details>
+<details><summary><b>degree requirements</b></summary>
+  
+  - **proficiency evaluation:** passing evaluation 
+  - **courses:** [see list](phdcourses.md#tu-wien-informatics)
+  - **publications:** no requirements; advisor sets expectations
+  - **dissertation:** cummulative dissertation is acceptable with permissions; in English; require 2 hardcopies
+  - **defense:** public presenation and defense of the disseration to a defense committee 
+
+</details>
+<details><summary><b>documents + forms</b></summary>
+  
+  - [application for doctoral program](https://www.tuwien.at/fileadmin/Assets/dienstleister/studienabteilung/Formulare_2022/2022_Ansuchen_Dr_aufuellbar.pdf)
+  - [proficiency evaluation](https://informatics.tuwien.ac.at/study-services/forms/F-848.pdf)
+  - [dissertation agreement](https://informatics.tuwien.ac.at/study-services/forms/F-815.pdf)
+  - [nomination of dissertation reviewers](https://informatics.tuwien.ac.at/study-services/forms/F-876.pdf)
+  - [permission to defend](https://informatics.tuwien.ac.at/study-services/forms/F-868.pdf)
+
+</details> 
+
+<br />
+
+---
+### Uni Krems
+## [transforming]()
+
+
+
+## [migration studies]()
+
+🚧  under construction  🚧
+
+<br />
+
+---
 ### vetmed
 - **CSH faculty:** Amélie Desvars-Larrive
 - **program director:**
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[15\] + dissertation \[115\] + defense \[50\]
 - **time to degree:** 3-4 semesters to complete course requirements
+<details><summary><b>people</b></summary>
 
+  - **CSH faculty:** Amélie Desvars-Larrive
+  - **program director:** [xxx](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
+  - **program admin:** [xxxx](mailto:doctoraloffice@wu.ac.at)
+
+  </details>
 *more info to come*
 
 <br />
@@ -469,7 +572,7 @@ title: PHD PROGRAMS
 - **time to degree:** 6 semesters to complete course requirements
 <details><summary><b>people</b></summary>
 
-  - **CSH faculty:** Axel Polleres • Mark Strembeck
+  - **CSH faculty:** Axel Polleres • Anton Pichler
   - **program director:** [Rüdiger Frey](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
   - **program admin:** [Barbara Bauer • Daniela Eder • Antonia Lanner • Svetlana Kim](mailto:doctoraloffice@wu.ac.at)
 
@@ -541,13 +644,15 @@ title: PHD PROGRAMS
 
 <br />
 
+
+
 ---
 ### Uni Wien
 
 *not a member of the Digital Innovation School*
 
 ## mathematics
-- **CSH faculty:** none
+- **CSH faculty:** none • contact [Jörg Menche](https://ufind.univie.ac.at/de/person.html?id=102865)
 
 🚧  under construction  🚧
 
