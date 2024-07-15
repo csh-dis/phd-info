@@ -7,8 +7,6 @@ title: PHD COURSES
 **OTHER UNIVERSITIES** [**UniWien**Maths](phdprograms.md#uni-wien) | [**UniWien**Physics](phdprograms.md#uni-wien)
 
 ---
-
----
 ## BOKU
 ### social ecology
 #### REQUIRED COURSEWORK ECTS : 26   \[~ 10 courses\]
