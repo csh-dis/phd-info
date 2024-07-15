@@ -2,6 +2,12 @@
 title: PHD COURSES
 ---
 
+---
+**DIGITAL INNOVATION SCHOOL UNIVERSITIES** [**BOKU**socialEcology](phdcourses.md#boku) | [**BOKU**sustainability](phdcourses.md#boku) | [**CEU**networks](phdcourses.md#ceu) | [**MedUni**ComplexSystems](phdcourses.md#med-uni) | [**TUGraz**ComputerScience](phdcourses.md#tu-graz) | [**TUWien**Informatics](phdcourses.md#tu-wien) | [**TUWien**Physics](phdcourses.md#tu-wien) |[**UWK**Migration](phdcourses.md#uni-krems) | [**UWK**CohesiveSocieties](phdcourses.md#uni-krems) | [**vetmed**](phdcourses.md#vetmed) | [**WU**economics](phdcourses.md#wu) 
+
+**OTHER UNIVERSITIES** [**UniWien**Maths](phdprograms.md#uni-wien) | [**UniWien**Physics](phdprograms.md#uni-wien)
+
+---
 
 ---
 ## BOKU
