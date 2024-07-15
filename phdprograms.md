@@ -4,7 +4,7 @@ title: PHD PROGRAMS
 
 
 ---
-**DIGITAL INNOVATION SCHOOL UNIVERSITIES** [**BOKU**socialEcology](phdprograms.md#boku) | [**BOKU**sustainability](phdprograms.md#boku) | [**CEU**networks](phdprograms.md#ceu) | [**MedUni**ComplexSystems](phdprogram.md#med-uni) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz) | [**TUWien**Informatics](phdprogram.md#tu-wien) | [**TUWien**Physics](phdprogram.md#tu-wien) |[**UWK**Migration](phdprograms.md#uni-krems) | [**UWK**CohesiveSocieties](phdprograms.md#uni-krems) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu) 
+**DIGITAL INNOVATION SCHOOL UNIVERSITIES** [**BOKU**socialEcology](phdprograms.md#boku) | [**BOKU**sustainability](phdprograms.md#boku) | [**CEU**networks](phdprograms.md#ceu) | [**MedUni**ComplexSystems](phdprograms.md#med-uni) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz) | [**TUWien**Informatics](phdprograms.md#tu-wien) | [**TUWien**Physics](phdprogram.md#tu-wien) |[**UWK**migration](phdprograms.md#uni-krems) | [**UWK**cohesiveSocieties](phdprograms.md#uni-krems) | [**vetmed**](phdprograms.md#vetmed) | [**WU**economics](phdprograms.md#wu) 
 
 **OTHER UNIVERSITIES** [**UniWien**Maths](phdprograms.md#uni-wien) | [**UniWien**Physics](phdprograms.md#uni-wien)
 
