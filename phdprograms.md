@@ -657,9 +657,11 @@ title: PHD PROGRAMS
 
 
 ---
-### Uni Wien
+*The University of Vienna is not a member of the Digital Innovation School. The programs listed below are not available to DIS students.*
 
-*not a member of the Digital Innovation School*
+---
+
+### Uni Wien
 
 ## mathematics
 - **CSH faculty:** none • contact [Jörg Menche](https://ufind.univie.ac.at/de/person.html?id=102865)
