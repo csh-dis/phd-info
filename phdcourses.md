@@ -2,7 +2,6 @@
 title: PHD COURSES
 ---
 
----
 **DIGITAL INNOVATION SCHOOL UNIVERSITIES** [**BOKU**socialEcology](phdcourses.md#boku) | [**BOKU**sustainability](phdcourses.md#boku) | [**CEU**networks](phdcourses.md#ceu) | [**MedUni**ComplexSystems](phdcourses.md#med-uni) | [**TUGraz**ComputerScience](phdcourses.md#tu-graz) | [**TUWien**Informatics](phdcourses.md#tu-wien) | [**TUWien**Physics](phdcourses.md#tu-wien) |[**UWK**Migration](phdcourses.md#uni-krems) | [**UWK**CohesiveSocieties](phdcourses.md#uni-krems) | [**vetmed**](phdcourses.md#vetmed) | [**WU**economics](phdcourses.md#wu) 
 
 **OTHER UNIVERSITIES** [**UniWien**Maths](phdprograms.md#uni-wien) | [**UniWien**Physics](phdprograms.md#uni-wien)
@@ -133,9 +132,10 @@ title: PHD COURSES
 **Reading Group \[8 ECTS\]**
 
 <br />
+<br />
 
 ---
-## MedUniWien
+## MedUni
 ### medical informatics, biostatistics & complex systems
 #### REQUIRED COURSEWORK SWS : 24   \[~ 14 courses\]
 
@@ -188,68 +188,11 @@ required courses indicated with \*
 **Journal Club \[6 @ 1 SWS each\]**
 
 <br />
-
----
-### TU Wien • computer science / informatics
-#### REQUIRED COURSEWORK ECTS : 18 \[~ 6 courses\]
-
-<details><summary><b>Fundamental Courses [≥6 ECTS @ 3 each]</b></summary>
-
- - Philosophy of science
- - Innovation
- - Research methods in computer science
- - Fundamental research methods for doctoral students
- - Research and career planning for doctoral students
- - Being a researcher
- - From surviving to thriving: crafting your good professional life
-
-</details>
-
-<br />
-
-<details><summary><b>Area Courses [≤12 ECTS @ 3 each]</b></summary>
-
- - PhD primary area computer engineering intro
- - Foundations of data and knowledge systems
- - Introduction to media informatics and visual computing
- - Foundations of business informatics
- - Advanced topics in service-oriented and cloud computing
- - Model checking
- - Discrete mathematics and probability
- - Formal methods
- - Linear algebra
- - Algorithms
- - Shape from function methods
- - Differential equations
- - Computational geometry and topology
- - Computational complexity
- - Essence of cloud computing
- - Hybrid systems
- - Media understanding
- - Advanced concepts in distributed systems research
- - Abstract interpretation: from theory to applications
- - Generative software development
- - Computational photography and computational imaging
- - Future trends in imaging
- - Machine learning
- - Recommender systems
- - Description logics, ontology-based data access and reasoning
- - Design and analysis of quasi-experiments for causal inference
- - Advanced topics in web of data
- - Model predictive control
- - Computational complexity
- - Geometry & topology
- - Data warehousing and business intelligence
- - \...and more\...
-
-</details>
-
-<br />
 <br />
 
 ---
-
-### TU Graz • computer science / informatics
+## TU Graz
+### computer science / informatics
 #### REQUIRED COURSEWORK SSt : 14 \[~ 8 courses\]
 
 *uses semester hours (SSt) where 1 SSt ~ 1.5 ECTS*
@@ -306,8 +249,73 @@ required courses indicated with \*
 **Privatissimum / Seminar \[2 SSt\] \***
 
 <br />
+<br />
 
 ---
+## TU Wien
+### informatics
+#### REQUIRED COURSEWORK ECTS : 18 \[~ 6 courses\]
+
+<details><summary><b>Fundamental Courses [≥6 ECTS @ 3 each]</b></summary>
+
+ - Philosophy of science
+ - Innovation
+ - Research methods in computer science
+ - Fundamental research methods for doctoral students
+ - Research and career planning for doctoral students
+ - Being a researcher
+ - From surviving to thriving: crafting your good professional life
+
+</details>
+
+<br />
+
+<details><summary><b>Area Courses [≤12 ECTS @ 3 each]</b></summary>
+
+ - PhD primary area computer engineering intro
+ - Foundations of data and knowledge systems
+ - Introduction to media informatics and visual computing
+ - Foundations of business informatics
+ - Advanced topics in service-oriented and cloud computing
+ - Model checking
+ - Discrete mathematics and probability
+ - Formal methods
+ - Linear algebra
+ - Algorithms
+ - Shape from function methods
+ - Differential equations
+ - Computational geometry and topology
+ - Computational complexity
+ - Essence of cloud computing
+ - Hybrid systems
+ - Media understanding
+ - Advanced concepts in distributed systems research
+ - Abstract interpretation: from theory to applications
+ - Generative software development
+ - Computational photography and computational imaging
+ - Future trends in imaging
+ - Machine learning
+ - Recommender systems
+ - Description logics, ontology-based data access and reasoning
+ - Design and analysis of quasi-experiments for causal inference
+ - Advanced topics in web of data
+ - Model predictive control
+ - Computational complexity
+ - Geometry & topology
+ - Data warehousing and business intelligence
+ - \...and more\...
+
+</details>
+
+<br />
+<br />
+
+### physics
+<!--
+#### REQUIRED COURSEWORK ECTS : 18 \[~ 6 courses\]
+--->
+***coming soon!***
+
 ---
 ## Uni Krems
 ### migration studies
