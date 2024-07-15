@@ -4,7 +4,7 @@ title: PHD PROGRAMS
 
 
 ---
-**DIGITAL INNOVATION SCHOOL UNIVERSITIES** [**BOKU**socialEcology](phdprograms.md#boku) | [**BOKU**sustainability](phdprograms.md#boku) | [**CEU**networks](phdprograms.md#ceu) | [**MedUni**ComplexSystems](phdprogram.md#med-uni) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz) | [**TUWien**Informatics](phdprogram.md#tu-wien) | [**TUWien**Physics](phdprogram.md#tu-wien) |[**UWK**Migration](phdprograms.md#dona-uni-krems) | [**UWK**CohesiveSocieties](phdprograms.md#dona-uni-krems) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu) 
+**DIGITAL INNOVATION SCHOOL UNIVERSITIES** [**BOKU**socialEcology](phdprograms.md#boku) | [**BOKU**sustainability](phdprograms.md#boku) | [**CEU**networks](phdprograms.md#ceu) | [**MedUni**ComplexSystems](phdprogram.md#med-uni) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz) | [**TUWien**Informatics](phdprogram.md#tu-wien) | [**TUWien**Physics](phdprogram.md#tu-wien) |[**UWK**Migration](phdprograms.md#uni-krems) | [**UWK**CohesiveSocieties](phdprograms.md#uni-krems) | [**vetmed**](phdpgorams.md#vetmed) | [**WU**economics](phdprograms.md#wu) 
 
 **OTHER UNIVERSITIES** [**UniWien**Maths](phdprograms.md#uni-wien) | [**UniWien**Physics](phdprograms.md#uni-wien)
 
@@ -32,8 +32,8 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### BOKU
-## [social ecology](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/doctoral-school-social-ecology-dsse)
+## BOKU
+### [social ecology](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/doctoral-school-social-ecology-dsse)
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
 - **ECTS credits:** coursework \[26\] + dissertation \[154\]
 - **time to degree:** 4 semesters to complete course requirements
@@ -107,7 +107,7 @@ title: PHD PROGRAMS
 <br />
 
 
-## [transitions to sustainability](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/transitions-to-sustainability-t2s)
+### [transitions to sustainability](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/transitions-to-sustainability-t2s)
 - **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
 - **ECTS credits:** coursework \[30\] + dissertation \[150\]
 - **time to degree:** 4 semesters to complete course requirements
@@ -181,16 +181,16 @@ title: PHD PROGRAMS
 <br />
 
 ----
-### CEU
-## [network science](https://networkdatascience.ceu.edu/phd-program-network-science)
+## CEU
+### [network science](https://networkdatascience.ceu.edu/phd-program-network-science)
 
 🚧  under construction  🚧
 
 <br />
 
 ---
-### Med Uni
-## [medical informatics, biostatistics & complex systems]()
+## Med Uni
+### [medical informatics, biostatistics & complex systems]()
 
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 <details><summary><b>people</b></summary>
@@ -268,8 +268,8 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### TU Graz 
-## [computer science](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
+## TU Graz 
+### [computer science](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
 - **time to degree:** 4 semesters to complete course requirements
@@ -357,8 +357,8 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### TU Wien
-## [informatics](https://informatics.tuwien.ac.at/doctoral/)
+## TU Wien
+### [informatics](https://informatics.tuwien.ac.at/doctoral/)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[18\] + dissertation \[162\]
 - **time to degree:** 4-6 semesters to complete course requirements
@@ -446,12 +446,12 @@ title: PHD PROGRAMS
 
 <br />
 
-## [physics]()
+## [physics](https://www.tuwien.at/en/phy/itp)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[18\] + dissertation \[162\]
 - **time to degree:** 4-6 semesters to complete course requirements
-<!--
 
+<!--
 <details><summary><b>people</b></summary>
 
   - **CSH faculty:** none • contact [Gerhard Schütz](https://www.tuwien.at/phy/iap/biophysics/team/gerhard-schuetz)
@@ -537,9 +537,11 @@ title: PHD PROGRAMS
 <br />
 
 --->
+
+
 ---
-### Uni Krems
-## [technology, innovation & cohesive societies](https://www.donau-uni.ac.at/en/studies/phd-technology-innovation-and-cohesive-societies.html)
+## Uni Krems
+### [technology, innovation & cohesive societies](https://www.donau-uni.ac.at/en/studies/phd-technology-innovation-and-cohesive-societies.html)
 
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[42\] + dissertation \[133\] + defense \[5\]
@@ -559,7 +561,8 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### vetmed
+## vetmed
+
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[15\] + dissertation \[115\] + defense \[50\]
 - **time to degree:** 3-4 semesters to complete course requirements
@@ -575,8 +578,8 @@ title: PHD PROGRAMS
 <br />
 
 ---
-### WU
-## [economic & social sciences](https://www.wu.ac.at/en/programs/doctoral-phd-programs/phd-program-in-economic-and-social-sciences/overview/)
+## WU
+### [economic & social sciences](https://www.wu.ac.at/en/programs/doctoral-phd-programs/phd-program-in-economic-and-social-sciences/overview/)
 - **degree awarded:** Doctor of Philosophy (Ph.D.)
 - **ECTS credits:** coursework \[72\] + defense \[6\]
 - **time to degree:** 6 semesters to complete course requirements
@@ -661,16 +664,16 @@ title: PHD PROGRAMS
 
 ---
 
-### Uni Wien
+## Uni Wien
 
-## mathematics
+### mathematics
 - **CSH faculty:** none • contact [Jörg Menche](https://ufind.univie.ac.at/de/person.html?id=102865)
 
 🚧  under construction  🚧
 
 <br />
 
-## physics
+### physics
 - **CSH faculty:** Stefan Thurner
   
 🚧  under construction  🚧
