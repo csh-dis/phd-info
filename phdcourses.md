@@ -4,7 +4,8 @@ title: PHD COURSES
 
 
 ---
-### BOKU • social ecology
+## BOKU
+### social ecology
 #### REQUIRED COURSEWORK ECTS : 26   \[~ 10 courses\]
 
 <details><summary><b>Mandatory Courses [14 ECTS]</b></summary>
@@ -38,8 +39,7 @@ title: PHD COURSES
 <br />
 <br />
 
----
-### BOKU • transitions to sustainability
+### transitions to sustainability
 #### REQUIRED COURSEWORK ECTS : 30   \[~ 9 courses\]
 
 <details><summary><b>Mandatory Courses [18 ECTS]</b></summary>
@@ -79,7 +79,8 @@ title: PHD COURSES
 <br />
 
 ---
-### CEU • network science
+## CEU 
+### network science
 #### REQUIRED COURSEWORK ECTS : 52 \[~ 11 courses\]
 
 <details><summary><b>Mandatory Courses [20 ECTS @ 4 each]</b></summary>
@@ -128,77 +129,8 @@ title: PHD COURSES
 <br />
 
 ---
-### Donau Uni Krems • migration studies
-#### REQUIRED COURSEWORK ECTS : 30 \[~ 7 courses\]
-
-<details><summary><b> Required Courses [18 ECTS]</b></summary>
-
- - Interdisciplinary Research in Migration Studies
- - Advanced Quantitative Methods
- - Advanced Qualitative Methods
- - Migration Theories and Policies [6 ECTS]</li>
-
-</details>
-
-<br />
-
-<details><summary><b>Research Fields Elective Courses [8 ECTS @ 4 each]</b></summary>
- 
- - Law and migration
- - International management and organization theory
- - Globalization and Religion
- - Migration and communication
- - Migration and democracy
-
-</details>
-
-<br />
-
-<details><summary><b>Complementary Elective Courses [4 ECTS]</b></summary>
-
- - Scientific theory and ethics
- - Grant acquisition and project management
- - Inclusion and integration in digital network society
- - Scientific writing and dialectics
-
-</details>
-
-<br />
-<br />
-
----
-### Donau Uni Krems • technology, innovation & cohesive societies
-#### REQUIRED COURSEWORK ECTS : 30 \[~ 9 courses\]
-
-<details><summary><b>Required Courses [req 6]</b></summary>
- 
-- Science communication
-- Research design and research literacy
-- Systems theory and socio-technical change
-- Socio-technical innovation for cohesive societies
-- Computational social science
-- Doctrinal legal research and case-based methods
- 
-</details>
-
-<br />
-
-<details><summary><b>Elective Courses [req 3]</b></summary>
-
- - Research methods (mixed methods)
- - Special topics in policy-making
- - Scientific career building
- - Advanced quantitative research methods
- - Advanced qualitative research methods
- - Technology, transnational movements and the nation state</li>
-
-</details>
-
-<br />
-<br />
-
----
-### MedUniWien • medical informatics, biostatistics & complex systems
+## MedUniWien
+### medical informatics, biostatistics & complex systems
 #### REQUIRED COURSEWORK SWS : 24   \[~ 14 courses\]
 
 *uses semester weeks (SWS) where 1 SWS ~ 1.5 ECTS*
@@ -370,7 +302,78 @@ required courses indicated with \*
 <br />
 
 ---
-### vetmed
+---
+## Uni Krems
+### migration studies
+#### REQUIRED COURSEWORK ECTS : 30 \[~ 7 courses\]
+
+<details><summary><b> Required Courses [18 ECTS]</b></summary>
+
+ - Interdisciplinary Research in Migration Studies
+ - Advanced Quantitative Methods
+ - Advanced Qualitative Methods
+ - Migration Theories and Policies [6 ECTS]</li>
+
+</details>
+
+<br />
+
+<details><summary><b>Research Fields Elective Courses [8 ECTS @ 4 each]</b></summary>
+ 
+ - Law and migration
+ - International management and organization theory
+ - Globalization and Religion
+ - Migration and communication
+ - Migration and democracy
+
+</details>
+
+<br />
+
+<details><summary><b>Complementary Elective Courses [4 ECTS]</b></summary>
+
+ - Scientific theory and ethics
+ - Grant acquisition and project management
+ - Inclusion and integration in digital network society
+ - Scientific writing and dialectics
+
+</details>
+
+<br />
+<br />
+
+### technology, innovation & cohesive societies
+#### REQUIRED COURSEWORK ECTS : 30 \[~ 9 courses\]
+
+<details><summary><b>Required Courses [req 6]</b></summary>
+ 
+- Science communication
+- Research design and research literacy
+- Systems theory and socio-technical change
+- Socio-technical innovation for cohesive societies
+- Computational social science
+- Doctrinal legal research and case-based methods
+ 
+</details>
+
+<br />
+
+<details><summary><b>Elective Courses [req 3]</b></summary>
+
+ - Research methods (mixed methods)
+ - Special topics in policy-making
+ - Scientific career building
+ - Advanced quantitative research methods
+ - Advanced qualitative research methods
+ - Technology, transnational movements and the nation state</li>
+
+</details>
+
+<br />
+<br />
+
+---
+## vetmed
 #### REQUIRED COURSEWORK ECTS : 15 \[~ 5 courses\]
 
 *no required courses*
@@ -380,7 +383,8 @@ required courses indicated with \*
 <br />
 
 ---
-### Wirtschafts Uni • economic & social sciences
+## Wirtschafts Uni
+### economic & social sciences
 #### REQUIRED COURSEWORK ECTS : 72 \[~ 13 courses\]
 
 <details><summary><b> Compulsory Modules [36 ECTS @ 6 each]</b></summary>
