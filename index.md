@@ -33,3 +33,6 @@
 
 ### [CONFERENCES, SCHOOLS & RESEARCH VISITS](visits-conferences.html)
 -  paid programs and funding opportunities for travel and short-term stays
+
+### [INTERNSHIPS](internships.html)
+- internship programs
