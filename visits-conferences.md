@@ -148,20 +148,6 @@ title: VISITS+CONFERENCES
 📣 *See also [Bernoulli Society-Statistical Network Science](https://github.com/BS-SNS/Public/tree/main/conf) list of conferences and meetings*
 
 ---
-### INTERNSHIPS
-##### 🚧  under construction  🚧
-<details><summary><b><a href="https://jobs.careers.microsoft.com/global/en/job/1666413/Research-Intern---Quantum-Information-and-Computation">Microsoft Quantum graduate internship program</a></b></summary>
-
-  - *qualifications:* background in quantum algorithms, quantum chemistry, quantum error correction, quantum benchmarking, physics device modeling and characterization, or machine learning
-  - *location:* Redmond, Washington US
-  - *dates:* beginning spring-summer-fall 2024
-  - *apply by:* review begins Jan 2024
-  - *application:* cv • ≥2 letters of recommendation • research interests/expertise statement
-  - *contact:* [Leanne Dillon](mailto:LEDILLON@microsoft.com)
-
-  </details>
-
----
 ### FUNDING
 
 *see also [**RESEARCH VISITS**](visits-conferences.md#research-visits) above*
