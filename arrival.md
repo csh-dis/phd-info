@@ -15,8 +15,26 @@ should include:
   - passport
   - rental contract
   - *if you wish to have your academic degree included in your name* you will need your degree
-- Once you are registered, you must de-register when you are leaving Austria permanently.
+- **REMEMBER!** You must re-register every time you move and de-register when you leave Austria permanently.
 
+<br />
+
+### REGISTERING IN AUSTRIA
+
+**For EU/EEA/CH citizens:**
+
+<details><summary>registration certificate = <a href=https://www.oesterreich.gv.at/en/themen/menschen_aus_anderen_staaten/aufenthalt/4/2/Seite.120810.html> Anmeldebescheinigung</a></summary>
+
+  - [application form](https://www.bmi.gv.at/312/60a/files/2023/A/A_Antragsformular_Dokumentationen_fuer_EWR-Burger_Schweizer_und_Familienangehoerige_20231108.pdf)
+  - [application form instructions](https://www.bmi.gv.at/312/60a/files/2023/A/A_Anmeldebescheinigung_Lichtbildausweis_Aufenthaltskarte_Daueraufenthalt_-_Erklaerung_bf_20231101.pdf)
+  - ID or passport
+  - proof of health insurance
+  - proof of financial means, e.g. that you will be paid
+  - employment contract
+  - fee: EUR 15
+
+  </details>
+  
 ### E-CARD / SOCIAL SECURITY
 
 - Within a few days of beginning your employment, you will recieve an invitation letter for a specific date and time to complete the registration for your e-Card.
