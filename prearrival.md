@@ -163,6 +163,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - Many landlords will require a deposit (*Kaution*) equivalent to three-months rent.
   - Wohnunggeminschaften \(WGs\) are a popular co-housing option
   - Vienna's districts 9, 7, 6, 4, and more central parts of 5 and 2 are popular with students.
+  - CSH will be located in the 3. district as of the end of 2024: Metternichgasse 8
 
   </details>
 
