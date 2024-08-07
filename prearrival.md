@@ -8,24 +8,42 @@ title: PRE-ARRIVAL
 - Students are employed as researchers at CSH, with the expectation that they will use the research performed at CSH as their thesis research for the doctoral degree. The 30-hour per week contract reflects the average time throughout the duration of the contract that will be spent on the research project that is defined in the contract and/or will be defined in consultation with their advisor. Other time spent on research or academic requirements is considered part of academic training and education.
 - Students who must apply for a residency permit \("Aufenthaltstitel"\), i.e. those from outside the EU/EEA/CH, will recieve a hosting agreement with research appointment \("Aufnahmevereinbarung mit der Forschungseinrichtung"\) from CSH as a supplemental document to the standard contract. See RESIDENCY below.
 
+<br />
 
-### REGISTRATION & RESIDENCY
-**For EU/EEA/CH citizens:**
-<details><summary>registration certificate = <a href=https://www.oesterreich.gv.at/en/themen/menschen_aus_anderen_staaten/aufenthalt/4/2/Seite.120810.html> Anmeldebescheinigung</a></summary>
+### VISUM D & SETTLEMENT PERMIT
 
-  - [application form](https://www.bmi.gv.at/312/60a/files/2023/A/A_Antragsformular_Dokumentationen_fuer_EWR-Burger_Schweizer_und_Familienangehoerige_20231108.pdf)
-  - [application form instructions](https://www.bmi.gv.at/312/60a/files/2023/A/A_Anmeldebescheinigung_Lichtbildausweis_Aufenthaltskarte_Daueraufenthalt_-_Erklaerung_bf_20231101.pdf)
-  - ID or passport
+**For non-EU/EEA citizens:**
+
+If you are not a EU/EEA citizen and need a settlement permit \(*Aufenthaltstitel*\) to live and work in Austria, your first goal is the *Niederlassungsbewilligung - Forscher*, i.e. *Niederlassungsbewilligung - Forscher* is a category of the *Aufenthaltstitel*. 
+
+Depending on your current location, timeline, and the availability – or not – of an Austrian consulate, you can apply directly for the *Niderlassungsbewilligung - Forscher* or you can first apply for the *Visum D* and apply for the *Niderlassungsbewilligung - Forscher* once you arrive in Vienna. The *Visum D* allows you to commence employment and tends to be a faster process than the *Niderlassungsbewilligung - Forscher*, which can take up to 6 months. 
+
+You can apply for the *Visum D* at Austrian consulates, embassies, or at third-party companies that provide this service on behalf of the government. You can apply for the *Niderlassungsbewilligung - Forscher* at Austrian consulates, embassies, or at a MA 35 office inside the country.
+
+The *Niederlassungsbewilligung - Forscher* must be renewed every 12 months. You must submit your request for renewal sufficiently in advance of the end date of your permit.
+
+Once you have been in Austria as *Niederlassungsbewilligung - Forscher* for two years, you are eligible to apply for the Rot-Weiß-Rot Karte-Plus, which can be valid for 36 months and offers access to the job market.
+
+<br />
+
+<details><summary>visum D <a href=https://www.bmeia.gv.at/en/travel-stay/entrance-and-residence-in-austria/visa> </a></summary>
+
+  - [application form](https://www.bmeia.gv.at/fileadmin/user_upload/Zentrale/Reise_Aufenthalt/Einreise_und_Aufenthalt/Form_D_1_-_Antragsformular_nationales_Visum.doc)
+  - *Aufnahmevereinbarung mit der Forschungseinrichtung*
+  - offer letter or contract
+  - passport, photocopy plus original
   - proof of health insurance
-  - proof of financial means, e.g. that you will be paid
-  - employment contract
-  - fee: EUR 15
+  - proof of financial means, e.g. bank statements past 3 months, offer letter
+  - proof of accommodations in Austria
+  - travel booking confirmation
+  - fee: EUR 150
+  - **NOTE:** consider applying for the maximum stay \(6 months\) and multiple entries
 
   </details>
 
+<br />
 
-**For non-EU/EEA citizens:**
-<details><summary>residence permit as researcher = <a href=https://www.oesterreich.gv.at/themen/menschen_aus_anderen_staaten/aufenthalt/3/2/Seite.120312.html> Niederlassungsbewilligung - Forscher</a></summary>
+<details><summary>settlement permit as researcher = <a href=https://www.oesterreich.gv.at/themen/menschen_aus_anderen_staaten/aufenthalt/3/2/Seite.120312.html> Niederlassungsbewilligung - Forscher</a></summary>
 
   - [application form](https://www.bmi.gv.at/312/60a/files/2023/B/B_Antragsformular_Aufenthaltstitel_fuer_Drittstaatsangehoerige_20231101.pdf)
   - [application form instructions](https://www.bmi.gv.at/312/60a/files/2023/B/11_Niederlassungsbewilligung_Forscher_-_Erklaerung_bf_20231101.pdf)
@@ -40,6 +58,7 @@ title: PRE-ARRIVAL
 
   </details>
 
+<br />
 
 ### COST OF LIVING
 The Ministry of the Interior expects a single person to earn at least EUR 1218 per month to live in AT. Even with a modest lifestyle, you should plan on EUR 1000 per month. The following costs are *very approximate estimates* of a monthly budget.
@@ -51,6 +70,8 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
 - Household & personal supplies: EUR 30 per month
 - Gym memberships, sports & wellness fees: EUR 40-100 per month
 - Movies, music & theater : EUR 10-50 per show
+
+<br />
 
 ### TRAVEL
 🚧  under construction  🚧
@@ -128,6 +149,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   </details>
 <br />
 
+
 ### ACCOMMODATIONS
 <details><summary><b>Good to know</b></summary>
 
@@ -138,10 +160,9 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - Vienna's districts 9, 7, 6, 4, and more central parts of 5 and 2 are popular with students.
 
   </details>
-<br />
 
 #### Finding a place
-*for everyone:*
+*for anyone:*
   - [Willhaben.at](https://www.willhaben.at/iad/immobilien)
   - [OeAD](https://www.oeadstudenthousing.at/en/)
   - [Mein Wien Apartment](https://www.mein-wien-apartment.at/en/Apartment-in-Vienna)
