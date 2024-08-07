@@ -2,10 +2,7 @@
 title: ARRIVAL
 ---
 
-<!--
-should include:
 
--->
 ### ANMELDUNG EINES WOHNSITZ
 
 - All people settling in Austria must [register their residency](https://www.wien.gv.at/english/living-working/registration/) within 3 days of moving in. The process must be completed each time you change your residency.
@@ -15,18 +12,39 @@ should include:
   - passport
   - rental contract
   - *if you wish to have your academic degree included in your name* you will need your degree
-- Once you are registered, you must de-register when you are leaving Austria permanently.
+- **REMEMBER!** You must re-register every time you move and de-register when you leave Austria permanently.
+
+<br />
+
+### REGISTERING IN AUSTRIA
+
+**For EU/EEA/CH citizens:**
+
+<details><summary>registration certificate = <a href=https://www.oesterreich.gv.at/en/themen/menschen_aus_anderen_staaten/aufenthalt/4/2/Seite.120810.html> Anmeldebescheinigung</a></summary>
+
+  - [application form](https://www.bmi.gv.at/312/60a/files/2023/A/A_Antragsformular_Dokumentationen_fuer_EWR-Burger_Schweizer_und_Familienangehoerige_20231108.pdf)
+  - [application form instructions](https://www.bmi.gv.at/312/60a/files/2023/A/A_Anmeldebescheinigung_Lichtbildausweis_Aufenthaltskarte_Daueraufenthalt_-_Erklaerung_bf_20231101.pdf)
+  - ID or passport
+  - proof of health insurance
+  - proof of financial means, e.g. that you will be paid
+  - employment contract
+  - fee: EUR 15
+
+  </details>
+
+<br />
 
 ### E-CARD / SOCIAL SECURITY
 
 - Within a few days of beginning your employment, you will recieve an invitation letter for a specific date and time to complete the registration for your e-Card.
 - You will need:
-  - your AT social security number: XXXX DD MM YYYY with your birthdate
+  - your AT social security number: XXXX DD MM YYYY \(where the date is your birthdate\)
   - passport or other legal photo identification
   - passport photo
   - appointment letter
 - You can get a photo from the local authorities. Book an appointment [online](https://citizen.bmi.gv.at/at.gv.bmi.fnsetvweb-p/etv/public/Terminvereinbarung). It is also fine to bring a photo if you already have one.
 
+<br />
 
 ### ID-AUSTRIA
 
