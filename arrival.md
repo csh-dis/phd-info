@@ -2,10 +2,7 @@
 title: ARRIVAL
 ---
 
-<!--
-should include:
 
--->
 ### ANMELDUNG EINES WOHNSITZ
 
 - All people settling in Austria must [register their residency](https://www.wien.gv.at/english/living-working/registration/) within 3 days of moving in. The process must be completed each time you change your residency.
@@ -41,7 +38,7 @@ should include:
 
 - Within a few days of beginning your employment, you will recieve an invitation letter for a specific date and time to complete the registration for your e-Card.
 - You will need:
-  - your AT social security number: XXXX DD MM YYYY with your birthdate
+  - your AT social security number: XXXX DD MM YYYY \(where the date is your birthdate\)
   - passport or other legal photo identification
   - passport photo
   - appointment letter
