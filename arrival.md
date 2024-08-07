@@ -34,7 +34,9 @@ should include:
   - fee: EUR 15
 
   </details>
-  
+
+<br />
+
 ### E-CARD / SOCIAL SECURITY
 
 - Within a few days of beginning your employment, you will recieve an invitation letter for a specific date and time to complete the registration for your e-Card.
@@ -45,6 +47,7 @@ should include:
   - appointment letter
 - You can get a photo from the local authorities. Book an appointment [online](https://citizen.bmi.gv.at/at.gv.bmi.fnsetvweb-p/etv/public/Terminvereinbarung). It is also fine to bring a photo if you already have one.
 
+<br />
 
 ### ID-AUSTRIA
 
