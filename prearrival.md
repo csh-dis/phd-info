@@ -73,6 +73,11 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
 
 <br />
 
+### SOCIAL SECURITY \(see [ARRIVAL](arrival.md)\)
+
+
+<br />
+
 ### TRAVEL
 🚧  under construction  🚧
 <details><summary><b>Arriving to Vienna</b></summary>
