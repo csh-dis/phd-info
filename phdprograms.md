@@ -40,6 +40,7 @@ title: PHD PROGRAMS
 <details><summary><b>people</b></summary>
   
   - **CSH faculty:** none
+  - **other potential supervisors:** Veronika Gaube • Helmut Haberl • Melanie Pichler
   - **program director:** [Helmut Haberl](https://boku.ac.at/en/personen/person/179B1532340EF82F)
 
   </details> 
@@ -184,6 +185,8 @@ title: PHD PROGRAMS
 ## CEU
 ### [network science](https://networkdatascience.ceu.edu/phd-program-network-science)
 
+NOTE: CEU PhD programs are designed as 4-year programs and thus are **not possible** within a typical 3-year CSH doctoral student contract. CEU PhD programs can only be considered for students in the Digital Innovation School Graduate Program in Complexity Science beginning studies in 2025 or later. 
+
 🚧  under construction  🚧
 
 <br />
@@ -251,7 +254,7 @@ title: PHD PROGRAMS
   - **dissertation agreement:** acceptance by program coordinator
   - **courses:** [see list](phdcourses.md#meduni--complexsystems)
   - **publications:** 1 first-author peer-reviewed, or justification for exception
-  - **dissertation:** cummulative dissertation with permission; require 2 hardcopies
+  - **dissertation:** cummulative dissertation; upload digital copy
   - **defense:** public presenation and defense to examination committee
 
   </details>
@@ -452,6 +455,7 @@ title: PHD PROGRAMS
 - **time to degree:** 4-6 semesters to complete course requirements
 
 <!--
+
 <details><summary><b>people</b></summary>
 
   - **CSH faculty:** none • contact [Gerhard Schütz](https://www.tuwien.at/phy/iap/biophysics/team/gerhard-schuetz)
@@ -569,11 +573,45 @@ title: PHD PROGRAMS
 <details><summary><b>people</b></summary>
 
   - **CSH faculty:** Amélie Desvars-Larrive
-  - **program director:** [xxx](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
-  - **program admin:** [xxxx](mailto:doctoraloffice@wu.ac.at)
+  - **program director:** [xxx]()
+  - **program admin:** [xxxx]()
 
   </details>
-*more info to come*
+ </details>
+
+<details><summary><b>timeline</b></summary>
+  
+  - YR1 • develop thesis research proposal
+  - YR1 • \(see below\) enroll
+  - YR1 • coursework + thesis research
+  - YR2 • coursework + thesis research 
+  - YR3 • coursework + thesis research
+  - END • \(≥5 weeks before completion\) establish doctoral committee
+  - END • \(≥4 weeks before completion\) submit dissertation
+  - END • \(~1 week before completion\) defense + evaluation of dissertation
+  - END • degree complete
+
+  </details>
+<details><summary><b>admissions + enrollment</b></summary>
+
+  - **steps** *if **not** grant-funded:* develop a project » request project approval » find a supervisor » apply for admissions » enroll
+  - **steps** *if grant-funded:* apply for admissions » enroll
+ 
+  - <details><summary><b>non-grant funded project approval</b></summary>
+    
+    - **required documents:** [project application](https://www.vetmeduni.ac.at/fileadmin/v/z/lehre/zulassung/2024_25/2024-07-PhD_Project_Application.pdf)
+    - **process:** sent to [phd.office@vetmeduni.ac.at](mailto:phd.office@vetmeduni.ac.at) for approval by the Rektorat *before applying for admission*
+
+    </details>
+  
+  - <details><summary><b>admissions</b></summary>
+
+    - **prerequisites:** masters/diploma degree in a relevant field
+    - **required documents:** [PhD application & supervision agreement](https://www.vetmeduni.ac.at/fileadmin/v/z/lehre/zulassung/2024_25/2024-07-PhD_Application_Supervision.pdf) • certificate of completion and/or transcripts of Masters degree • cv of applicant • cv of supervisor \(if external to vetmed\)
+    - **process:** send all documents as pdf to [phd.office@vetmeduni.ac.at](mailto:phd.office@vetmeduni.ac.at)
+  
+    </details>
+  </details>
 
 <br />
 
@@ -586,6 +624,7 @@ title: PHD PROGRAMS
 <details><summary><b>people</b></summary>
 
   - **CSH faculty:** Axel Polleres • Anton Pichler
+  - **other potential supervisors:** Rüdiger Frey • Sigrid Stagl • Kavita Surana
   - **program director:** [Rüdiger Frey](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
   - **program admin:** [Barbara Bauer • Daniela Eder • Antonia Lanner • Svetlana Kim](mailto:doctoraloffice@wu.ac.at)
 
@@ -599,7 +638,7 @@ title: PHD PROGRAMS
   - YR2 • coursework + thesis research 
   - YR3 • coursework + thesis research
   - END • \(≥5 weeks before completion\) establish doctoral committee
-  - END • \(≥4 weeks before completion\) submit dissertation to ____?
+  - END • \(≥4 weeks before completion\) submit dissertation to ____
   - END • \(~1 week before completion\) defense + evaluation of dissertation
   - END • degree complete
 
