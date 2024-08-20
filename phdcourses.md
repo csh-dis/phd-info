@@ -83,6 +83,8 @@ title: PHD COURSES
 
 ---
 ## CEU 
+NOTE: CEU PhD programs are designed as 4-year programs and thus are not possible within a typical 3-year CSH doctoral student contract. CEU PhD programs can only be considered for students in the Digital Innovation School Graduate Program in Complexity Science beginning studies in 2025 or later.
+
 ### network science
 #### REQUIRED COURSEWORK ECTS : 52 \[~ 11 courses\]
 
