@@ -160,13 +160,10 @@ required courses indicated with \*
 
 <details><summary><b>Basic Courses [4 SWS @ 1 each]</b></summary>
  
- - Mathematical basics & key algorithms
- - Advanced statisticsal procedures and theoretical concepts
- - Statistical methods in medical research
- - Computer science in clinical settings
- - Information systems, eHealth and decision support
- - Image and singal analysis, modeling, simulation and bioinformatics
- - Complex systems and artificial intelligence</li>
+ - Complex Systems I & II
+ - Biostatistics: medical applications & current methodological challenges
+ - Machine Learning & AI
+ - Selected Topics in Medical Information Management & Outcomes Research</li>
 
 </details>
 
@@ -174,11 +171,9 @@ required courses indicated with \*
 
 <details><summary><b>Thesis Seminars [4 SWS @ 2 each]</b></summary>
  
- - Bioinformatics, biosimulation and complex systems
- - Medical informaiton management and decision support in clinical settings
- - Computer vision
- - Prognosis research
- - Statistical issues in platform trials
+ - Bioinformatics, medical information management & complex systems
+ - Computer Vision
+ - Biostatistics methods in medical research
  - Artificial intelligence</li>
 
 </details>
