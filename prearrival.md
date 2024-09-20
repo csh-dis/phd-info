@@ -170,12 +170,12 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
 #### Finding a place
 *for anyone:*
   - [Willhaben.at](https://www.willhaben.at/iad/immobilien)
-  - [OeAD](https://www.oeadstudenthousing.at/en/)
   - [Mein Wien Apartment](https://www.mein-wien-apartment.at/en/Apartment-in-Vienna)
   - [WG Gesucht](https://www.wg-gesucht.de/)
   - [Der Standard](https://immobilien.derstandard.at/) 
 
 *for students:*
+  - [OeAD](https://www.oeadstudenthousing.at/en/)
   - [home4students](https://www.home4students.at/en/)
   - [STUWO Studentenheim](http://www.stuwo.at/studentenheime/)
   - [Viennabase homes for students](https://viennabase.at/)
@@ -188,6 +188,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - [Dorm Auge Gottes](http://auge-gottes.at/)
   - [BOKUheim](http://www.bokuheim.at/)
   - [Apartmenthaus vetmed](http://www.vetheim.at/)
+  - [Studentenheim Don Bosco](https://studentenheim.donbosco.at/en/)
 
  
 
