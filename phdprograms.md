@@ -626,7 +626,7 @@ NOTE: CEU PhD programs are designed as 4-year programs and thus are **not possib
   - **CSH faculty:** Axel Polleres • Anton Pichler
   - **other potential supervisors:** Rüdiger Frey • Sigrid Stagl • Kavita Surana
   - **program director:** [Rüdiger Frey](https://www.wu.ac.at/statmath/faculty-staff/faculty/rfrey/)
-  - **program admin:** [Barbara Bauer • Daniela Eder • Antonia Lanner • Svetlana Kim](mailto:doctoraloffice@wu.ac.at)
+  - **program admin:** [Barbara Bauer • Daniela Eder • Antonia Lanner • Svetlana Kim](mailto:doctoraloffice@wu.ac.at) *Contact the admin team with any questions or if you are unsure.*
 
   </details>
 <details><summary><b>timeline</b></summary>
@@ -649,8 +649,8 @@ NOTE: CEU PhD programs are designed as 4-year programs and thus are **not possib
   - <details><summary><b>admissions</b></summary>
 
     - **prerequisites:** masters/diploma degree in a relevant field
-    - **required documents:** [application form](https://www.wu.ac.at/fileadmin/wu/h/prospective/admission/international/Ansuchen_Zul.DR_01.pdf) • certificate of completion of prior degree • degree transcripts w/ ECTS, exams • cv • exposé (1-2 pg extended abstract) • confirmation of supervision • German proficiency • passport
-    - **process:** send all documents as pdf to [doktorat.zulassung@wu.ac.at](mailto:doktorat.zulassung@wu.ac.at) » [pre-register](https://bach.wu.ac.at/bachapp/kdcs/33173/SUI?R=1704206153) » bring original documents to admissions office
+    - **required documents:** [application form](https://www.wu.ac.at/fileadmin/wu/h/prospective/admission/international/Ansuchen_Zul.DR_01.pdf) • certificate of completion of prior degree • degree transcripts w/ ECTS, exams • cv • exposé (1-2 pg extended abstract) • confirmation of supervision • passport
+    - **process:** find your exact requirements by [starting your application online](https://www.wu.ac.at/en/programs/application-and-admission) • send documents as pdf to [doktorat.zulassung@wu.ac.at](mailto:doktorat.zulassung@wu.ac.at) » [pre-register](https://bach.wu.ac.at/bachapp/kdcs/33173/SUI?R=1704206153) » bring original documents to admissions office
   
     </details>
   </details>

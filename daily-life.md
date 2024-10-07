@@ -2,6 +2,25 @@
 title: DAILY LIFE
 ---
 
+### RENTING AN APARTMENT
+🚧  under construction  🚧
+
+- The two types of rental contracts you will see are fixed-term \("befristet"\) and unlimited \("unbefristet"\). Unlimited contracts are generally in the renter's interest and can be cancelled by the renter with advance notice.
+- Be aware of whether the rent includes utilities \("warm"\) or not \("kalt"\). Utilities and Betriebskosten can reach EUR 180-250 per month.
+- The security deposit \("Kaution"\) for a rental is typically 2 months' rent, though some apartments now ask for 3 months' or more.
+- For Altbau, there is a limit to the rent that should be charged. You can find the calculator for Vienna [here.](https://mietervereinigung.at/706/MietzinsrechnerModule) \(most apartments are category A\)
+
+<details><summary><b>Good to know</b></summary>
+
+  - Renters are legally obliged to carry household insurance \(Haushaltsversicherung\)
+    - You can compare coverage and costs at [Durchblicker](https://durchblicker.at/haushaltsversicherung/vergleich/haushalt/wohnungsdaten)
+    - If insurance is included in your rental contract, check the policy to see what is covered, i.e. some things like burgelry might not be included
+    - Most policies are issued for several years. You can cancel with a month's notice from the third year – or if you are changing apartments. Generally you will need to cancel in writing.
+    - Most insure all of your belongings in the apartment as well as damange to the apartment caused by fire, water, storms, etc.
+  
+
+</details>
+
 ### TRAVEL
 🚧  under construction  🚧
 <br />
