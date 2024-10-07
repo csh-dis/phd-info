@@ -6,9 +6,9 @@ title: DAILY LIFE
 🚧  under construction  🚧
 
 - The two types of rental contracts you will see are fixed-term \("befristet"\) and unlimited \("unbefristet"\). Unlimited contracts are generally in the renter's interest and can be cancelled by the renter with advance notice.
-- 
-- For Altbau, there is a limit to the rent that should be charged. You can find the calculator for Vienna [here](https://mietervereinigung.at/706/MietzinsrechnerModule) \(most apartments are category A\)
-- 
+- Be aware of whether the rent includes utilities \("warm"\) or not \("kalt"\). Utilities and Betriebskosten can reach EUR 180-250 per month.
+- The security deposit \("Kaution"\) for a rental is typically 2 months' rent, though some apartments now ask for 3 months' or more.
+- For Altbau, there is a limit to the rent that should be charged. You can find the calculator for Vienna [here.](https://mietervereinigung.at/706/MietzinsrechnerModule) \(most apartments are category A\)
 
 <details><summary><b>Good to know</b></summary>
 
