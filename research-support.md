@@ -2,6 +2,17 @@
 title: RESEARCH SUPPORT
 ---
 
+### DATA
+*A non-comprehensive list of common data resources* 
+- [**CSH Data Atlas**](https://data.csh.ac.at/#/) • *not all datasets are available directly in the Data Atlas; log in with your CSH credentials, minus the csh.ac.at domain*
+- **Statistik Austria**
+  - [Microdata Catalogue](https://www.statistik.at/amdc-data/#/product)
+  - [Open.data](https://data.statistik.gv.at/web/catalog.jsp)
+- [**European Data**](https://data.europa.eu/en)
+- [**UN Data**](http://data.un.org/Explorer.aspx)
+- [**IMF Microeconomic & Financial Data**](https://data.imf.org/?sk=388dfa60-1d26-4ade-b505-a05a558d9a42)
+- []() • *access through e.g. TU Wien account*
+
 ### SCIENTIFIC COMPUTING
 *Each project may have specific server requirements depending on the data and level of security needed. Consult with your advisor to understand the specifics of the data and/or server you will be using.*
 #### For "everyday" computing
