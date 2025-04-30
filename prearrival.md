@@ -175,6 +175,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
   - [Der Standard](https://immobilien.derstandard.at/) 
 
 *for students:*
+  - [wihast](https://www.wihast.at/en/)
   - [OeAD](https://www.oeadstudenthousing.at/en/)
   - [home4students](https://www.home4students.at/en/)
   - [STUWO Studentenheim](http://www.stuwo.at/studentenheime/)
