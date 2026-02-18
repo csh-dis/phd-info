@@ -170,6 +170,7 @@ The Ministry of the Interior expects a single person to earn at least EUR 1218 p
 #### Finding a place
 *for anyone:*
   - [Willhaben.at](https://www.willhaben.at/iad/immobilien)
+  - [Airbnb](https://www.airbnb.com/s/Vienna/)
   - [Mein Wien Apartment](https://www.mein-wien-apartment.at/en/Apartment-in-Vienna)
   - [WG Gesucht](https://www.wg-gesucht.de/)
   - [Der Standard](https://immobilien.derstandard.at/) 
