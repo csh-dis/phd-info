@@ -4,7 +4,7 @@ title: PHD PROGRAMS
 
 
 ---
-**DIGITAL INNOVATION SCHOOL UNIVERSITIES** [**BOKU**socialEcology](phdprograms.md#boku) | [**BOKU**sustainability](phdprograms.md#boku) | [**CEU**networks](phdprograms.md#ceu) | [**MedUni**ComplexSystems](phdprograms.md#meduni) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz) | [**TUWien**Informatics](phdprograms.md#tu-wien) | [**TUWien**Physics](phdprogram.md#tu-wien) |[**UWK**migration](phdprograms.md#uni-krems) | [**UWK**cohesiveSocieties](phdprograms.md#uni-krems) | [**vetmed**](phdprograms.md#vetmed) | [**WU**economics](phdprograms.md#wu) 
+**DIGITAL INNOVATION SCHOOL UNIVERSITIES** [**BOKU**socialEcology](phdprograms.md#boku) | [**BOKU**sustainability](phdprograms.md#boku) | [**CEU**networks](phdprograms.md#ceu) | [**IT:U**computationalX](phdprograms.md#itu) | [**MedUni**ComplexSystems](phdprograms.md#meduni) | [**TUGraz**Architecture](phdprograms.md#tu-graz) | [**TUGraz**ComputerScience](phdprograms.md#tu-graz) | [**TUGraz**Physics](phdprograms.md#tu-graz) | [**TUWien**Informatics](phdprograms.md#tu-wien) | [**TUWien**Physics](phdprogram.md#tu-wien) | [**UWK**migration](phdprograms.md#uni-krems) | [**UWK**cohesiveSocieties](phdprograms.md#uni-krems) | [**vetmed**](phdprograms.md#vetmed) | [**WU**economics](phdprograms.md#wu) 
 
 **OTHER UNIVERSITIES** [**UniWien**Maths](phdprograms.md#uni-wien) | [**UniWien**Physics](phdprograms.md#uni-wien)
 
@@ -34,7 +34,7 @@ title: PHD PROGRAMS
 ---
 ## BOKU
 ### [social ecology](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/doctoral-school-social-ecology-dsse)
-- **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
+- **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\) or Doctor of Philosophy \(*Ph.D.*\)
 - **ECTS credits:** coursework \[26\] + dissertation \[154\]
 - **time to degree:** 4 semesters to complete course requirements
 <details><summary><b>people</b></summary>
@@ -109,7 +109,7 @@ title: PHD PROGRAMS
 
 
 ### [transitions to sustainability](https://boku.ac.at/en/docservice/doctoral-studies/doktoratsschulen/transitions-to-sustainability-t2s)
-- **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\)
+- **degree awarded:** Doctor of Natural Resources and Life Sciences \(*Dr.nat.techn.*\) or Doctor of Social and Economic Sciences \(*Dr.rer.soc.oec.*\) or Doctor of Philosophy \(*Ph.D.*\)
 - **ECTS credits:** coursework \[30\] + dissertation \[150\]
 - **time to degree:** 4 semesters to complete course requirements
 <details><summary><b>people</b></summary>
@@ -190,6 +190,89 @@ NOTE: CEU PhD programs are designed as 4-year programs and thus are **not possib
 🚧  under construction  🚧
 
 <br />
+
+----
+## IT:U
+### [computationalX](https://it-u.at/en/study-program/doctoral-school/phd-computational-x/)
+
+NOTE: The IT:U ComputationalX program is designed as a 4-year program, but there is a 3-year variant. Both can be considered for students in the DIS.
+
+- **degree awarded:** Doctor of Philosophy (Ph.D.)
+<details><summary><b>people</b></summary>
+  
+  - **CSH faculty:** Frank Neffke
+  - **program director:** 
+  - **director of curriculum:** 
+  - **PhD office:** [study@it-u.at](mailto:study@it-u.at)
+  </details>
+
+🚧  under construction  🚧
+<!---
+<details><summary><b>timeline</b></summary>
+  
+  - YR1 • develop thesis research
+  - YR1 • enroll
+  - YR1 • coursework
+  - YR2 • coursework + thesis research
+  - YR2 • register your thesis project; defend thesis proposal
+  - YR3 • coursework + thesis research
+  - END • *≥4 mo prior to completion* • schedule tentative date for defense
+  - END • *≥4 mo prior to completion* • dissertation submitted to dean of studies; dissertation shared with reviewers 
+  - END • *~1 wk prior to completion:* • defense
+  - END • degree complete
+
+  </details>
+<details><summary><b>admissions + enrollment</b></summary>
+
+  - **steps:** preliminary agreement with advisor •  • admissions • registration • enrollment
+  - <details><summary><b>admissions</b></summary>
+
+    - **prerequisites:** Masters degree in related field
+    - **required documents:**
+    - **process:** 
+    - **deadlines:** 
+    - **registration:** 
+
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+    
+    - **required documents:** none
+    - **process:** 
+
+    </details>
+  </details>
+<details><summary><b>thesis advisory committee</b></summary>
+  
+  - **committee:** ≥3 members incl. advisor, 1 from different MUW dept
+  - **meetings:** annual meetings and written report
+  
+  </details>
+<details><summary><b>dissertation + defense</b></summary>
+  
+  - **dissertation evaluation:** 2 reviewers, 1 MUW + 1 external; all must have expertise related to topic
+  - **defense committee:** 2 examiners plus chair \(supervisor does not count\)
+
+  </details>
+<details><summary><b>degree requirements</b></summary>
+  
+  - **dissertation agreement:** acceptance by program coordinator
+  - **courses:** [see list](phdcourses.md#meduni--complexsystems)
+  - **publications:** 1 first-author peer-reviewed, or justification for exception
+  - **dissertation:** cummulative dissertation; upload digital copy
+  - **defense:** public presenation and defense to examination committee
+
+  </details>
+<details><summary><b>documents + forms</b></summary>
+  
+  - [thesis registration form](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/studienabteilung/studium/PhD/pdf/UN094_Thesis_Registration.pdf)
+  - [thesis proposal / work plan ](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/studienabteilung/studium/PhD/FormulareOktober2019/UN094_ThesisProposal_01_2020.docx)
+  - [thesis outline](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/studienabteilung/studium/PhD/pdf/Latest_authorized_Thesis_Outline_22.04.2024.pdf)
+  - [annual progress report](https://www.meduniwien.ac.at/web/fileadmin/content/serviceeinrichtungen/studienabteilung/studium/PhD/Dokumente_updated_2021/Progress_report_meeting_protcol.pdf) • mail to (phd@meduniwien.ac.at)[mailto:phd@meduniwien.ac.at]
+ 
+  </details>
+<br />
+<br />
+--->
 
 ---
 ## MedUni
@@ -272,13 +355,20 @@ NOTE: CEU PhD programs are designed as 4-year programs and thus are **not possib
 
 ---
 ## TU Graz 
+### [architecture](https://www.tugraz.at/en/fakultaeten/architektur/study/phd)
+- **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) 
+- **ECTS credits:** 
+- **time to degree:** 6 semesters to complete course requirements
+
+🚧  under construction  🚧
+  
 ### [computer science](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
 - **time to degree:** 4 semesters to complete course requirements
 <details><summary><b>people</b></summary>
   
-  - **CSH faculty:** Fariba Karimi • Jana Lasser
+  - **CSH faculty:** Fariba Karimi
   - **program director:** [Daniel Gruss](https://www.iaik.tugraz.at/person/daniel-gruss/)
   - **program admin:** [Nina Zöchling](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=106266DC3B744225&pPersonenGruppe=3)
   - **student representative:** [Alina Herderich](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C9D36D0F62CA4747&pPersonenGruppe=3)
@@ -359,7 +449,98 @@ NOTE: CEU PhD programs are designed as 4-year programs and thus are **not possib
   
 <br />
 
----
+### [physics](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
+- **degree awarded:** Doctor of Natural Sciences \(*Dr.rer.nat.*\)
+- **ECTS credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
+- **time to degree:** 4-6 semesters to complete course requirements
+
+🚧  under construction  🚧
+
+<!---
+<details><summary><b>people</b></summary>
+  
+  - **CSH faculty:** none
+  - **program director:** [Daniel Gruss](https://www.iaik.tugraz.at/person/daniel-gruss/)
+  - **program admin:** [Nina Zöchling](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=106266DC3B744225&pPersonenGruppe=3)
+  - **student representative:** [Alina Herderich](https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=C9D36D0F62CA4747&pPersonenGruppe=3)
+
+  </details>
+<details><summary><b>timeline</b></summary>
+
+  - YR1 • develop thesis research proposal
+  - YR1/YR2 • *\(end of YR1 or start YR2\)* enroll
+  - YR2 • *\(6-9 months after enrollment\)* qualifying exam
+  - YR2 • upon successful qualifying exam: educational agreement
+  - YR2 • coursework + thesis research 
+  - YR3 • coursework + thesis research
+  - END • *\(≥3 months prior to completion\)* dissertation reviewers proposed to doctoral school for approval; draft shared with approved reviewers \* must be ≥2 months prior to submission of final dissertation
+  - END • *\(≥2 months prior to completion\)* schedule tentative date for defense
+  - END • *\(≥1 months prior to completion\)* final dissertation submitted to TU Graz; final dissertation shared with reviewers 
+  - END • *\(~2 weeks prior to completion\)* defense
+  - END • degree complete
+
+  </details>
+<details><summary><b>admissions + enrollment</b></summary>
+
+  - **steps:** confirmation from TUGraz faculty advisor » pre-registration » admissions
+  - <details><summary><b>admissions</b></summary>
+
+    - **prerequisites:** masters degree in natural sciences or engineering, or equivalent degree, or with special consideration bachelors degree
+    - **required documents:** certificate of completion of prior degree • degree transcripts w/ ECTS, exams • cv • confirmation of supervision by TUGraz faculty 
+    - **process:** online [pre-registration](https://www.tugraz.at/fileadmin/user_upload/tugrazInternal/Studium/Studieren_an_der_TU_Graz/Anmeldung_und_Zulassung/Guideline_StudentPreRegistration_EN.pdf) » submit all required documents to [Registrar](mailto:studienservice@tugraz.ac.at) » ?
+      
+    </details>
+  - <details><summary><b>enrollment</b></summary>
+
+    - **required documents:**
+    - **process:**
+    
+    </details>
+
+  </details>
+<details><summary><b>qualifying exam</b></summary>
+
+  - **research \(thesis\) proposal:** format specified by the advisor
+  - **qualifying exam:** public presentation and defense of the thesis proposal to a thesis advisory committee
+  - **committee:** advisor plus ≥2 faculty with habilitation or equivalent
+  - **deadline:** approx. 6-9 months after enrolling, must be ≤1 year
+  - **other:** should have a manuscript submitted and have presented at a seminar or conference
+
+  </details>
+<details><summary><b>thesis advisory committee</b></summary>
+
+  - **committee:** expected to be same or similar to qualifying exam
+  - **meetings:** ≥1 per year
+  - **progress reports:** not required
+
+  </details>
+<details><summary><b>dissertation + defense</b></summary>
+
+  - **dissertation evaluation:** 2-3\* reviewers, at least one from outside TU Graz; all must have habilitation or equivalent
+  - **defense committee:** 3-5\* members; dean of studies in computer science or their apointee serves as chair; at least one member from outside TU Graz; all must have habilitation of equivalent
+  - *\* 3 and 5 members are required if student has not met the publication requirement*
+
+  </details>
+<details><summary><b>degree requirements</b></summary>
+  
+  - **qualifying exam:** passing evaluation
+  - **courses:** [see list](phdcourses.md#tu-graz--computer-science--informatics)
+  - **publications:** 3 first-author publications or conference proceedings; can be in any journal/discipline but with the goal top quartile (Q1) journals or high impact-factor journals; *exceptions are possible*
+  - **dissertation:** cummulative dissertation is acceptable with permission of the advisor; in English; require 2 hardcopies
+  - **defense:** public presenation \(30 min\)and defense of the disseration to a defense committee \(60 min\); 
+
+  </details>
+<details><summary><b>documents + forms</b></summary>
+  
+  - [preliminary thesis supervision agreement](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Forms/Doctoral_programme_confirmation_of_supervision_sample_E.docx)
+  - [curriculum](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Information/Doctoral_Schools/Curriculum_Doctoral_Programme_Natural_Sciences_as_of_1.10.2020.pdf)
+  - [statutes *will be updated 2024*](https://www.tugraz.at/fileadmin/public/Studierende_und_Bedienstete/Information/Doctoral_Schools/Statutes_Doctoral_School_Computer_Science_English_1.10.2020.pdf)
+ 
+  </details>
+--->
+
+<br />
+
 ## TU Wien
 ### [informatics](https://informatics.tuwien.ac.at/doctoral/)
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
