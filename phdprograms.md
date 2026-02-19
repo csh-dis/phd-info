@@ -449,7 +449,7 @@ NOTE: The IT:U ComputationalX program is designed as a 4-year program, but there
   
 <br />
 
-### [physics](https://www.tugraz.at/fakultaeten/csbme/studies/computer-science/doctorate-phd)
+### [physics](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/doctoral-programmes/doctoral-school-of-physics/)
 - **degree awarded:** Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[14\] + dissertation \[?\] + defense \[?\]
 - **time to degree:** 4-6 semesters to complete course requirements
@@ -634,6 +634,8 @@ NOTE: The IT:U ComputationalX program is designed as a 4-year program, but there
 - **degree awarded:** Doctor of Technical Sciences \(*Dr.techn.*\) or Doctor of Natural Sciences \(*Dr.rer.nat.*\)
 - **ECTS credits:** coursework \[18\] + dissertation \[162\]
 - **time to degree:** 4-6 semesters to complete course requirements
+
+🚧  under construction  🚧
 
 <!--
 
